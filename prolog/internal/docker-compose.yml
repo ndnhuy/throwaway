@@ -1,0 +1,25 @@
+version: "3.9"
+services:
+
+  ##Database config
+  mysql:
+    image: mysql:8.0.31
+    ports:
+      - "6606:3306"
+    environment:
+      - MYSQL_DATABASE=delivery
+      - MYSQL_ROOT_PASSWORD=olah123
+    profiles:
+      - db
+      - mysql
+    volumes:
+      - .db/mysql:/var/lib/mysql
+  redis:
+    image: redis
+    ports:
+      - "6380:6379"
+    environment:
+      - MODE=standalone
+    profiles:
+      - db
+      - redis
