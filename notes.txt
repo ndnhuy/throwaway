@@ -1,0 +1,123 @@
+OLAH
+
+Command 
+Generate SSL certificatekeytool -genkeypair -alias tomcat -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore keystore.p12 -validity 3650 -storepass password 
+Verifykeytool -list -v -storetype pkcs12 -keystore keystore.p12 
+mysql - root/admin123Bizzi: minh.dang@casalana.vn / Olah123 
+katana: ndnhuy2504@gmail.com/Nguyendatnhathuy123
+—Swtich java version 
+export JAVA_HOME=`/usr/libexec/java_home -v 17.0.3` 
+—docker command 
+// build and run containerdocker compose --profile db up -d 
+docker compose --profile service up -d 
+docker compose --profile discovery up -d 
+
+// force re-create
+docker compose --profile service up -d --build --force-recreate
+
+// remove imagesdocker rmi olah-platform_olah-expense-center olah-platform_olah-user-center olah-platform_olah-auth-server olah-platform_olah-api-gateway 
+// stop alldocker stop $(docker ps -a -q) 
+// stop containersdocker stop $(docker ps -a -f name=api -f name=auth -f name=user -q) 
+// remove containersdocker rm $(docker ps -a -f name=api -f name=auth -f name=user -q) 
+docker build -t olah-api-gateway .docker run --net mynet123 --ip 172.18.0.6 --name olah-api-gateway -p 19900:9900 -p 29251:9251 -d olah-api-gateway 
+docker build -t olah-auth-server .docker run --net mynet123 --ip 172.18.0.7 --name olah-auth-server -p 9251:9251 -p 18000:8000 -d olah-auth-server 
+docker build -t olah-user-center .docker run --net mynet123 --ip 172.18.0.8 --name olah-user-center -p 19251:9251 -p 17000:7000 -d olah-user-center 
+￼
+ 
+￼
+ 
+docker pull mysql:5.7.38docker run --name olah-mysql --net mynet123 --ip 172.18.0.3 -e MYSQL_ROOT_PASSWORD=olah123 -p 6603:3306 -d mysql:5.7.38 
+docker pull redisdocker run --name olah-redis --net mynet123 --ip 172.18.0.4 -p 16379:6379 -d redis 
+docker run --net mynet123 --ip 172.18.0.5 --name nacos-quick -e MODE=standalone -p 8848:8848 -p 9848:9848 -d nacos/nacos-server:2.0.2 
+—redis command 
+// sh to docker serverdocker exec -it olah-platform-olah-redis-1 sh 
+// list keys 
+redis-cli KEYS * 
+// check expire 
+redis-cli ttl <key> 
+// monitor
+redis-cli MONITOR
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+1aef8bd0631444cf884f3935678c70dc
+
+This may also be found at: /Users/huy.n/.jenkins/secrets/initialAdminPassword
+
+— K8s —
+kubectl get po
+kubectl delete pod hello-k8s
+watch kubectl describe po hello-k8s
+
+
+// run a container in a pod
+kubectl run hello-k8s --image=ndnhuy2504/hello-k8s --port=8080
+
+// show log kubelet
+journalctl -xeu kubelet
+
+// ssh to ec2
+cd Documents/sideproject/cicd/k8s
+
+ssh -i "k8s.olah.vn.pem" ubuntu@ec2-18-142-120-194.ap-southeast-1.compute.amazonaws.com
+ssh -i "gw.dev.olah.vn" ubuntu@ec2-3-0-144-102.ap-southeast-1.compute.amazonaws.com
+ 
+// debug cluster
+https://kubernetes.io/docs/tasks/debug/debug-cluster/
+
+// get stats
+kubectl get --raw "/api/v1/nodes/ip-172-31-11-58/proxy/stats/summary"
+
+// setup olah on ec2
+* create subnet
+    *  docker network create --subnet=172.18.0.0/24 olah
+* mysql
+    *  docker run --name olah-mysql --net olah --ip 172.18.0.3 -e MYSQL_ROOT_PASSWORD=olah123 -p 6603:3306 -d mysql:5.7.38 
+* consul
+    *  docker run --name consul-server --net olah --ip 172.18.0.5 -v /olah-discovery/consul/server.json:/consul/config/server.json:ro --restart=always -p 8500:8500 -p 8600:8600/tcp -p 8600:8600/udp -d hashicorp/consul:1.13.1 agent
+* redis
+    *  docker run --name olah-redis --net olah --ip 172.18.0.4 -p 16379:6379 -d redis
+* gateway
+    *  docker run --name olah-api-gateway --net olah --ip 172.18.0.6 -p 19900:9900 -p 29251:9251 -d ndnhuy2504/olah-api-gateway:latest
+    *  docker run --name hello-node --net olah --ip 172.18.0.6 -p 19900:9900 -p 29251:9251 -d registry.k8s.io/echoserver:1.4
+    * 
+
+---
+
+----
+
+
+deploy ui to ec2
+1. build image
+    * docker build -t olah-ui .   
+    * run image 
+        * docker run --name olah-ui -it -p 3000:80 olah-ui
+2. push to dockerhub
+    * docker tag olah-ui ndnhuy2504/olah-ui
+    * docker push ndnhuy2504/olah-ui
+
+
+INSERT INTO `sale_order` (`id`, `tenant_id`, `order_no`, `customer_id`, `source`, `order_created_date`, `delivery_date`, `picked_date`, `location_id`, `status`, `production_status`, `delivery_status`, `currency`, `total`, `total_tax`, `total_discount`, `total_need_pay`, `total_paid`, `total_delivery_fee`, `need_delivery`, `need_tax`, `is_cod`, `created_at`, `updated_at`, `created_by`, `updated_by`)
+VALUES
+	('16403082298733404160403', 11, 'SO-0003', '16351245240075591680401', 'Web', '2023-03-23 02:08:07', '2023-03-26 02:08:07', '2023-03-26 02:08:07', '16249864191412838400507', 'ready_to_delivery', '', '', '', 6990000.00, 0.00, 0.00, 6990000.00, 0.00, 0.00, 0, 0, 1, '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
+
+INSERT INTO `sale_order_item` (`id`, `tenant_id`, `sale_order_id`, `product_id`, `quantity`, `tax_rate_id`, `price_per_unit`, `total`, `tax`, `discount`, `status`, `manufacturing_order_id`, `need_manufacturing`, `manufacturing_notes`, `manufacturing_documents`, `created_at`, `updated_at`, `created_by`, `updated_by`)
+VALUES
+	('16403082299446435840405', 11, '16403082298733404160403', '16384872107999272960601', 1, '16305735129702113280504', 6990000.00, 6990000.00, 0.00, 0.00, 'in_stock', '', 0, '', '', '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
+
+INSERT INTO `sale_order_address` (`id`, `tenant_id`, `sale_order_id`, `address_type`, `full_name`, `phone`, `line_1`, `line_2`, `city`, `district`, `zip`, `country`, `created_at`, `updated_at`, `created_by`, `updated_by`)
+VALUES
+	('16434714935956643840404', 18, '16403082298733404160403', 'shipping', 'Minh', '0934354554', '67 Mai Chí Thọ, An Phú', '', 'Hà Nội', 'Huyện Sóc Sơn', '', '', '2023-04-05 04:31:53', '2023-04-15 09:25:12', '16434687221715476480301', '16239516269034905600301');
+
+INSERT INTO `sale_order_extension` (`id`, `tenant_id`, `notes`, `shipping_notes`, `ecommerce_order_platform`, `ecommerce_order_id`, `ecommerce_store_name`, `created_at`, `updated_at`, `created_by`, `updated_by`)
+VALUES
+	('16434714935537213440403', 18, '', '', '', '', '', '2023-04-05 04:31:53', '2023-04-15 09:25:12', '16434687221715476480301', '');
+
+
+INSERT INTO `sale_customer` (`id`, `email`, `name`, `company`, `phone`, `comment`, `currency`, `customer_code`, `customer_group_id`, `tax_code`, `invoice_address`, `invoice_email`, `is_personal`, `is_active`, `created_at`, `updated_at`, `deleted_at`, `created_by`, `updated_by`, `tenant_id`)
+VALUES
+	('16351245240075591680401', 'minh@olah.vn', 'Minh VIP 6', '', '0945878758', '', '', 'CUST_0002', '16351244568945008640509', '', '', '', 1, 1, '2023-03-13 03:44:00', '2023-04-06 17:46:52', NULL, '16239516269034905600301', '16239516269034905600301', 18);
+
+
+export PATH="$PATH:$(go env GOPATH)/bin"
