@@ -100,11 +100,11 @@ deploy ui to ec2
 
 INSERT INTO `sale_order` (`id`, `tenant_id`, `order_no`, `customer_id`, `source`, `order_created_date`, `delivery_date`, `picked_date`, `location_id`, `status`, `production_status`, `delivery_status`, `currency`, `total`, `total_tax`, `total_discount`, `total_need_pay`, `total_paid`, `total_delivery_fee`, `need_delivery`, `need_tax`, `is_cod`, `created_at`, `updated_at`, `created_by`, `updated_by`)
 VALUES
-	('16403082298733404160403', 11, 'SO-0003', '16351245240075591680401', 'Web', '2023-03-23 02:08:07', '2023-03-26 02:08:07', '2023-03-26 02:08:07', '16249864191412838400507', 'ready_to_delivery', '', '', '', 6990000.00, 0.00, 0.00, 6990000.00, 0.00, 0.00, 0, 0, 1, '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
+	('16403082298733404160403', 18, 'SO-0003', '16351245240075591680401', 'Web', '2023-03-23 02:08:07', '2023-03-26 02:08:07', '2023-03-26 02:08:07', '16249864191412838400507', 'ready_to_delivery', '', '', '', 6990000.00, 0.00, 0.00, 6990000.00, 0.00, 0.00, 0, 0, 1, '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
 
 INSERT INTO `sale_order_item` (`id`, `tenant_id`, `sale_order_id`, `product_id`, `quantity`, `tax_rate_id`, `price_per_unit`, `total`, `tax`, `discount`, `status`, `manufacturing_order_id`, `need_manufacturing`, `manufacturing_notes`, `manufacturing_documents`, `created_at`, `updated_at`, `created_by`, `updated_by`)
 VALUES
-	('16403082299446435840405', 11, '16403082298733404160403', '16384872107999272960601', 1, '16305735129702113280504', 6990000.00, 6990000.00, 0.00, 0.00, 'in_stock', '', 0, '', '', '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
+	('16403082299446435840405', 18, '16403082298733404160403', '16384872107999272960601', 1, '16305735129702113280504', 6990000.00, 6990000.00, 0.00, 0.00, 'in_stock', '', 0, '', '', '2023-03-27 11:02:12', '2023-03-27 11:02:12', '16239516269034905600301', '');
 
 INSERT INTO `sale_order_address` (`id`, `tenant_id`, `sale_order_id`, `address_type`, `full_name`, `phone`, `line_1`, `line_2`, `city`, `district`, `zip`, `country`, `created_at`, `updated_at`, `created_by`, `updated_by`)
 VALUES

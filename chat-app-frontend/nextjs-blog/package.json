@@ -6,13 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "date-fns": "^2.29.3",
-    "gray-matter": "^4.0.3",
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "remark": "^14.0.2",
-    "remark-html": "^15.0.1",
     "@emotion/cache": "^11.10.5",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
@@ -20,7 +13,15 @@
     "@mui/lab": "^5.0.0-alpha.103",
     "@mui/material": "^5.10.9",
     "@mui/system": "^5.10.9",
-    "axios": "^1.1.2"
+    "axios": "^1.1.2",
+    "date-fns": "^2.29.3",
+    "gray-matter": "^4.0.3",
+    "next": "^13.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-webcam": "^7.0.1",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
   },
   "devDependencies": {
     "@types/node": "18.11.18",
