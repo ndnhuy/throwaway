@@ -49,6 +49,9 @@ func newSegment(dir string, baseOffset uint64, c Config) (*segment, error) {
 	return s, nil
 }
 
+// append record into the store and index
+// firstly we assign nextOffset to the record, this offset will be stored together with the record,
+// then the record will be appended into the store and the index
 func (s *segment) Append(record *api.Record) (offset uint64, err error) {
 	curr := s.nextOffset
 	record.Offset = curr
