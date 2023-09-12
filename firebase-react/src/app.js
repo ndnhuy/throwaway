@@ -4,6 +4,7 @@ import Signup from "./page/signup.js";
 import Login from "./page/login.js";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Routes, Route } from "react-router-dom";
+import VisxExample from "./visx.tsx";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
         <section>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/visx" element={<VisxExample />} />
             <Route path="/signup" element={<Signup />} />
             <Route path="/login" element={<Login />} />
           </Routes>

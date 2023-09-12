@@ -1,0 +1,5063 @@
+{
+  "An Giang": {
+    "Huyện An Phú": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện An Phú",
+      "lat": "10.8512167",
+      "lng": "105.1025075"
+    },
+    "Huyện Châu Phú": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Châu Phú",
+      "lat": "10.5630265",
+      "lng": "105.1726816"
+    },
+    "Huyện Châu Thành": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Châu Thành",
+      "lat": "10.4067213",
+      "lng": "105.2428853"
+    },
+    "Huyện Chợ Mới": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Chợ Mới",
+      "lat": "10.4825247",
+      "lng": "105.4771084"
+    },
+    "Huyện Phú Tân": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Phú Tân",
+      "lat": "10.6666154",
+      "lng": "105.2897042"
+    },
+    "Huyện Thoại Sơn": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Thoại Sơn",
+      "lat": "10.2595103",
+      "lng": "105.2608002"
+    },
+    "Huyện Tri Tôn": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Tri Tôn",
+      "lat": "10.3972321",
+      "lng": "104.9856176"
+    },
+    "Huyện Tịnh Biên": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Huyện Tịnh Biên",
+      "lat": "10.549107",
+      "lng": "105.0089888"
+    },
+    "Thành phố Châu Đốc": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Thành phố Châu Đốc",
+      "lat": "10.7022388",
+      "lng": "105.1087261"
+    },
+    "Thành phố Long Xuyên": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Thành phố Long Xuyên",
+      "lat": "10.3759416",
+      "lng": "105.4185406"
+    },
+    "Thị xã Tân Châu": {
+      "code": "89",
+      "city": "An Giang",
+      "district": "Thị xã Tân Châu",
+      "lat": "10.8423542",
+      "lng": "105.1843501"
+    }
+  },
+  "Bà Rịa - Vũng Tàu": {
+    "Huyện Châu Đức": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Châu Đức",
+      "lat": "10.6284702",
+      "lng": "107.2429976"
+    },
+    "Huyện Côn Đảo": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Côn Đảo",
+      "lat": "8.7009282",
+      "lng": "106.6114474"
+    },
+    "Huyện Long Điền": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Long Điền",
+      "lat": "10.4812576",
+      "lng": "107.2104935"
+    },
+    "Huyện Xuyên Mộc": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Xuyên Mộc",
+      "lat": "10.6177683",
+      "lng": "107.4321959"
+    },
+    "Huyện Đất Đỏ": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Huyện Đất Đỏ",
+      "lat": "10.4728035",
+      "lng": "107.3139304"
+    },
+    "Thành phố Bà Rịa": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Thành phố Bà Rịa",
+      "lat": "10.508928",
+      "lng": "107.1816257"
+    },
+    "Thành phố Vũng Tàu": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Thành phố Vũng Tàu",
+      "lat": "10.4113797",
+      "lng": "107.136224"
+    },
+    "Thị xã Phú Mỹ": {
+      "code": "77",
+      "city": "Bà Rịa - Vũng Tàu",
+      "district": "Thị xã Phú Mỹ",
+      "lat": "10.5833237",
+      "lng": "107.072273"
+    }
+  },
+  "Bình Dương": {
+    "Huyện Bàu Bàng": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Huyện Bàu Bàng",
+      "lat": "11.2725429",
+      "lng": "106.634726"
+    },
+    "Huyện Bắc Tân Uyên": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Huyện Bắc Tân Uyên",
+      "lat": "11.0923607",
+      "lng": "106.8327406"
+    },
+    "Huyện Dầu Tiếng": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Huyện Dầu Tiếng",
+      "lat": "11.348909",
+      "lng": "106.4641459"
+    },
+    "Huyện Phú Giáo": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Huyện Phú Giáo",
+      "lat": "11.2655822",
+      "lng": "106.7706458"
+    },
+    "Thành phố Dĩ An": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Thành phố Dĩ An",
+      "lat": "10.9044391",
+      "lng": "106.7824429"
+    },
+    "Thành phố Thuận An": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Thành phố Thuận An",
+      "lat": "10.924067",
+      "lng": "106.7130309"
+    },
+    "Thành phố Thủ Dầu Một": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Thành phố Thủ Dầu Một",
+      "lat": "10.9929842",
+      "lng": "106.6557073"
+    },
+    "Thị xã Bến Cát": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Thị xã Bến Cát",
+      "lat": "11.1383407",
+      "lng": "106.6124495"
+    },
+    "Thị xã Tân Uyên": {
+      "code": "74",
+      "city": "Bình Dương",
+      "district": "Thị xã Tân Uyên",
+      "lat": "11.049492",
+      "lng": "106.7576751"
+    }
+  },
+  "Bình Phước": {
+    "Huyện Bù Gia Mập": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Bù Gia Mập",
+      "lat": "12.0392238",
+      "lng": "107.0539434"
+    },
+    "Huyện Bù Đăng": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Bù Đăng",
+      "lat": "11.7693374",
+      "lng": "107.1484521"
+    },
+    "Huyện Bù Đốp": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Bù Đốp",
+      "lat": "11.9891869",
+      "lng": "106.7942405"
+    },
+    "Huyện Hớn Quản": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Hớn Quản",
+      "lat": "11.6014622",
+      "lng": "106.6527099"
+    },
+    "Huyện Lộc Ninh": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Lộc Ninh",
+      "lat": "11.803677",
+      "lng": "106.5819789"
+    },
+    "Huyện Phú Riềng": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Phú Riềng",
+      "lat": "11.6827356",
+      "lng": "106.947666"
+    },
+    "Huyện Đồng Phú": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Huyện Đồng Phú",
+      "lat": "11.5123355",
+      "lng": "106.9905473"
+    },
+    "Thành phố Đồng Xoài": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Thành phố Đồng Xoài",
+      "lat": "11.534407",
+      "lng": "106.8904917"
+    },
+    "Thị xã Bình Long": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Thị xã Bình Long",
+      "lat": "11.7096516",
+      "lng": "106.5911643"
+    },
+    "Thị xã Chơn Thành": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Thị xã Chơn Thành",
+      "lat": "11.4696902",
+      "lng": "106.6527099"
+    },
+    "Thị xã Phước Long": {
+      "code": "70",
+      "city": "Bình Phước",
+      "district": "Thị xã Phước Long",
+      "lat": "11.8337331",
+      "lng": "106.9948945"
+    }
+  },
+  "Bình Thuận": {
+    "Huyện Bắc Bình": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Bắc Bình",
+      "lat": "11.2551834",
+      "lng": "108.3801314"
+    },
+    "Huyện Hàm Thuận Bắc": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Hàm Thuận Bắc",
+      "lat": "11.1116858",
+      "lng": "108.1319634"
+    },
+    "Huyện Hàm Thuận Nam": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Hàm Thuận Nam",
+      "lat": "10.8502937",
+      "lng": "107.9057813"
+    },
+    "Huyện Hàm Tân": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Hàm Tân",
+      "lat": "10.6935927",
+      "lng": "107.6215321"
+    },
+    "Huyện Phú Quí": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Phú Quí",
+      "lat": "10.5335281",
+      "lng": "108.9442804"
+    },
+    "Huyện Tuy Phong": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Tuy Phong",
+      "lat": "11.3178827",
+      "lng": "108.6579603"
+    },
+    "Huyện Tánh Linh": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Tánh Linh",
+      "lat": "11.0980639",
+      "lng": "107.678501"
+    },
+    "Huyện Đức Linh": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Huyện Đức Linh",
+      "lat": "11.1977289",
+      "lng": "107.5505152"
+    },
+    "Thành phố Phan Thiết": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Thành phố Phan Thiết",
+      "lat": "10.9300676",
+      "lng": "108.10409"
+    },
+    "Thị xã La Gi": {
+      "code": "60",
+      "city": "Bình Thuận",
+      "district": "Thị xã La Gi",
+      "lat": "10.6836991",
+      "lng": "107.750447"
+    }
+  },
+  "Bình Định": {
+    "Huyện An Lão": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện An Lão",
+      "lat": "14.5717294",
+      "lng": "108.8551484"
+    },
+    "Huyện Hoài Ân": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Hoài Ân",
+      "lat": "14.3040385",
+      "lng": "108.8551484"
+    },
+    "Huyện Phù Cát": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Phù Cát",
+      "lat": "14.0134002",
+      "lng": "109.0547476"
+    },
+    "Huyện Phù Mỹ": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Phù Mỹ",
+      "lat": "14.2157645",
+      "lng": "109.1166566"
+    },
+    "Huyện Tuy Phước": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Tuy Phước",
+      "lat": "13.8565034",
+      "lng": "109.1642208"
+    },
+    "Huyện Tây Sơn": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Tây Sơn",
+      "lat": "13.9479428",
+      "lng": "108.8551484"
+    },
+    "Huyện Vân Canh": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Vân Canh",
+      "lat": "13.674033",
+      "lng": "108.9502232"
+    },
+    "Huyện Vĩnh Thạnh": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Huyện Vĩnh Thạnh",
+      "lat": "14.2468401",
+      "lng": "108.736337"
+    },
+    "Thành phố Quy Nhơn": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Thành phố Quy Nhơn",
+      "lat": "13.7829673",
+      "lng": "109.2196634"
+    },
+    "Thị xã An Nhơn": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Thị xã An Nhơn",
+      "lat": "13.8865062",
+      "lng": "109.1134353"
+    },
+    "Thị xã Hoài Nhơn": {
+      "code": "52",
+      "city": "Bình Định",
+      "district": "Thị xã Hoài Nhơn",
+      "lat": "14.4666386",
+      "lng": "109.04532"
+    }
+  },
+  "Bạc Liêu": {
+    "Huyện Hoà Bình": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Huyện Hoà Bình",
+      "lat": "9.2734758",
+      "lng": "105.629523"
+    },
+    "Huyện Hồng Dân": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Huyện Hồng Dân",
+      "lat": "9.553902899999999",
+      "lng": "105.45205"
+    },
+    "Huyện Phước Long": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Huyện Phước Long",
+      "lat": "9.4006715",
+      "lng": "105.4302383"
+    },
+    "Huyện Vĩnh Lợi": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Huyện Vĩnh Lợi",
+      "lat": "9.3450296",
+      "lng": "105.7116464"
+    },
+    "Huyện Đông Hải": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Huyện Đông Hải",
+      "lat": "9.163064199999999",
+      "lng": "105.4536718"
+    },
+    "Thành phố Bạc Liêu": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Thành phố Bạc Liêu",
+      "lat": "9.2940027",
+      "lng": "105.7215663"
+    },
+    "Thị xã Giá Rai": {
+      "code": "95",
+      "city": "Bạc Liêu",
+      "district": "Thị xã Giá Rai",
+      "lat": "9.260136",
+      "lng": "105.3753129"
+    }
+  },
+  "Bắc Giang": {
+    "Huyện Hiệp Hòa": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Hiệp Hòa",
+      "lat": "21.3552222",
+      "lng": "105.9790377"
+    },
+    "Huyện Lạng Giang": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Lạng Giang",
+      "lat": "21.3646422",
+      "lng": "106.22868"
+    },
+    "Huyện Lục Nam": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Lục Nam",
+      "lat": "21.2996631",
+      "lng": "106.4170311"
+    },
+    "Huyện Lục Ngạn": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Lục Ngạn",
+      "lat": "21.4354043",
+      "lng": "106.676292"
+    },
+    "Huyện Sơn Động": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Sơn Động",
+      "lat": "21.3520004",
+      "lng": "106.8849897"
+    },
+    "Huyện Tân Yên": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Tân Yên",
+      "lat": "21.3785203",
+      "lng": "106.0875326"
+    },
+    "Huyện Việt Yên": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Việt Yên",
+      "lat": "21.2858633",
+      "lng": "106.0875326"
+    },
+    "Huyện Yên Dũng": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Yên Dũng",
+      "lat": "21.2257315",
+      "lng": "106.22868"
+    },
+    "Huyện Yên Thế": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Huyện Yên Thế",
+      "lat": "21.5128774",
+      "lng": "106.1345705"
+    },
+    "Thành phố Bắc Giang": {
+      "code": "24",
+      "city": "Bắc Giang",
+      "district": "Thành phố Bắc Giang",
+      "lat": "21.2819921",
+      "lng": "106.1974769"
+    }
+  },
+  "Bắc Kạn": {
+    "Huyện Ba Bể": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Ba Bể",
+      "lat": "22.3636887",
+      "lng": "105.7351171"
+    },
+    "Huyện Bạch Thông": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Bạch Thông",
+      "lat": "22.2360787",
+      "lng": "105.8525154"
+    },
+    "Huyện Chợ Mới": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Chợ Mới",
+      "lat": "21.9833375",
+      "lng": "105.8290298"
+    },
+    "Huyện Chợ Đồn": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Chợ Đồn",
+      "lat": "22.1964994",
+      "lng": "105.5474373"
+    },
+    "Huyện Na Rì": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Na Rì",
+      "lat": "22.1406595",
+      "lng": "106.1110501"
+    },
+    "Huyện Ngân Sơn": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Ngân Sơn",
+      "lat": "22.4281787",
+      "lng": "106.0169971"
+    },
+    "Huyện Pác Nặm": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Huyện Pác Nặm",
+      "lat": "22.6126367",
+      "lng": "105.6703226"
+    },
+    "Thành phố Bắc Kạn": {
+      "code": "06",
+      "city": "Bắc Kạn",
+      "district": "Thành phố Bắc Kạn",
+      "lat": "22.1442685",
+      "lng": "105.8345426"
+    }
+  },
+  "Bắc Ninh": {
+    "Huyện Gia Bình": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Gia Bình",
+      "lat": "21.0764073",
+      "lng": "106.2169139"
+    },
+    "Huyện Lương Tài": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Lương Tài",
+      "lat": "21.0278149",
+      "lng": "106.2404468"
+    },
+    "Huyện Quế Võ": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Quế Võ",
+      "lat": "21.1377307",
+      "lng": "106.1816196"
+    },
+    "Huyện Thuận Thành": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Thuận Thành",
+      "lat": "21.0357781",
+      "lng": "106.0792574"
+    },
+    "Huyện Tiên Du": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Tiên Du",
+      "lat": "21.1178311",
+      "lng": "106.0287512"
+    },
+    "Huyện Yên Phong": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Huyện Yên Phong",
+      "lat": "21.202957",
+      "lng": "105.9581624"
+    },
+    "Thành phố Bắc Ninh": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Thành phố Bắc Ninh",
+      "lat": "21.1781766",
+      "lng": "106.0710255"
+    },
+    "Thành phố Từ Sơn": {
+      "code": "27",
+      "city": "Bắc Ninh",
+      "district": "Thành phố Từ Sơn",
+      "lat": "21.1188332",
+      "lng": "105.9597843"
+    }
+  },
+  "Bến Tre": {
+    "Huyện Ba Tri": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Ba Tri",
+      "lat": "10.0417849",
+      "lng": "106.5936741"
+    },
+    "Huyện Bình Đại": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Bình Đại",
+      "lat": "10.1596899",
+      "lng": "106.6998767"
+    },
+    "Huyện Châu Thành": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Châu Thành",
+      "lat": "10.3067813",
+      "lng": "106.3699271"
+    },
+    "Huyện Chợ Lách": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Chợ Lách",
+      "lat": "10.241094",
+      "lng": "106.1698563"
+    },
+    "Huyện Giồng Trôm": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Giồng Trôm",
+      "lat": "10.1718844",
+      "lng": "106.4641459"
+    },
+    "Huyện Mỏ Cày Bắc": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Mỏ Cày Bắc",
+      "lat": "10.1700758",
+      "lng": "106.287521"
+    },
+    "Huyện Mỏ Cày Nam": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Mỏ Cày Nam",
+      "lat": "10.0468396",
+      "lng": "106.3699271"
+    },
+    "Huyện Thạnh Phú": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Huyện Thạnh Phú",
+      "lat": "9.9077234",
+      "lng": "106.5584071"
+    },
+    "Thành phố Bến Tre": {
+      "code": "83",
+      "city": "Bến Tre",
+      "district": "Thành phố Bến Tre",
+      "lat": "10.2433556",
+      "lng": "106.375551"
+    }
+  },
+  "Cao Bằng": {
+    "Huyện Bảo Lâm": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Bảo Lâm",
+      "lat": "22.8556222",
+      "lng": "105.4536718"
+    },
+    "Huyện Bảo Lạc": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Bảo Lạc",
+      "lat": "22.8786248",
+      "lng": "105.6881788"
+    },
+    "Huyện Hoà An": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Hoà An",
+      "lat": "22.7538704",
+      "lng": "106.22868"
+    },
+    "Huyện Hà Quảng": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Hà Quảng",
+      "lat": "22.9025402",
+      "lng": "106.1345705"
+    },
+    "Huyện Hạ Lang": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Hạ Lang",
+      "lat": "22.7042438",
+      "lng": "106.6998767"
+    },
+    "Huyện Nguyên Bình": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Nguyên Bình",
+      "lat": "22.6230856",
+      "lng": "105.92299"
+    },
+    "Huyện Quảng Hòa": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Quảng Hòa",
+      "lat": "22.68299",
+      "lng": "106.4641459"
+    },
+    "Huyện Thạch An": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Thạch An",
+      "lat": "22.4663561",
+      "lng": "106.3228338"
+    },
+    "Huyện Trùng Khánh": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Huyện Trùng Khánh",
+      "lat": "22.8323826",
+      "lng": "106.5819789"
+    },
+    "Thành phố Cao Bằng": {
+      "code": "04",
+      "city": "Cao Bằng",
+      "district": "Thành phố Cao Bằng",
+      "lat": "22.6666369",
+      "lng": "106.2639852"
+    }
+  },
+  "Cà Mau": {
+    "Huyện Cái Nước": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Cái Nước",
+      "lat": "8.986776299999999",
+      "lng": "105.0557415"
+    },
+    "Huyện Ngọc Hiển": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Ngọc Hiển",
+      "lat": "8.667725599999999",
+      "lng": "105.0032366"
+    },
+    "Huyện Năm Căn": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Năm Căn",
+      "lat": "8.8153071",
+      "lng": "105.0557415"
+    },
+    "Huyện Phú Tân": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Phú Tân",
+      "lat": "8.9291357",
+      "lng": "104.8921668"
+    },
+    "Huyện Thới Bình": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Thới Bình",
+      "lat": "9.347362799999999",
+      "lng": "105.1726816"
+    },
+    "Huyện Trần Văn Thời": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Trần Văn Thời",
+      "lat": "9.100971600000001",
+      "lng": "104.8921668"
+    },
+    "Huyện U Minh": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện U Minh",
+      "lat": "9.3554435",
+      "lng": "104.9856176"
+    },
+    "Huyện Đầm Dơi": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Huyện Đầm Dơi",
+      "lat": "8.9994186",
+      "lng": "105.2662931"
+    },
+    "Thành phố Cà Mau": {
+      "code": "96",
+      "city": "Cà Mau",
+      "district": "Thành phố Cà Mau",
+      "lat": "9.1526728",
+      "lng": "105.1960795"
+    }
+  },
+  "Cần Thơ": {
+    "Huyện Cờ Đỏ": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Huyện Cờ Đỏ",
+      "lat": "10.0972302",
+      "lng": "105.4304423"
+    },
+    "Huyện Phong Điền": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Huyện Phong Điền",
+      "lat": "9.9967657",
+      "lng": "105.6686611"
+    },
+    "Huyện Thới Lai": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Huyện Thới Lai",
+      "lat": "10.0681881",
+      "lng": "105.5599728"
+    },
+    "Huyện Vĩnh Thạnh": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Huyện Vĩnh Thạnh",
+      "lat": "10.2322696",
+      "lng": "105.3987034"
+    },
+    "Quận Bình Thuỷ": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Quận Bình Thuỷ",
+      "lat": "10.0622567",
+      "lng": "105.7381017"
+    },
+    "Quận Cái Răng": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Quận Cái Răng",
+      "lat": "9.9992392",
+      "lng": "105.8043572"
+    },
+    "Quận Ninh Kiều": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Quận Ninh Kiều",
+      "lat": "10.0451618",
+      "lng": "105.7468535"
+    },
+    "Quận Thốt Nốt": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Quận Thốt Nốt",
+      "lat": "10.2405338",
+      "lng": "105.5336815"
+    },
+    "Quận Ô Môn": {
+      "code": "92",
+      "city": "Cần Thơ",
+      "district": "Quận Ô Môn",
+      "lat": "10.1164943",
+      "lng": "105.6326457"
+    }
+  },
+  "Gia Lai": {
+    "Huyện Chư Prông": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Chư Prông",
+      "lat": "13.541918",
+      "lng": "107.763621"
+    },
+    "Huyện Chư Păh": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Chư Păh",
+      "lat": "14.1765309",
+      "lng": "107.9294815"
+    },
+    "Huyện Chư Pưh": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Chư Pưh",
+      "lat": "13.4730527",
+      "lng": "108.0954351"
+    },
+    "Huyện Chư Sê": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Chư Sê",
+      "lat": "13.7399629",
+      "lng": "108.0954351"
+    },
+    "Huyện Ia Grai": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Ia Grai",
+      "lat": "13.9539099",
+      "lng": "107.6215321"
+    },
+    "Huyện Ia Pa": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Ia Pa",
+      "lat": "13.5261514",
+      "lng": "108.5700636"
+    },
+    "Huyện KBang": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện KBang",
+      "lat": "14.3348056",
+      "lng": "108.4750846"
+    },
+    "Huyện Krông Pa": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Krông Pa",
+      "lat": "13.2160038",
+      "lng": "108.6726891"
+    },
+    "Huyện Kông Chro": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Kông Chro",
+      "lat": "13.7037218",
+      "lng": "108.5700636"
+    },
+    "Huyện Mang Yang": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Mang Yang",
+      "lat": "13.9928022",
+      "lng": "108.2852049"
+    },
+    "Huyện Phú Thiện": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Phú Thiện",
+      "lat": "13.4589308",
+      "lng": "108.2852049"
+    },
+    "Huyện Đăk Pơ": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Đăk Pơ",
+      "lat": "13.946425",
+      "lng": "108.5938124"
+    },
+    "Huyện Đăk Đoa": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Đăk Đoa",
+      "lat": "14.1135412",
+      "lng": "108.1665855"
+    },
+    "Huyện Đức Cơ": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Huyện Đức Cơ",
+      "lat": "13.7752327",
+      "lng": "107.6215321"
+    },
+    "Thành phố Pleiku": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Thành phố Pleiku",
+      "lat": "13.9718356",
+      "lng": "108.0150796"
+    },
+    "Thị xã An Khê": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Thị xã An Khê",
+      "lat": "14.0279256",
+      "lng": "108.6888227"
+    },
+    "Thị xã Ayun Pa": {
+      "code": "64",
+      "city": "Gia Lai",
+      "district": "Thị xã Ayun Pa",
+      "lat": "13.3743393",
+      "lng": "108.3989809"
+    }
+  },
+  "Hoà Bình": {
+    "Huyện Cao Phong": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Cao Phong",
+      "lat": "20.7072205",
+      "lng": "105.336536"
+    },
+    "Huyện Kim Bôi": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Kim Bôi",
+      "lat": "20.6901132",
+      "lng": "105.5239912"
+    },
+    "Huyện Lương Sơn": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Lương Sơn",
+      "lat": "20.871913",
+      "lng": "105.5040269"
+    },
+    "Huyện Lạc Sơn": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Lạc Sơn",
+      "lat": "20.4413353",
+      "lng": "105.4536718"
+    },
+    "Huyện Lạc Thủy": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Lạc Thủy",
+      "lat": "20.5136724",
+      "lng": "105.7333455"
+    },
+    "Huyện Mai Châu": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Mai Châu",
+      "lat": "20.6901339",
+      "lng": "105.0089888"
+    },
+    "Huyện Tân Lạc": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Tân Lạc",
+      "lat": "20.6228033",
+      "lng": "105.2428853"
+    },
+    "Huyện Yên Thủy": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Yên Thủy",
+      "lat": "20.4032247",
+      "lng": "105.6177942"
+    },
+    "Huyện Đà Bắc": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Huyện Đà Bắc",
+      "lat": "20.8381545",
+      "lng": "105.1726816"
+    },
+    "Thành phố Hòa Bình": {
+      "code": "17",
+      "city": "Hoà Bình",
+      "district": "Thành phố Hòa Bình",
+      "lat": "20.8275154",
+      "lng": "105.3390793"
+    }
+  },
+  "Hà Giang": {
+    "Huyện Bắc Mê": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Bắc Mê",
+      "lat": "22.7811484",
+      "lng": "105.2662931"
+    },
+    "Huyện Bắc Quang": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Bắc Quang",
+      "lat": "22.4450248",
+      "lng": "104.8921668"
+    },
+    "Huyện Hoàng Su Phì": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Hoàng Su Phì",
+      "lat": "22.7417169",
+      "lng": "104.705431"
+    },
+    "Huyện Mèo Vạc": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Mèo Vạc",
+      "lat": "23.1341053",
+      "lng": "105.4536718"
+    },
+    "Huyện Quang Bình": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Quang Bình",
+      "lat": "22.4624387",
+      "lng": "104.705431"
+    },
+    "Huyện Quản Bạ": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Quản Bạ",
+      "lat": "23.087186",
+      "lng": "104.9856176"
+    },
+    "Huyện Vị Xuyên": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Vị Xuyên",
+      "lat": "22.7241336",
+      "lng": "104.8921668"
+    },
+    "Huyện Xín Mần": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Xín Mần",
+      "lat": "22.6659156",
+      "lng": "104.5189214"
+    },
+    "Huyện Yên Minh": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Yên Minh",
+      "lat": "23.0434955",
+      "lng": "105.1960795"
+    },
+    "Huyện Đồng Văn": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Huyện Đồng Văn",
+      "lat": "23.2246718",
+      "lng": "105.2428853"
+    },
+    "Thành phố Hà Giang": {
+      "code": "02",
+      "city": "Hà Giang",
+      "district": "Thành phố Hà Giang",
+      "lat": "22.8025588",
+      "lng": "104.9784494"
+    }
+  },
+  "Hà Nam": {
+    "Huyện Bình Lục": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Huyện Bình Lục",
+      "lat": "20.5029885",
+      "lng": "106.040506"
+    },
+    "Huyện Kim Bảng": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Huyện Kim Bảng",
+      "lat": "20.5633623",
+      "lng": "105.8562473"
+    },
+    "Huyện Lý Nhân": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Huyện Lý Nhân",
+      "lat": "20.5553005",
+      "lng": "106.099291"
+    },
+    "Huyện Thanh Liêm": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Huyện Thanh Liêm",
+      "lat": "20.4699057",
+      "lng": "105.8994956"
+    },
+    "Thành phố Phủ Lý": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Thành phố Phủ Lý",
+      "lat": "20.5316929",
+      "lng": "105.9176291"
+    },
+    "Thị xã Duy Tiên": {
+      "code": "35",
+      "city": "Hà Nam",
+      "district": "Thị xã Duy Tiên",
+      "lat": "20.626842",
+      "lng": "105.951554"
+    }
+  },
+  "Hà Nội": {
+    "Huyện Ba Vì": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Ba Vì",
+      "lat": "21.1992298",
+      "lng": "105.4232116"
+    },
+    "Huyện Chương Mỹ": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Chương Mỹ",
+      "lat": "20.8746466",
+      "lng": "105.6712465"
+    },
+    "Huyện Gia Lâm": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Gia Lâm",
+      "lat": "21.0105208",
+      "lng": "105.952941"
+    },
+    "Huyện Hoài Đức": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Hoài Đức",
+      "lat": "21.0243168",
+      "lng": "105.6988892"
+    },
+    "Huyện Mê Linh": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Mê Linh",
+      "lat": "21.1601408",
+      "lng": "105.7380511"
+    },
+    "Huyện Mỹ Đức": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Mỹ Đức",
+      "lat": "20.725768",
+      "lng": "105.7157513"
+    },
+    "Huyện Phú Xuyên": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Phú Xuyên",
+      "lat": "20.7280728",
+      "lng": "105.9029374"
+    },
+    "Huyện Phúc Thọ": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Phúc Thọ",
+      "lat": "21.1241396",
+      "lng": "105.5939066"
+    },
+    "Huyện Quốc Oai": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Quốc Oai",
+      "lat": "20.9924634",
+      "lng": "105.6404254"
+    },
+    "Huyện Sóc Sơn": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Sóc Sơn",
+      "lat": "21.2573126",
+      "lng": "105.8480203"
+    },
+    "Huyện Thanh Oai": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Thanh Oai",
+      "lat": "20.8532165",
+      "lng": "105.7688513"
+    },
+    "Huyện Thanh Trì": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Thanh Trì",
+      "lat": "20.9344418",
+      "lng": "105.8462288"
+    },
+    "Huyện Thường Tín": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Thường Tín",
+      "lat": "20.8055441",
+      "lng": "105.8838579"
+    },
+    "Huyện Thạch Thất": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Thạch Thất",
+      "lat": "20.9905234",
+      "lng": "105.5251894"
+    },
+    "Huyện Đan Phượng": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Đan Phượng",
+      "lat": "21.084855",
+      "lng": "105.6690963"
+    },
+    "Huyện Đông Anh": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Đông Anh",
+      "lat": "21.1245303",
+      "lng": "105.8271398"
+    },
+    "Huyện Ứng Hòa": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Huyện Ứng Hòa",
+      "lat": "20.729614",
+      "lng": "105.7782061"
+    },
+    "Quận Ba Đình": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Ba Đình",
+      "lat": "21.0337815",
+      "lng": "105.8140539"
+    },
+    "Quận Bắc Từ Liêm": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Bắc Từ Liêm",
+      "lat": "21.0730201",
+      "lng": "105.7703287"
+    },
+    "Quận Cầu Giấy": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Cầu Giấy",
+      "lat": "21.0362368",
+      "lng": "105.7905825"
+    },
+    "Quận Hai Bà Trưng": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Hai Bà Trưng",
+      "lat": "21.0090571",
+      "lng": "105.8607507"
+    },
+    "Quận Hoàn Kiếm": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Hoàn Kiếm",
+      "lat": "21.027964",
+      "lng": "105.8510132"
+    },
+    "Quận Hoàng Mai": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Hoàng Mai",
+      "lat": "20.9836984",
+      "lng": "105.8636257"
+    },
+    "Quận Hà Đông": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Hà Đông",
+      "lat": "20.955835",
+      "lng": "105.7563658"
+    },
+    "Quận Long Biên": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Long Biên",
+      "lat": "21.0186765",
+      "lng": "105.884813"
+    },
+    "Quận Nam Từ Liêm": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Nam Từ Liêm",
+      "lat": "21.0034608",
+      "lng": "105.7703287"
+    },
+    "Quận Thanh Xuân": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Thanh Xuân",
+      "lat": "20.9959819",
+      "lng": "105.8097244"
+    },
+    "Quận Tây Hồ": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Tây Hồ",
+      "lat": "21.0811211",
+      "lng": "105.8180306"
+    },
+    "Quận Đống Đa": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Quận Đống Đa",
+      "lat": "21.0180725",
+      "lng": "105.8299495"
+    },
+    "Thị xã Sơn Tây": {
+      "code": "01",
+      "city": "Hà Nội",
+      "district": "Thị xã Sơn Tây",
+      "lat": "21.1162257",
+      "lng": "105.495325"
+    }
+  },
+  "Hà Tĩnh": {
+    "Huyện Can Lộc": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Can Lộc",
+      "lat": "18.4516009",
+      "lng": "105.7116464"
+    },
+    "Huyện Cẩm Xuyên": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Cẩm Xuyên",
+      "lat": "18.1721653",
+      "lng": "106.0169971"
+    },
+    "Huyện Hương Khê": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Hương Khê",
+      "lat": "18.2037562",
+      "lng": "105.6412527"
+    },
+    "Huyện Hương Sơn": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Hương Sơn",
+      "lat": "18.5118006",
+      "lng": "105.2662931"
+    },
+    "Huyện Kỳ Anh": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Kỳ Anh",
+      "lat": "18.0559583",
+      "lng": "106.2992912"
+    },
+    "Huyện Lộc Hà": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Lộc Hà",
+      "lat": "18.4817584",
+      "lng": "105.8994956"
+    },
+    "Huyện Nghi Xuân": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Nghi Xuân",
+      "lat": "18.6642304",
+      "lng": "105.7556564"
+    },
+    "Huyện Thạch Hà": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Thạch Hà",
+      "lat": "18.301316",
+      "lng": "105.8525154"
+    },
+    "Huyện Vũ Quang": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Vũ Quang",
+      "lat": "18.3365936",
+      "lng": "105.4302383"
+    },
+    "Huyện Đức Thọ": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Huyện Đức Thọ",
+      "lat": "18.5056718",
+      "lng": "105.6177942"
+    },
+    "Thành phố Hà Tĩnh": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Thành phố Hà Tĩnh",
+      "lat": "18.3559537",
+      "lng": "105.8877494"
+    },
+    "Thị xã Hồng Lĩnh": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Thị xã Hồng Lĩnh",
+      "lat": "18.5299746",
+      "lng": "105.7060872"
+    },
+    "Thị xã Kỳ Anh": {
+      "code": "42",
+      "city": "Hà Tĩnh",
+      "district": "Thị xã Kỳ Anh",
+      "lat": "18.0690259",
+      "lng": "106.2946376"
+    }
+  },
+  "Hưng Yên": {
+    "Huyện Khoái Châu": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Khoái Châu",
+      "lat": "20.8415456",
+      "lng": "105.9804247"
+    },
+    "Huyện Kim Động": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Kim Động",
+      "lat": "20.7325036",
+      "lng": "106.0563755"
+    },
+    "Huyện Phù Cừ": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Phù Cừ",
+      "lat": "20.7083369",
+      "lng": "106.1933837"
+    },
+    "Huyện Tiên Lữ": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Tiên Lữ",
+      "lat": "20.6919516",
+      "lng": "106.1228099"
+    },
+    "Huyện Văn Giang": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Văn Giang",
+      "lat": "20.9414842",
+      "lng": "105.9569025"
+    },
+    "Huyện Văn Lâm": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Văn Lâm",
+      "lat": "20.9854595",
+      "lng": "106.0463746"
+    },
+    "Huyện Yên Mỹ": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Yên Mỹ",
+      "lat": "20.8861904",
+      "lng": "106.0287512"
+    },
+    "Huyện Ân Thi": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Huyện Ân Thi",
+      "lat": "20.8099609",
+      "lng": "106.099291"
+    },
+    "Thành phố Hưng Yên": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Thành phố Hưng Yên",
+      "lat": "20.6546819",
+      "lng": "106.057849"
+    },
+    "Thị xã Mỹ Hào": {
+      "code": "33",
+      "city": "Hưng Yên",
+      "district": "Thị xã Mỹ Hào",
+      "lat": "20.9257379",
+      "lng": "106.099291"
+    }
+  },
+  "Hải Dương": {
+    "Huyện Bình Giang": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Bình Giang",
+      "lat": "20.870356",
+      "lng": "106.1933837"
+    },
+    "Huyện Cẩm Giàng": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Cẩm Giàng",
+      "lat": "20.9479485",
+      "lng": "106.22868"
+    },
+    "Huyện Gia Lộc": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Gia Lộc",
+      "lat": "20.8612295",
+      "lng": "106.287521"
+    },
+    "Huyện Kim Thành": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Kim Thành",
+      "lat": "20.8984531",
+      "lng": "106.5141873"
+    },
+    "Huyện Nam Sách": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Nam Sách",
+      "lat": "20.995464",
+      "lng": "106.3346061"
+    },
+    "Huyện Ninh Giang": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Ninh Giang",
+      "lat": "20.7491091",
+      "lng": "106.3699271"
+    },
+    "Huyện Thanh Hà": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Thanh Hà",
+      "lat": "20.908358",
+      "lng": "106.4276087"
+    },
+    "Huyện Thanh Miện": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Thanh Miện",
+      "lat": "20.7821204",
+      "lng": "106.2203815"
+    },
+    "Huyện Tứ Kỳ": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Huyện Tứ Kỳ",
+      "lat": "20.8168182",
+      "lng": "106.4112446"
+    },
+    "Thành phố Chí Linh": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Thành phố Chí Linh",
+      "lat": "21.1132497",
+      "lng": "106.3031948"
+    },
+    "Thành phố Hải Dương": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Thành phố Hải Dương",
+      "lat": "20.9491891",
+      "lng": "106.3346061"
+    },
+    "Thị xã Kinh Môn": {
+      "code": "30",
+      "city": "Hải Dương",
+      "district": "Thị xã Kinh Môn",
+      "lat": "21.0110318",
+      "lng": "106.5273651"
+    }
+  },
+  "Hải Phòng": {
+    "Huyện An Dương": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện An Dương",
+      "lat": "20.8463188",
+      "lng": "106.6667115"
+    },
+    "Huyện An Lão": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện An Lão",
+      "lat": "20.8214217",
+      "lng": "106.5565478"
+    },
+    "Huyện Bạch Long Vĩ": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Bạch Long Vĩ",
+      "lat": "20.1345592",
+      "lng": "107.7302087"
+    },
+    "Huyện Cát Hải": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Cát Hải",
+      "lat": "20.8037051",
+      "lng": "106.8974964"
+    },
+    "Huyện Kiến Thuỵ": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Kiến Thuỵ",
+      "lat": "20.7515698",
+      "lng": "106.6701329"
+    },
+    "Huyện Thuỷ Nguyên": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Thuỷ Nguyên",
+      "lat": "20.9451331",
+      "lng": "106.6715543"
+    },
+    "Huyện Tiên Lãng": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Tiên Lãng",
+      "lat": "20.865749",
+      "lng": "106.665909"
+    },
+    "Huyện Vĩnh Bảo": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Huyện Vĩnh Bảo",
+      "lat": "20.688914",
+      "lng": "106.4814255"
+    },
+    "Quận Dương Kinh": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Dương Kinh",
+      "lat": "20.7733918",
+      "lng": "106.7213703"
+    },
+    "Quận Hải An": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Hải An",
+      "lat": "20.8329856",
+      "lng": "106.7204552"
+    },
+    "Quận Hồng Bàng": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Hồng Bàng",
+      "lat": "20.8595313",
+      "lng": "106.666993"
+    },
+    "Quận Kiến An": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Kiến An",
+      "lat": "20.8449792",
+      "lng": "106.6706133"
+    },
+    "Quận Lê Chân": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Lê Chân",
+      "lat": "20.8345046",
+      "lng": "106.6831336"
+    },
+    "Quận Ngô Quyền": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Ngô Quyền",
+      "lat": "20.8566653",
+      "lng": "106.6994903"
+    },
+    "Quận Đồ Sơn": {
+      "code": "31",
+      "city": "Hải Phòng",
+      "district": "Quận Đồ Sơn",
+      "lat": "20.7247533",
+      "lng": "106.7742534"
+    }
+  },
+  "Hậu Giang": {
+    "Huyện Châu Thành": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Huyện Châu Thành",
+      "lat": "9.9216255",
+      "lng": "105.8073554"
+    },
+    "Huyện Châu Thành A": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Huyện Châu Thành A",
+      "lat": "9.926726",
+      "lng": "105.6315594"
+    },
+    "Huyện Long Mỹ": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Huyện Long Mỹ",
+      "lat": "9.6552847",
+      "lng": "105.5239912"
+    },
+    "Huyện Phụng Hiệp": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Huyện Phụng Hiệp",
+      "lat": "9.776212600000001",
+      "lng": "105.7116464"
+    },
+    "Huyện Vị Thuỷ": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Huyện Vị Thuỷ",
+      "lat": "9.826082399999999",
+      "lng": "105.5708865"
+    },
+    "Thành phố Ngã Bảy": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Thành phố Ngã Bảy",
+      "lat": "9.808990099999999",
+      "lng": "105.8220989"
+    },
+    "Thành phố Vị Thanh": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Thành phố Vị Thanh",
+      "lat": "9.7731921",
+      "lng": "105.4537082"
+    },
+    "Thị xã Long Mỹ": {
+      "code": "93",
+      "city": "Hậu Giang",
+      "district": "Thị xã Long Mỹ",
+      "lat": "9.669597",
+      "lng": "105.5650239"
+    }
+  },
+  "Hồ Chí Minh": {
+    "Huyện Bình Chánh": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Huyện Bình Chánh",
+      "lat": "10.687392",
+      "lng": "106.5938538"
+    },
+    "Huyện Cần Giờ": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Huyện Cần Giờ",
+      "lat": "10.5083266",
+      "lng": "106.8635004"
+    },
+    "Huyện Củ Chi": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Huyện Củ Chi",
+      "lat": "11.0066683",
+      "lng": "106.5131967"
+    },
+    "Huyện Hóc Môn": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Huyện Hóc Môn",
+      "lat": "10.8839675",
+      "lng": "106.5870611"
+    },
+    "Huyện Nhà Bè": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Huyện Nhà Bè",
+      "lat": "10.6952642",
+      "lng": "106.704874"
+    },
+    "Quận 1": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 1",
+      "lat": "10.7756587",
+      "lng": "106.7004238"
+    },
+    "Quận 10": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 10",
+      "lat": "10.7745965",
+      "lng": "106.6679542"
+    },
+    "Quận 11": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 11",
+      "lat": "10.7629739",
+      "lng": "106.650084"
+    },
+    "Quận 12": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 12",
+      "lat": "10.8671531",
+      "lng": "106.6413322"
+    },
+    "Quận 3": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 3",
+      "lat": "10.7843695",
+      "lng": "106.6844089"
+    },
+    "Quận 4": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 4",
+      "lat": "10.7578263",
+      "lng": "106.7012968"
+    },
+    "Quận 5": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 5",
+      "lat": "10.7540279",
+      "lng": "106.6633746"
+    },
+    "Quận 6": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 6",
+      "lat": "10.7480929",
+      "lng": "106.6352362"
+    },
+    "Quận 7": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 7",
+      "lat": "10.7340344",
+      "lng": "106.7215787"
+    },
+    "Quận 8": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận 8",
+      "lat": "10.7240878",
+      "lng": "106.6286259"
+    },
+    "Quận Bình Thạnh": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Bình Thạnh",
+      "lat": "10.8105831",
+      "lng": "106.7091422"
+    },
+    "Quận Bình Tân": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Bình Tân",
+      "lat": "10.7652581",
+      "lng": "106.6038535"
+    },
+    "Quận Gò Vấp": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Gò Vấp",
+      "lat": "10.8386779",
+      "lng": "106.6652904"
+    },
+    "Quận Phú Nhuận": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Phú Nhuận",
+      "lat": "10.7991944",
+      "lng": "106.6802639"
+    },
+    "Quận Tân Bình": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Tân Bình",
+      "lat": "10.8014659",
+      "lng": "106.6525974"
+    },
+    "Quận Tân Phú": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Quận Tân Phú",
+      "lat": "10.7900517",
+      "lng": "106.6281901"
+    },
+    "Thành phố Thủ Đức": {
+      "code": "79",
+      "city": "Hồ Chí Minh",
+      "district": "Thành phố Thủ Đức",
+      "lat": "10.8494094",
+      "lng": "106.7537055"
+    }
+  },
+  "Khánh Hòa": {
+    "Huyện Cam Lâm": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Cam Lâm",
+      "lat": "12.07539",
+      "lng": "109.140438"
+    },
+    "Huyện Diên Khánh": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Diên Khánh",
+      "lat": "12.2570417",
+      "lng": "109.04532"
+    },
+    "Huyện Khánh Sơn": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Khánh Sơn",
+      "lat": "12.0249415",
+      "lng": "108.9264524"
+    },
+    "Huyện Khánh Vĩnh": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Khánh Vĩnh",
+      "lat": "12.2705951",
+      "lng": "108.8551484"
+    },
+    "Huyện Trường Sa": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Trường Sa",
+      "lat": "12.2585098",
+      "lng": "109.0526076"
+    },
+    "Huyện Vạn Ninh": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Huyện Vạn Ninh",
+      "lat": "12.7243439",
+      "lng": "109.2626992"
+    },
+    "Thành phố Cam Ranh": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Thành phố Cam Ranh",
+      "lat": "11.9662117",
+      "lng": "109.1915578"
+    },
+    "Thành phố Nha Trang": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Thành phố Nha Trang",
+      "lat": "12.2529152",
+      "lng": "109.1899018"
+    },
+    "Thị xã Ninh Hòa": {
+      "code": "56",
+      "city": "Khánh Hòa",
+      "district": "Thị xã Ninh Hòa",
+      "lat": "12.4864955",
+      "lng": "109.1345811"
+    }
+  },
+  "Kiên Giang": {
+    "Huyện An Biên": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện An Biên",
+      "lat": "9.8064559",
+      "lng": "105.0557415"
+    },
+    "Huyện An Minh": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện An Minh",
+      "lat": "9.664718299999999",
+      "lng": "104.9495651"
+    },
+    "Huyện Châu Thành": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Châu Thành",
+      "lat": "9.8889535",
+      "lng": "105.1492869"
+    },
+    "Huyện Giang Thành": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Giang Thành",
+      "lat": "10.4771358",
+      "lng": "104.6821048"
+    },
+    "Huyện Giồng Riềng": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Giồng Riềng",
+      "lat": "9.9238222",
+      "lng": "105.3728845"
+    },
+    "Huyện Gò Quao": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Gò Quao",
+      "lat": "9.752507699999999",
+      "lng": "105.2897042"
+    },
+    "Huyện Hòn Đất": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Hòn Đất",
+      "lat": "10.2227003",
+      "lng": "104.9856176"
+    },
+    "Huyện Kiên Hải": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Kiên Hải",
+      "lat": "9.8091362",
+      "lng": "104.6296338"
+    },
+    "Huyện Kiên Lương": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Kiên Lương",
+      "lat": "10.3043903",
+      "lng": "104.6354631"
+    },
+    "Huyện Tân Hiệp": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Tân Hiệp",
+      "lat": "10.1154358",
+      "lng": "105.2834404"
+    },
+    "Huyện U Minh Thượng": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện U Minh Thượng",
+      "lat": "9.6311125",
+      "lng": "105.1025075"
+    },
+    "Huyện Vĩnh Thuận": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Huyện Vĩnh Thuận",
+      "lat": "9.5384134",
+      "lng": "105.2428853"
+    },
+    "Thành phố Hà Tiên": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Thành phố Hà Tiên",
+      "lat": "10.3792058",
+      "lng": "104.4819973"
+    },
+    "Thành phố Phú Quốc": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Thành phố Phú Quốc",
+      "lat": "10.2228734",
+      "lng": "103.9626259"
+    },
+    "Thành phố Rạch Giá": {
+      "code": "91",
+      "city": "Kiên Giang",
+      "district": "Thành phố Rạch Giá",
+      "lat": "10.021507",
+      "lng": "105.0910974"
+    }
+  },
+  "Kon Tum": {
+    "Huyện Ia H' Drai": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Ia H' Drai",
+      "lat": "14.1022788",
+      "lng": "107.4552071"
+    },
+    "Huyện Kon Plông": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Kon Plông",
+      "lat": "14.7976892",
+      "lng": "108.2852049"
+    },
+    "Huyện Kon Rẫy": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Kon Rẫy",
+      "lat": "14.5607568",
+      "lng": "108.1665855"
+    },
+    "Huyện Ngọc Hồi": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Ngọc Hồi",
+      "lat": "14.6710249",
+      "lng": "107.6215321"
+    },
+    "Huyện Sa Thầy": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Sa Thầy",
+      "lat": "14.4355779",
+      "lng": "107.763621"
+    },
+    "Huyện Tu Mơ Rông": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Tu Mơ Rông",
+      "lat": "14.9105786",
+      "lng": "108.0005933"
+    },
+    "Huyện Đắk Glei": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Đắk Glei",
+      "lat": "15.113472",
+      "lng": "107.71625"
+    },
+    "Huyện Đắk Hà": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Đắk Hà",
+      "lat": "14.641214",
+      "lng": "108.0005933"
+    },
+    "Huyện Đắk Tô": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Huyện Đắk Tô",
+      "lat": "14.6562021",
+      "lng": "107.811"
+    },
+    "Thành phố Kon Tum": {
+      "code": "62",
+      "city": "Kon Tum",
+      "district": "Thành phố Kon Tum",
+      "lat": "14.3497403",
+      "lng": "108.0004606"
+    }
+  },
+  "Lai Châu": {
+    "Huyện Mường Tè": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Mường Tè",
+      "lat": "22.400379",
+      "lng": "102.7135121"
+    },
+    "Huyện Nậm Nhùn": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Nậm Nhùn",
+      "lat": "22.1022533",
+      "lng": "102.9847711"
+    },
+    "Huyện Phong Thổ": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Phong Thổ",
+      "lat": "22.5776336",
+      "lng": "103.4049445"
+    },
+    "Huyện Sìn Hồ": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Sìn Hồ",
+      "lat": "22.3048884",
+      "lng": "103.3125299"
+    },
+    "Huyện Tam Đường": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Tam Đường",
+      "lat": "22.3497051",
+      "lng": "103.6131203"
+    },
+    "Huyện Than Uyên": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Than Uyên",
+      "lat": "21.8922107",
+      "lng": "103.7752634"
+    },
+    "Huyện Tân Uyên": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Huyện Tân Uyên",
+      "lat": "22.0868845",
+      "lng": "103.682586"
+    },
+    "Thành phố Lai Châu": {
+      "code": "12",
+      "city": "Lai Châu",
+      "district": "Thành phố Lai Châu",
+      "lat": "22.3862227",
+      "lng": "103.4702631"
+    }
+  },
+  "Long An": {
+    "Huyện Bến Lức": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Bến Lức",
+      "lat": "10.641162",
+      "lng": "106.4856006"
+    },
+    "Huyện Châu Thành": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Châu Thành",
+      "lat": "10.4640645",
+      "lng": "106.4759262"
+    },
+    "Huyện Cần Giuộc": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Cần Giuộc",
+      "lat": "10.6009679",
+      "lng": "106.6650358"
+    },
+    "Huyện Cần Đước": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Cần Đước",
+      "lat": "10.5549448",
+      "lng": "106.6055534"
+    },
+    "Huyện Mộc Hóa": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Mộc Hóa",
+      "lat": "10.7642485",
+      "lng": "105.9464874"
+    },
+    "Huyện Thạnh Hóa": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Thạnh Hóa",
+      "lat": "10.664587",
+      "lng": "106.1816196"
+    },
+    "Huyện Thủ Thừa": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Thủ Thừa",
+      "lat": "10.7006857",
+      "lng": "106.3228338"
+    },
+    "Huyện Tân Hưng": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Tân Hưng",
+      "lat": "10.8226522",
+      "lng": "105.6647142"
+    },
+    "Huyện Tân Thạnh": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Tân Thạnh",
+      "lat": "10.6078027",
+      "lng": "106.0169971"
+    },
+    "Huyện Tân Trụ": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Tân Trụ",
+      "lat": "10.5280095",
+      "lng": "106.4994889"
+    },
+    "Huyện Vĩnh Hưng": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Vĩnh Hưng",
+      "lat": "10.9028612",
+      "lng": "105.8055471"
+    },
+    "Huyện Đức Huệ": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Đức Huệ",
+      "lat": "10.8777796",
+      "lng": "106.2757514"
+    },
+    "Huyện Đức Hòa": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Huyện Đức Hòa",
+      "lat": "10.9023378",
+      "lng": "106.418534"
+    },
+    "Thành phố Tân An": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Thành phố Tân An",
+      "lat": "10.5383411",
+      "lng": "106.40513"
+    },
+    "Thị xã Kiến Tường": {
+      "code": "80",
+      "city": "Long An",
+      "district": "Thị xã Kiến Tường",
+      "lat": "10.7787307",
+      "lng": "105.9278566"
+    }
+  },
+  "Lào Cai": {
+    "Huyện Bát Xát": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Bát Xát",
+      "lat": "22.5539336",
+      "lng": "103.682586"
+    },
+    "Huyện Bảo Thắng": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Bảo Thắng",
+      "lat": "22.3266996",
+      "lng": "104.1466046"
+    },
+    "Huyện Bảo Yên": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Bảo Yên",
+      "lat": "22.2763301",
+      "lng": "104.4490398"
+    },
+    "Huyện Bắc Hà": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Bắc Hà",
+      "lat": "22.4965469",
+      "lng": "104.332644"
+    },
+    "Huyện Mường Khương": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Mường Khương",
+      "lat": "22.6785309",
+      "lng": "104.1233667"
+    },
+    "Huyện Si Ma Cai": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Si Ma Cai",
+      "lat": "22.6659838",
+      "lng": "104.262851"
+    },
+    "Huyện Văn Bàn": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Huyện Văn Bàn",
+      "lat": "22.0894109",
+      "lng": "104.1930918"
+    },
+    "Thành phố Lào Cai": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Thành phố Lào Cai",
+      "lat": "22.4809431",
+      "lng": "103.9754959"
+    },
+    "Thị xã Sa Pa": {
+      "code": "10",
+      "city": "Lào Cai",
+      "district": "Thị xã Sa Pa",
+      "lat": "22.2497168",
+      "lng": "103.9608091"
+    }
+  },
+  "Lâm Đồng": {
+    "Huyện Bảo Lâm": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Bảo Lâm",
+      "lat": "11.7337863",
+      "lng": "107.71625"
+    },
+    "Huyện Cát Tiên": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Cát Tiên",
+      "lat": "11.6903361",
+      "lng": "107.36123"
+    },
+    "Huyện Di Linh": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Di Linh",
+      "lat": "11.5346745",
+      "lng": "108.0954351"
+    },
+    "Huyện Lâm Hà": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Lâm Hà",
+      "lat": "11.7906825",
+      "lng": "108.1903059"
+    },
+    "Huyện Lạc Dương": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Lạc Dương",
+      "lat": "12.1218309",
+      "lng": "108.4750846"
+    },
+    "Huyện Đam Rông": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Đam Rông",
+      "lat": "12.0598218",
+      "lng": "108.0954351"
+    },
+    "Huyện Đơn Dương": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Đơn Dương",
+      "lat": "11.7452329",
+      "lng": "108.5463165"
+    },
+    "Huyện Đạ Huoai": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Đạ Huoai",
+      "lat": "11.4101516",
+      "lng": "107.6452085"
+    },
+    "Huyện Đạ Tẻh": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Đạ Tẻh",
+      "lat": "11.5705176",
+      "lng": "107.5268471"
+    },
+    "Huyện Đức Trọng": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Huyện Đức Trọng",
+      "lat": "11.641927",
+      "lng": "108.3102916"
+    },
+    "Thành phố Bảo Lộc": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Thành phố Bảo Lộc",
+      "lat": "11.5731051",
+      "lng": "107.8346924"
+    },
+    "Thành phố Đà Lạt": {
+      "code": "68",
+      "city": "Lâm Đồng",
+      "district": "Thành phố Đà Lạt",
+      "lat": "11.9404192",
+      "lng": "108.4583132"
+    }
+  },
+  "Lạng Sơn": {
+    "Huyện Bình Gia": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Bình Gia",
+      "lat": "22.0639906",
+      "lng": "106.3340858"
+    },
+    "Huyện Bắc Sơn": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Bắc Sơn",
+      "lat": "21.8437729",
+      "lng": "106.2992912"
+    },
+    "Huyện Cao Lộc": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Cao Lộc",
+      "lat": "21.9036302",
+      "lng": "106.8414374"
+    },
+    "Huyện Chi Lăng": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Chi Lăng",
+      "lat": "21.6506944",
+      "lng": "106.6055534"
+    },
+    "Huyện Hữu Lũng": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Hữu Lũng",
+      "lat": "21.5659824",
+      "lng": "106.2992912"
+    },
+    "Huyện Lộc Bình": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Lộc Bình",
+      "lat": "21.7757592",
+      "lng": "106.9594723"
+    },
+    "Huyện Tràng Định": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Tràng Định",
+      "lat": "22.2872995",
+      "lng": "106.4877072"
+    },
+    "Huyện Văn Lãng": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Văn Lãng",
+      "lat": "22.0924829",
+      "lng": "106.5819789"
+    },
+    "Huyện Văn Quan": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Văn Quan",
+      "lat": "21.8453587",
+      "lng": "106.5112712"
+    },
+    "Huyện Đình Lập": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Huyện Đình Lập",
+      "lat": "21.5711978",
+      "lng": "107.1484521"
+    },
+    "Thành phố Lạng Sơn": {
+      "code": "20",
+      "city": "Lạng Sơn",
+      "district": "Thành phố Lạng Sơn",
+      "lat": "21.853708",
+      "lng": "106.761519"
+    }
+  },
+  "Nam Định": {
+    "Huyện Giao Thủy": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Giao Thủy",
+      "lat": "20.2314086",
+      "lng": "106.4641459"
+    },
+    "Huyện Hải Hậu": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Hải Hậu",
+      "lat": "20.1568875",
+      "lng": "106.2757514"
+    },
+    "Huyện Mỹ Lộc": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Mỹ Lộc",
+      "lat": "20.4604906",
+      "lng": "106.1228099"
+    },
+    "Huyện Nam Trực": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Nam Trực",
+      "lat": "20.3358927",
+      "lng": "106.2169139"
+    },
+    "Huyện Nghĩa Hưng": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Nghĩa Hưng",
+      "lat": "20.0732479",
+      "lng": "106.1816196"
+    },
+    "Huyện Trực Ninh": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Trực Ninh",
+      "lat": "20.243376",
+      "lng": "106.2169139"
+    },
+    "Huyện Vụ Bản": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Vụ Bản",
+      "lat": "20.370142",
+      "lng": "106.099291"
+    },
+    "Huyện Xuân Trường": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Xuân Trường",
+      "lat": "20.2993311",
+      "lng": "106.3581527"
+    },
+    "Huyện Ý Yên": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Huyện Ý Yên",
+      "lat": "20.3684984",
+      "lng": "105.993491"
+    },
+    "Thành phố Nam Định": {
+      "code": "36",
+      "city": "Nam Định",
+      "district": "Thành phố Nam Định",
+      "lat": "20.4388225",
+      "lng": "106.1621053"
+    }
+  },
+  "Nghệ An": {
+    "Huyện Anh Sơn": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Anh Sơn",
+      "lat": "18.9688054",
+      "lng": "105.0557415"
+    },
+    "Huyện Con Cuông": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Con Cuông",
+      "lat": "19.0130593",
+      "lng": "104.798771"
+    },
+    "Huyện Diễn Châu": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Diễn Châu",
+      "lat": "19.0179688",
+      "lng": "105.5708865"
+    },
+    "Huyện Hưng Nguyên": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Hưng Nguyên",
+      "lat": "18.6316742",
+      "lng": "105.629523"
+    },
+    "Huyện Kỳ Sơn": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Kỳ Sơn",
+      "lat": "19.38547",
+      "lng": "104.1827912"
+    },
+    "Huyện Nam Đàn": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Nam Đàn",
+      "lat": "18.6983445",
+      "lng": "105.5239912"
+    },
+    "Huyện Nghi Lộc": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Nghi Lộc",
+      "lat": "18.8142042",
+      "lng": "105.5835663"
+    },
+    "Huyện Nghĩa Đàn": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Nghĩa Đàn",
+      "lat": "19.4003352",
+      "lng": "105.4302383"
+    },
+    "Huyện Quế Phong": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Quế Phong",
+      "lat": "19.6862686",
+      "lng": "104.9563176"
+    },
+    "Huyện Quỳ Châu": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Quỳ Châu",
+      "lat": "19.5463056",
+      "lng": "105.0791228"
+    },
+    "Huyện Quỳ Hợp": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Quỳ Hợp",
+      "lat": "19.3528917",
+      "lng": "105.1726816"
+    },
+    "Huyện Quỳnh Lưu": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Quỳnh Lưu",
+      "lat": "19.2200256",
+      "lng": "105.6412527"
+    },
+    "Huyện Thanh Chương": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Thanh Chương",
+      "lat": "18.6967739",
+      "lng": "105.2662931"
+    },
+    "Huyện Tân Kỳ": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Tân Kỳ",
+      "lat": "19.0748796",
+      "lng": "105.1726816"
+    },
+    "Huyện Tương Dương": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Tương Dương",
+      "lat": "19.2640131",
+      "lng": "104.5655273"
+    },
+    "Huyện Yên Thành": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Yên Thành",
+      "lat": "19.0511285",
+      "lng": "105.4536718"
+    },
+    "Huyện Đô Lương": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Huyện Đô Lương",
+      "lat": "18.8990982",
+      "lng": "105.336536"
+    },
+    "Thành phố Vinh": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Thành phố Vinh",
+      "lat": "18.6795848",
+      "lng": "105.6813333"
+    },
+    "Thị xã Cửa Lò": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Thị xã Cửa Lò",
+      "lat": "18.7942251",
+      "lng": "105.7252402"
+    },
+    "Thị xã Hoàng Mai": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Thị xã Hoàng Mai",
+      "lat": "19.2683318",
+      "lng": "105.7161966"
+    },
+    "Thị xã Thái Hoà": {
+      "code": "40",
+      "city": "Nghệ An",
+      "district": "Thị xã Thái Hoà",
+      "lat": "19.3240044",
+      "lng": "105.4203355"
+    }
+  },
+  "Ninh Bình": {
+    "Huyện Gia Viễn": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Gia Viễn",
+      "lat": "20.3353002",
+      "lng": "105.8525154"
+    },
+    "Huyện Hoa Lư": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Hoa Lư",
+      "lat": "20.248813",
+      "lng": "105.9112424"
+    },
+    "Huyện Kim Sơn": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Kim Sơn",
+      "lat": "20.0462334",
+      "lng": "106.099291"
+    },
+    "Huyện Nho Quan": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Nho Quan",
+      "lat": "20.2976274",
+      "lng": "105.7585908"
+    },
+    "Huyện Yên Khánh": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Yên Khánh",
+      "lat": "20.187228",
+      "lng": "106.0757749"
+    },
+    "Huyện Yên Mô": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Huyện Yên Mô",
+      "lat": "20.1370289",
+      "lng": "105.993491"
+    },
+    "Thành phố Ninh Bình": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Thành phố Ninh Bình",
+      "lat": "20.2506149",
+      "lng": "105.9744536"
+    },
+    "Thành phố Tam Điệp": {
+      "code": "37",
+      "city": "Ninh Bình",
+      "district": "Thành phố Tam Điệp",
+      "lat": "20.1457115",
+      "lng": "105.8994956"
+    }
+  },
+  "Ninh Thuận": {
+    "Huyện Bác Ái": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Bác Ái",
+      "lat": "11.8334154",
+      "lng": "108.8551484"
+    },
+    "Huyện Ninh Hải": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Ninh Hải",
+      "lat": "11.7032481",
+      "lng": "109.1642208"
+    },
+    "Huyện Ninh Phước": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Ninh Phước",
+      "lat": "11.4850435",
+      "lng": "108.8551484"
+    },
+    "Huyện Ninh Sơn": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Ninh Sơn",
+      "lat": "11.6888699",
+      "lng": "108.736337"
+    },
+    "Huyện Thuận Bắc": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Thuận Bắc",
+      "lat": "11.7533327",
+      "lng": "109.0690976"
+    },
+    "Huyện Thuận Nam": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Huyện Thuận Nam",
+      "lat": "11.4763856",
+      "lng": "108.9112608"
+    },
+    "Thành phố Phan Rang-Tháp Chàm": {
+      "code": "58",
+      "city": "Ninh Thuận",
+      "district": "Thành phố Phan Rang-Tháp Chàm",
+      "lat": "11.5825677",
+      "lng": "108.9912066"
+    }
+  },
+  "Phú Thọ": {
+    "Huyện Cẩm Khê": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Cẩm Khê",
+      "lat": "21.4298041",
+      "lng": "105.0557415"
+    },
+    "Huyện Hạ Hoà": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Hạ Hoà",
+      "lat": "21.5735989",
+      "lng": "105.0089888"
+    },
+    "Huyện Lâm Thao": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Lâm Thao",
+      "lat": "21.3026143",
+      "lng": "105.3014109"
+    },
+    "Huyện Phù Ninh": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Phù Ninh",
+      "lat": "21.4753257",
+      "lng": "105.2844608"
+    },
+    "Huyện Tam Nông": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Tam Nông",
+      "lat": "21.2858685",
+      "lng": "105.2311827"
+    },
+    "Huyện Thanh Ba": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Thanh Ba",
+      "lat": "21.4677045",
+      "lng": "105.1492869"
+    },
+    "Huyện Thanh Sơn": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Thanh Sơn",
+      "lat": "21.0240198",
+      "lng": "105.1726816"
+    },
+    "Huyện Thanh Thuỷ": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Thanh Thuỷ",
+      "lat": "21.1141818",
+      "lng": "105.2807163"
+    },
+    "Huyện Tân Sơn": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Tân Sơn",
+      "lat": "21.1665519",
+      "lng": "104.9894851"
+    },
+    "Huyện Yên Lập": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Yên Lập",
+      "lat": "21.3410625",
+      "lng": "105.0089888"
+    },
+    "Huyện Đoan Hùng": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Huyện Đoan Hùng",
+      "lat": "21.6071636",
+      "lng": "105.1492869"
+    },
+    "Thành phố Việt Trì": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Thành phố Việt Trì",
+      "lat": "21.3570099",
+      "lng": "105.352633"
+    },
+    "Thị xã Phú Thọ": {
+      "code": "25",
+      "city": "Phú Thọ",
+      "district": "Thị xã Phú Thọ",
+      "lat": "21.4219791",
+      "lng": "105.2296992"
+    }
+  },
+  "Phú Yên": {
+    "Huyện Phú Hoà": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Phú Hoà",
+      "lat": "13.0606953",
+      "lng": "109.1642208"
+    },
+    "Huyện Sông Hinh": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Sông Hinh",
+      "lat": "12.8786353",
+      "lng": "108.9502232"
+    },
+    "Huyện Sơn Hòa": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Sơn Hòa",
+      "lat": "13.1431691",
+      "lng": "108.9502232"
+    },
+    "Huyện Tuy An": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Tuy An",
+      "lat": "13.297735",
+      "lng": "109.2355764"
+    },
+    "Huyện Tây Hoà": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Tây Hoà",
+      "lat": "12.9285815",
+      "lng": "109.1642208"
+    },
+    "Huyện Đồng Xuân": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Huyện Đồng Xuân",
+      "lat": "13.4083074",
+      "lng": "108.9502232"
+    },
+    "Thành phố Tuy Hoà": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Thành phố Tuy Hoà",
+      "lat": "13.1057062",
+      "lng": "109.295048"
+    },
+    "Thị xã Sông Cầu": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Thị xã Sông Cầu",
+      "lat": "13.5809065",
+      "lng": "109.1991932"
+    },
+    "Thị xã Đông Hòa": {
+      "code": "54",
+      "city": "Phú Yên",
+      "district": "Thị xã Đông Hòa",
+      "lat": "12.9580642",
+      "lng": "109.354527"
+    }
+  },
+  "Quảng Bình": {
+    "Huyện Bố Trạch": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Bố Trạch",
+      "lat": "17.5047078",
+      "lng": "106.2992912"
+    },
+    "Huyện Lệ Thủy": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Lệ Thủy",
+      "lat": "17.1064913",
+      "lng": "106.676292"
+    },
+    "Huyện Minh Hóa": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Minh Hóa",
+      "lat": "17.719816",
+      "lng": "105.92299"
+    },
+    "Huyện Quảng Ninh": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Quảng Ninh",
+      "lat": "17.2394584",
+      "lng": "106.4616246"
+    },
+    "Huyện Quảng Trạch": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Quảng Trạch",
+      "lat": "17.8640126",
+      "lng": "106.3934777"
+    },
+    "Huyện Tuyên Hóa": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Huyện Tuyên Hóa",
+      "lat": "17.9319039",
+      "lng": "105.9722814"
+    },
+    "Thành phố Đồng Hới": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Thành phố Đồng Hới",
+      "lat": "17.4659391",
+      "lng": "106.5983958"
+    },
+    "Thị xã Ba Đồn": {
+      "code": "44",
+      "city": "Quảng Bình",
+      "district": "Thị xã Ba Đồn",
+      "lat": "17.7555407",
+      "lng": "106.4199755"
+    }
+  },
+  "Quảng Nam": {
+    "Huyện Bắc Trà My": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Bắc Trà My",
+      "lat": "15.3202715",
+      "lng": "108.214028"
+    },
+    "Huyện Duy Xuyên": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Duy Xuyên",
+      "lat": "15.77511",
+      "lng": "108.1665855"
+    },
+    "Huyện Hiệp Đức": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Hiệp Đức",
+      "lat": "15.5590682",
+      "lng": "108.0805694"
+    },
+    "Huyện Nam Giang": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Nam Giang",
+      "lat": "15.6628546",
+      "lng": "107.6215321"
+    },
+    "Huyện Nam Trà My": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Nam Trà My",
+      "lat": "15.0826614",
+      "lng": "108.0954351"
+    },
+    "Huyện Nông Sơn": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Nông Sơn",
+      "lat": "15.6557978",
+      "lng": "107.9768875"
+    },
+    "Huyện Núi Thành": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Núi Thành",
+      "lat": "15.4229422",
+      "lng": "108.5938124"
+    },
+    "Huyện Phú Ninh": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Phú Ninh",
+      "lat": "15.5743256",
+      "lng": "108.4038672"
+    },
+    "Huyện Phước Sơn": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Phước Sơn",
+      "lat": "15.3762517",
+      "lng": "107.811"
+    },
+    "Huyện Quế Sơn": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Quế Sơn",
+      "lat": "15.6848385",
+      "lng": "108.1665855"
+    },
+    "Huyện Thăng Bình": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Thăng Bình",
+      "lat": "15.6890346",
+      "lng": "108.3801314"
+    },
+    "Huyện Tiên Phước": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Tiên Phước",
+      "lat": "15.4964006",
+      "lng": "108.2614775"
+    },
+    "Huyện Tây Giang": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Tây Giang",
+      "lat": "15.8852628",
+      "lng": "107.4890302"
+    },
+    "Huyện Đông Giang": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Đông Giang",
+      "lat": "15.9660249",
+      "lng": "107.7831632"
+    },
+    "Huyện Đại Lộc": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Huyện Đại Lộc",
+      "lat": "15.8497875",
+      "lng": "108.0668661"
+    },
+    "Thành phố Hội An": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Thành phố Hội An",
+      "lat": "15.8800584",
+      "lng": "108.3380469"
+    },
+    "Thành phố Tam Kỳ": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Thành phố Tam Kỳ",
+      "lat": "15.5638292",
+      "lng": "108.4821677"
+    },
+    "Thị xã Điện Bàn": {
+      "code": "49",
+      "city": "Quảng Nam",
+      "district": "Thị xã Điện Bàn",
+      "lat": "15.8915646",
+      "lng": "108.2477859"
+    }
+  },
+  "Quảng Ngãi": {
+    "Huyện Ba Tơ": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Ba Tơ",
+      "lat": "14.7663789",
+      "lng": "108.6650678"
+    },
+    "Huyện Bình Sơn": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Bình Sơn",
+      "lat": "15.3166491",
+      "lng": "108.7838572"
+    },
+    "Huyện Lý Sơn": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Lý Sơn",
+      "lat": "15.383361",
+      "lng": "109.1107114"
+    },
+    "Huyện Minh Long": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Minh Long",
+      "lat": "14.9659262",
+      "lng": "108.6888227"
+    },
+    "Huyện Mộ Đức": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Mộ Đức",
+      "lat": "14.9498041",
+      "lng": "108.878915"
+    },
+    "Huyện Nghĩa Hành": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Nghĩa Hành",
+      "lat": "15.0026852",
+      "lng": "108.7838572"
+    },
+    "Huyện Sơn Hà": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Sơn Hà",
+      "lat": "15.0431944",
+      "lng": "108.5700636"
+    },
+    "Huyện Sơn Tây": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Sơn Tây",
+      "lat": "14.9488528",
+      "lng": "108.3563972"
+    },
+    "Huyện Sơn Tịnh": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Sơn Tịnh",
+      "lat": "15.1860945",
+      "lng": "108.736337"
+    },
+    "Huyện Trà Bồng": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Trà Bồng",
+      "lat": "15.2512645",
+      "lng": "108.4988269"
+    },
+    "Huyện Tư Nghĩa": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Huyện Tư Nghĩa",
+      "lat": "15.1065785",
+      "lng": "108.7482165"
+    },
+    "Thành phố Quảng Ngãi": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Thành phố Quảng Ngãi",
+      "lat": "15.1213873",
+      "lng": "108.8044145"
+    },
+    "Thị xã Đức Phổ": {
+      "code": "51",
+      "city": "Quảng Ngãi",
+      "district": "Thị xã Đức Phổ",
+      "lat": "14.762796",
+      "lng": "108.9739954"
+    }
+  },
+  "Quảng Ninh": {
+    "Huyện Ba Chẽ": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Ba Chẽ",
+      "lat": "21.294325",
+      "lng": "107.1484521"
+    },
+    "Huyện Bình Liêu": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Bình Liêu",
+      "lat": "21.5410162",
+      "lng": "107.4321959"
+    },
+    "Huyện Cô Tô": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Cô Tô",
+      "lat": "21.1062206",
+      "lng": "107.8346924"
+    },
+    "Huyện Hải Hà": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Hải Hà",
+      "lat": "21.4182232",
+      "lng": "107.71625"
+    },
+    "Huyện Tiên Yên": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Tiên Yên",
+      "lat": "21.3666878",
+      "lng": "107.3375791"
+    },
+    "Huyện Vân Đồn": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Vân Đồn",
+      "lat": "21.0693983",
+      "lng": "107.4202262"
+    },
+    "Huyện Đầm Hà": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Huyện Đầm Hà",
+      "lat": "21.3619435",
+      "lng": "107.5978577"
+    },
+    "Thành phố Cẩm Phả": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thành phố Cẩm Phả",
+      "lat": "21.0718937",
+      "lng": "107.3201023"
+    },
+    "Thành phố Hạ Long": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thành phố Hạ Long",
+      "lat": "20.9711977",
+      "lng": "107.0448069"
+    },
+    "Thành phố Móng Cái": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thành phố Móng Cái",
+      "lat": "21.5259443",
+      "lng": "107.9723669"
+    },
+    "Thành phố Uông Bí": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thành phố Uông Bí",
+      "lat": "21.0339076",
+      "lng": "106.7648209"
+    },
+    "Thị xã Quảng Yên": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thị xã Quảng Yên",
+      "lat": "20.9387415",
+      "lng": "106.796489"
+    },
+    "Thị xã Đông Triều": {
+      "code": "22",
+      "city": "Quảng Ninh",
+      "district": "Thị xã Đông Triều",
+      "lat": "21.0958153",
+      "lng": "106.6055534"
+    }
+  },
+  "Quảng Trị": {
+    "Huyện Cam Lộ": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Cam Lộ",
+      "lat": "16.783695",
+      "lng": "106.9830865"
+    },
+    "Huyện Cồn Cỏ": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Cồn Cỏ",
+      "lat": "17.1606501",
+      "lng": "107.3405354"
+    },
+    "Huyện Gio Linh": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Gio Linh",
+      "lat": "16.9165711",
+      "lng": "107.0303221"
+    },
+    "Huyện Hướng Hóa": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Hướng Hóa",
+      "lat": "16.6495512",
+      "lng": "106.676292"
+    },
+    "Huyện Hải Lăng": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Hải Lăng",
+      "lat": "16.714002",
+      "lng": "107.2666396"
+    },
+    "Huyện Triệu Phong": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Triệu Phong",
+      "lat": "16.809184",
+      "lng": "107.2193578"
+    },
+    "Huyện Vĩnh Linh": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Vĩnh Linh",
+      "lat": "17.0743311",
+      "lng": "107.0539434"
+    },
+    "Huyện Đa Krông": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Huyện Đa Krông",
+      "lat": "16.5349165",
+      "lng": "106.9594723"
+    },
+    "Thành phố Đông Hà": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Thành phố Đông Hà",
+      "lat": "16.8088928",
+      "lng": "107.0893798"
+    },
+    "Thị xã Quảng Trị": {
+      "code": "45",
+      "city": "Quảng Trị",
+      "district": "Thị xã Quảng Trị",
+      "lat": "16.7403074",
+      "lng": "107.1854679"
+    }
+  },
+  "Sóc Trăng": {
+    "Huyện Châu Thành": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Châu Thành",
+      "lat": "9.680972599999999",
+      "lng": "105.8994956"
+    },
+    "Huyện Cù Lao Dung": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Cù Lao Dung",
+      "lat": "9.579152200000001",
+      "lng": "106.22868"
+    },
+    "Huyện Kế Sách": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Kế Sách",
+      "lat": "9.8310108",
+      "lng": "105.92299"
+    },
+    "Huyện Long Phú": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Long Phú",
+      "lat": "9.628942100000002",
+      "lng": "106.0875326"
+    },
+    "Huyện Mỹ Tú": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Mỹ Tú",
+      "lat": "9.599103999999999",
+      "lng": "105.8055471"
+    },
+    "Huyện Mỹ Xuyên": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Mỹ Xuyên",
+      "lat": "9.465511099999999",
+      "lng": "105.8994956"
+    },
+    "Huyện Thạnh Trị": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Thạnh Trị",
+      "lat": "9.4741407",
+      "lng": "105.7116464"
+    },
+    "Huyện Trần Đề": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Huyện Trần Đề",
+      "lat": "9.49978",
+      "lng": "106.0875326"
+    },
+    "Thành phố Sóc Trăng": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Thành phố Sóc Trăng",
+      "lat": "9.602521",
+      "lng": "105.9739049"
+    },
+    "Thị xã Ngã Năm": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Thị xã Ngã Năm",
+      "lat": "9.521517099999999",
+      "lng": "105.6177942"
+    },
+    "Thị xã Vĩnh Châu": {
+      "code": "94",
+      "city": "Sóc Trăng",
+      "district": "Thị xã Vĩnh Châu",
+      "lat": "9.3751715",
+      "lng": "105.993491"
+    }
+  },
+  "Sơn La": {
+    "Huyện Bắc Yên": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Bắc Yên",
+      "lat": "21.2765545",
+      "lng": "104.4257533"
+    },
+    "Huyện Mai Sơn": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Mai Sơn",
+      "lat": "21.1219095",
+      "lng": "104.053676"
+    },
+    "Huyện Mường La": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Mường La",
+      "lat": "21.495112",
+      "lng": "104.053676"
+    },
+    "Huyện Mộc Châu": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Mộc Châu",
+      "lat": "20.9220823",
+      "lng": "104.7520939"
+    },
+    "Huyện Phù Yên": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Phù Yên",
+      "lat": "21.1588947",
+      "lng": "104.705431"
+    },
+    "Huyện Quỳnh Nhai": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Quỳnh Nhai",
+      "lat": "21.7132038",
+      "lng": "103.682586"
+    },
+    "Huyện Sông Mã": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Sông Mã",
+      "lat": "21.0593251",
+      "lng": "103.682586"
+    },
+    "Huyện Sốp Cộp": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Sốp Cộp",
+      "lat": "20.8874516",
+      "lng": "103.4974258"
+    },
+    "Huyện Thuận Châu": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Thuận Châu",
+      "lat": "21.3900652",
+      "lng": "103.6362715"
+    },
+    "Huyện Vân Hồ": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Vân Hồ",
+      "lat": "20.7931051",
+      "lng": "104.7637619"
+    },
+    "Huyện Yên Châu": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Huyện Yên Châu",
+      "lat": "21.0050006",
+      "lng": "104.332644"
+    },
+    "Thành phố Sơn La": {
+      "code": "14",
+      "city": "Sơn La",
+      "district": "Thành phố Sơn La",
+      "lat": "21.3269024",
+      "lng": "103.9143869"
+    }
+  },
+  "Thanh Hóa": {
+    "Huyện Bá Thước": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Bá Thước",
+      "lat": "20.3653356",
+      "lng": "105.2662931"
+    },
+    "Huyện Cẩm Thủy": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Cẩm Thủy",
+      "lat": "20.184101",
+      "lng": "105.4771084"
+    },
+    "Huyện Hoằng Hóa": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Hoằng Hóa",
+      "lat": "19.8216851",
+      "lng": "105.8994956"
+    },
+    "Huyện Hà Trung": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Hà Trung",
+      "lat": "20.0617086",
+      "lng": "105.8055471"
+    },
+    "Huyện Hậu Lộc": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Hậu Lộc",
+      "lat": "19.9268879",
+      "lng": "105.8877494"
+    },
+    "Huyện Lang Chánh": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Lang Chánh",
+      "lat": "20.166759",
+      "lng": "105.1492869"
+    },
+    "Huyện Mường Lát": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Mường Lát",
+      "lat": "20.4941326",
+      "lng": "104.5888356"
+    },
+    "Huyện Nga Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Nga Sơn",
+      "lat": "19.9981878",
+      "lng": "105.993491"
+    },
+    "Huyện Ngọc Lặc": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Ngọc Lặc",
+      "lat": "20.0785891",
+      "lng": "105.3599568"
+    },
+    "Huyện Như Thanh": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Như Thanh",
+      "lat": "19.5733122",
+      "lng": "105.5708865"
+    },
+    "Huyện Như Xuân": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Như Xuân",
+      "lat": "19.6149135",
+      "lng": "105.3599568"
+    },
+    "Huyện Nông Cống": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Nông Cống",
+      "lat": "19.6113284",
+      "lng": "105.6647142"
+    },
+    "Huyện Quan Hóa": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Quan Hóa",
+      "lat": "20.4830433",
+      "lng": "104.9856176"
+    },
+    "Huyện Quan Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Quan Sơn",
+      "lat": "20.2123327",
+      "lng": "104.8921668"
+    },
+    "Huyện Quảng Xương": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Quảng Xương",
+      "lat": "19.6913377",
+      "lng": "105.8055471"
+    },
+    "Huyện Thiệu Hóa": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Thiệu Hóa",
+      "lat": "19.889182",
+      "lng": "105.6647142"
+    },
+    "Huyện Thường Xuân": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Thường Xuân",
+      "lat": "19.9012787",
+      "lng": "105.2662931"
+    },
+    "Huyện Thạch Thành": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Thạch Thành",
+      "lat": "20.2177814",
+      "lng": "105.6177942"
+    },
+    "Huyện Thọ Xuân": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Thọ Xuân",
+      "lat": "19.9059121",
+      "lng": "105.4771084"
+    },
+    "Huyện Triệu Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Triệu Sơn",
+      "lat": "19.8512387",
+      "lng": "105.5708865"
+    },
+    "Huyện Vĩnh Lộc": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Vĩnh Lộc",
+      "lat": "20.0408049",
+      "lng": "105.652983"
+    },
+    "Huyện Yên Định": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Yên Định",
+      "lat": "19.9860515",
+      "lng": "105.6177942"
+    },
+    "Huyện Đông Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Huyện Đông Sơn",
+      "lat": "19.8049755",
+      "lng": "105.6999122"
+    },
+    "Thành phố Sầm Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Thành phố Sầm Sơn",
+      "lat": "19.7635014",
+      "lng": "105.8981234"
+    },
+    "Thành phố Thanh Hóa": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Thành phố Thanh Hóa",
+      "lat": "19.806692",
+      "lng": "105.7851816"
+    },
+    "Thị xã Bỉm Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Thị xã Bỉm Sơn",
+      "lat": "20.0848952",
+      "lng": "105.8575198"
+    },
+    "Thị xã Nghi Sơn": {
+      "code": "38",
+      "city": "Thanh Hóa",
+      "district": "Thị xã Nghi Sơn",
+      "lat": "19.43838",
+      "lng": "105.7745131"
+    }
+  },
+  "Thái Bình": {
+    "Huyện Hưng Hà": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Hưng Hà",
+      "lat": "20.5903748",
+      "lng": "106.2169139"
+    },
+    "Huyện Kiến Xương": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Kiến Xương",
+      "lat": "20.4208256",
+      "lng": "106.4170311"
+    },
+    "Huyện Quỳnh Phụ": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Quỳnh Phụ",
+      "lat": "20.6608254",
+      "lng": "106.3276864"
+    },
+    "Huyện Thái Thụy": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Thái Thụy",
+      "lat": "20.5655791",
+      "lng": "106.5648803"
+    },
+    "Huyện Tiền Hải": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Tiền Hải",
+      "lat": "20.3609414",
+      "lng": "106.5584071"
+    },
+    "Huyện Vũ Thư": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Vũ Thư",
+      "lat": "20.4343787",
+      "lng": "106.2757514"
+    },
+    "Huyện Đông Hưng": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Huyện Đông Hưng",
+      "lat": "20.5640924",
+      "lng": "106.3699271"
+    },
+    "Thành phố Thái Bình": {
+      "code": "34",
+      "city": "Thái Bình",
+      "district": "Thành phố Thái Bình",
+      "lat": "20.4463471",
+      "lng": "106.3365828"
+    }
+  },
+  "Thái Nguyên": {
+    "Huyện Phú Bình": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Phú Bình",
+      "lat": "21.4849768",
+      "lng": "105.9464874"
+    },
+    "Huyện Phú Lương": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Phú Lương",
+      "lat": "21.786057",
+      "lng": "105.7116464"
+    },
+    "Huyện Võ Nhai": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Võ Nhai",
+      "lat": "21.7793409",
+      "lng": "106.0169971"
+    },
+    "Huyện Đại Từ": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Đại Từ",
+      "lat": "21.6304358",
+      "lng": "105.6412527"
+    },
+    "Huyện Định Hóa": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Định Hóa",
+      "lat": "21.8879551",
+      "lng": "105.6177942"
+    },
+    "Huyện Đồng Hỷ": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Huyện Đồng Hỷ",
+      "lat": "21.6286393",
+      "lng": "105.8994956"
+    },
+    "Thành phố Phổ Yên": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Thành phố Phổ Yên",
+      "lat": "21.413875",
+      "lng": "105.8486183"
+    },
+    "Thành phố Sông Công": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Thành phố Sông Công",
+      "lat": "21.4777976",
+      "lng": "105.8426094"
+    },
+    "Thành phố Thái Nguyên": {
+      "code": "19",
+      "city": "Thái Nguyên",
+      "district": "Thành phố Thái Nguyên",
+      "lat": "21.5671559",
+      "lng": "105.8252038"
+    }
+  },
+  "Thừa Thiên Huế": {
+    "Huyện A Lưới": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện A Lưới",
+      "lat": "16.2303741",
+      "lng": "107.3375791"
+    },
+    "Huyện Nam Đông": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện Nam Đông",
+      "lat": "16.1249688",
+      "lng": "107.6707417"
+    },
+    "Huyện Phong Điền": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện Phong Điền",
+      "lat": "16.503112",
+      "lng": "107.3375791"
+    },
+    "Huyện Phú Lộc": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện Phú Lộc",
+      "lat": "16.2725431",
+      "lng": "107.9394761"
+    },
+    "Huyện Phú Vang": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện Phú Vang",
+      "lat": "16.491213",
+      "lng": "107.7399345"
+    },
+    "Huyện Quảng Điền": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Huyện Quảng Điền",
+      "lat": "16.5902415",
+      "lng": "107.5150139"
+    },
+    "Thành phố Huế": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Thành phố Huế",
+      "lat": "16.4637117",
+      "lng": "107.5908628"
+    },
+    "Thị xã Hương Thủy": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Thị xã Hương Thủy",
+      "lat": "16.4089569",
+      "lng": "107.6772521"
+    },
+    "Thị xã Hương Trà": {
+      "code": "46",
+      "city": "Thừa Thiên Huế",
+      "district": "Thị xã Hương Trà",
+      "lat": "16.420796",
+      "lng": "107.5031811"
+    }
+  },
+  "Tiền Giang": {
+    "Huyện Cai Lậy": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Cai Lậy",
+      "lat": "10.4287401",
+      "lng": "106.1110501"
+    },
+    "Huyện Châu Thành": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Châu Thành",
+      "lat": "10.4009358",
+      "lng": "106.22868"
+    },
+    "Huyện Chợ Gạo": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Chợ Gạo",
+      "lat": "10.3793903",
+      "lng": "106.4541903"
+    },
+    "Huyện Cái Bè": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Cái Bè",
+      "lat": "10.3718873",
+      "lng": "105.9464874"
+    },
+    "Huyện Gò Công Tây": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Gò Công Tây",
+      "lat": "10.3378629",
+      "lng": "106.6055534"
+    },
+    "Huyện Gò Công Đông": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Gò Công Đông",
+      "lat": "10.3737254",
+      "lng": "106.7470536"
+    },
+    "Huyện Tân Phú Đông": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Tân Phú Đông",
+      "lat": "10.2462427",
+      "lng": "106.6998767"
+    },
+    "Huyện Tân Phước": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Huyện Tân Phước",
+      "lat": "10.5314211",
+      "lng": "106.22868"
+    },
+    "Thành phố Mỹ Tho": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Thành phố Mỹ Tho",
+      "lat": "10.3765284",
+      "lng": "106.3438891"
+    },
+    "Thị xã Cai Lậy": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Thị xã Cai Lậy",
+      "lat": "10.4050639",
+      "lng": "106.1186715"
+    },
+    "Thị xã Gò Công": {
+      "code": "82",
+      "city": "Tiền Giang",
+      "district": "Thị xã Gò Công",
+      "lat": "10.3645799",
+      "lng": "106.6781219"
+    }
+  },
+  "Trà Vinh": {
+    "Huyện Châu Thành": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Châu Thành",
+      "lat": "9.8331585",
+      "lng": "106.3228338"
+    },
+    "Huyện Càng Long": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Càng Long",
+      "lat": "9.9674087",
+      "lng": "106.22868"
+    },
+    "Huyện Cầu Kè": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Cầu Kè",
+      "lat": "9.8878863",
+      "lng": "106.0875326"
+    },
+    "Huyện Cầu Ngang": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Cầu Ngang",
+      "lat": "9.7830517",
+      "lng": "106.4641459"
+    },
+    "Huyện Duyên Hải": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Duyên Hải",
+      "lat": "9.631184200000002",
+      "lng": "106.4877072"
+    },
+    "Huyện Tiểu Cần": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Tiểu Cần",
+      "lat": "9.7969156",
+      "lng": "106.1816196"
+    },
+    "Huyện Trà Cú": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Huyện Trà Cú",
+      "lat": "9.7060851",
+      "lng": "106.2757514"
+    },
+    "Thành phố Trà Vinh": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Thành phố Trà Vinh",
+      "lat": "9.9513316",
+      "lng": "106.3346061"
+    },
+    "Thị xã Duyên Hải": {
+      "code": "84",
+      "city": "Trà Vinh",
+      "district": "Thị xã Duyên Hải",
+      "lat": "9.635697799999999",
+      "lng": "106.50538"
+    }
+  },
+  "Tuyên Quang": {
+    "Huyện Chiêm Hóa": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Chiêm Hóa",
+      "lat": "22.1306765",
+      "lng": "105.2662931"
+    },
+    "Huyện Hàm Yên": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Hàm Yên",
+      "lat": "22.0839452",
+      "lng": "105.027174"
+    },
+    "Huyện Lâm Bình": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Lâm Bình",
+      "lat": "22.5024026",
+      "lng": "105.2662931"
+    },
+    "Huyện Na Hang": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Na Hang",
+      "lat": "22.4842087",
+      "lng": "105.4536718"
+    },
+    "Huyện Sơn Dương": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Sơn Dương",
+      "lat": "21.6571812",
+      "lng": "105.3599568"
+    },
+    "Huyện Yên Sơn": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Huyện Yên Sơn",
+      "lat": "21.9447986",
+      "lng": "105.2662931"
+    },
+    "Thành phố Tuyên Quang": {
+      "code": "08",
+      "city": "Tuyên Quang",
+      "district": "Thành phố Tuyên Quang",
+      "lat": "21.7767246",
+      "lng": "105.2280196"
+    }
+  },
+  "Tây Ninh": {
+    "Huyện Bến Cầu": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Bến Cầu",
+      "lat": "11.1506368",
+      "lng": "106.0875326"
+    },
+    "Huyện Châu Thành": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Châu Thành",
+      "lat": "11.3081393",
+      "lng": "106.0169971"
+    },
+    "Huyện Dương Minh Châu": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Dương Minh Châu",
+      "lat": "11.3595908",
+      "lng": "106.2757514"
+    },
+    "Huyện Gò Dầu": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Gò Dầu",
+      "lat": "11.1402783",
+      "lng": "106.2757514"
+    },
+    "Huyện Tân Biên": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Tân Biên",
+      "lat": "11.572115",
+      "lng": "106.0169971"
+    },
+    "Huyện Tân Châu": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Huyện Tân Châu",
+      "lat": "11.5614393",
+      "lng": "106.2051484"
+    },
+    "Thành phố Tây Ninh": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Thành phố Tây Ninh",
+      "lat": "11.3351554",
+      "lng": "106.1098854"
+    },
+    "Thị xã Hòa Thành": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Thị xã Hòa Thành",
+      "lat": "11.2680459",
+      "lng": "106.1463317"
+    },
+    "Thị xã Trảng Bàng": {
+      "code": "72",
+      "city": "Tây Ninh",
+      "district": "Thị xã Trảng Bàng",
+      "lat": "11.0328111",
+      "lng": "106.3645677"
+    }
+  },
+  "Vĩnh Long": {
+    "Huyện Bình Tân": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Bình Tân",
+      "lat": "10.1218894",
+      "lng": "105.7728863"
+    },
+    "Huyện Long Hồ": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Long Hồ",
+      "lat": "10.1980682",
+      "lng": "105.9464874"
+    },
+    "Huyện Mang Thít": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Mang Thít",
+      "lat": "10.18076",
+      "lng": "106.0757749"
+    },
+    "Huyện Tam Bình": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Tam Bình",
+      "lat": "10.0679356",
+      "lng": "105.9464874"
+    },
+    "Huyện Trà Ôn": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Trà Ôn",
+      "lat": "9.9789961",
+      "lng": "105.993491"
+    },
+    "Huyện Vũng Liêm": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Huyện Vũng Liêm",
+      "lat": "10.058632",
+      "lng": "106.1345705"
+    },
+    "Thành phố Vĩnh Long": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Thành phố Vĩnh Long",
+      "lat": "10.239574",
+      "lng": "105.9571928"
+    },
+    "Thị xã Bình Minh": {
+      "code": "86",
+      "city": "Vĩnh Long",
+      "district": "Thị xã Bình Minh",
+      "lat": "10.0705169",
+      "lng": "105.8229464"
+    }
+  },
+  "Vĩnh Phúc": {
+    "Huyện Bình Xuyên": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Bình Xuyên",
+      "lat": "21.313857",
+      "lng": "105.6764461"
+    },
+    "Huyện Lập Thạch": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Lập Thạch",
+      "lat": "21.4371499",
+      "lng": "105.4771084"
+    },
+    "Huyện Sông Lô": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Sông Lô",
+      "lat": "21.4564665",
+      "lng": "105.3950939"
+    },
+    "Huyện Tam Dương": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Tam Dương",
+      "lat": "21.3713778",
+      "lng": "105.5591615"
+    },
+    "Huyện Tam Đảo": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Tam Đảo",
+      "lat": "21.4747064",
+      "lng": "105.5708865"
+    },
+    "Huyện Vĩnh Tường": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Vĩnh Tường",
+      "lat": "21.2537742",
+      "lng": "105.4899167"
+    },
+    "Huyện Yên Lạc": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Huyện Yên Lạc",
+      "lat": "21.1962199",
+      "lng": "105.5708865"
+    },
+    "Thành phố Phúc Yên": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Thành phố Phúc Yên",
+      "lat": "21.2815969",
+      "lng": "105.7249738"
+    },
+    "Thành phố Vĩnh Yên": {
+      "code": "26",
+      "city": "Vĩnh Phúc",
+      "district": "Thành phố Vĩnh Yên",
+      "lat": "21.3072854",
+      "lng": "105.6163151"
+    }
+  },
+  "Yên Bái": {
+    "Huyện Lục Yên": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Lục Yên",
+      "lat": "22.0900049",
+      "lng": "104.705431"
+    },
+    "Huyện Mù Căng Chải": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Mù Căng Chải",
+      "lat": "21.7670046",
+      "lng": "104.1466046"
+    },
+    "Huyện Trạm Tấu": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Trạm Tấu",
+      "lat": "21.4629385",
+      "lng": "104.4257533"
+    },
+    "Huyện Trấn Yên": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Trấn Yên",
+      "lat": "21.6160083",
+      "lng": "104.798771"
+    },
+    "Huyện Văn Chấn": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Văn Chấn",
+      "lat": "21.4298431",
+      "lng": "104.798771"
+    },
+    "Huyện Văn Yên": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Văn Yên",
+      "lat": "21.8698428",
+      "lng": "104.5655273"
+    },
+    "Huyện Yên Bình": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Huyện Yên Bình",
+      "lat": "21.7605878",
+      "lng": "105.0615865"
+    },
+    "Thành phố Yên Bái": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Thành phố Yên Bái",
+      "lat": "21.7167689",
+      "lng": "104.8985878"
+    },
+    "Thị xã Nghĩa Lộ": {
+      "code": "15",
+      "city": "Yên Bái",
+      "district": "Thị xã Nghĩa Lộ",
+      "lat": "21.6018769",
+      "lng": "104.5062651"
+    }
+  },
+  "Điện Biên": {
+    "Huyện Mường Chà": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Mường Chà",
+      "lat": "21.8596604",
+      "lng": "103.035694"
+    },
+    "Huyện Mường Nhé": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Mường Nhé",
+      "lat": "22.0832638",
+      "lng": "102.5757028"
+    },
+    "Huyện Mường Ảng": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Mường Ảng",
+      "lat": "21.5641438",
+      "lng": "103.2201828"
+    },
+    "Huyện Nậm Pồ": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Nậm Pồ",
+      "lat": "21.8075872",
+      "lng": "102.766137"
+    },
+    "Huyện Tuần Giáo": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Tuần Giáo",
+      "lat": "21.6427019",
+      "lng": "103.4049445"
+    },
+    "Huyện Tủa Chùa": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Tủa Chùa",
+      "lat": "21.9232005",
+      "lng": "103.4049445"
+    },
+    "Huyện Điện Biên": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Điện Biên",
+      "lat": "21.2044768",
+      "lng": "103.035694"
+    },
+    "Huyện Điện Biên Đông": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Huyện Điện Biên Đông",
+      "lat": "21.2835093",
+      "lng": "103.2201828"
+    },
+    "Thành phố Điện Biên Phủ": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Thành phố Điện Biên Phủ",
+      "lat": "21.4063898",
+      "lng": "103.0321549"
+    },
+    "Thị xã Mường Lay": {
+      "code": "11",
+      "city": "Điện Biên",
+      "district": "Thị xã Mường Lay",
+      "lat": "22.0498734",
+      "lng": "103.1634988"
+    }
+  },
+  "Đà Nẵng": {
+    "Huyện Hoàng Sa": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Huyện Hoàng Sa",
+      "lat": "16.0645729",
+      "lng": "108.2221295"
+    },
+    "Huyện Hòa Vang": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Huyện Hòa Vang",
+      "lat": "15.999988",
+      "lng": "108.1457994"
+    },
+    "Quận Cẩm Lệ": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Cẩm Lệ",
+      "lat": "16.0153669",
+      "lng": "108.1962362"
+    },
+    "Quận Hải Châu": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Hải Châu",
+      "lat": "16.0472002",
+      "lng": "108.2199588"
+    },
+    "Quận Liên Chiểu": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Liên Chiểu",
+      "lat": "16.0717704",
+      "lng": "108.1503823"
+    },
+    "Quận Ngũ Hành Sơn": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Ngũ Hành Sơn",
+      "lat": "15.9955056",
+      "lng": "108.2588049"
+    },
+    "Quận Sơn Trà": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Sơn Trà",
+      "lat": "16.1069981",
+      "lng": "108.2521815"
+    },
+    "Quận Thanh Khê": {
+      "code": "48",
+      "city": "Đà Nẵng",
+      "district": "Quận Thanh Khê",
+      "lat": "16.0641802",
+      "lng": "108.1873407"
+    }
+  },
+  "Đắk Lắk": {
+    "Huyện Buôn Đôn": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Buôn Đôn",
+      "lat": "12.8791607",
+      "lng": "107.71625"
+    },
+    "Huyện Cư Kuin": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Cư Kuin",
+      "lat": "12.5810594",
+      "lng": "108.1903059"
+    },
+    "Huyện Cư M'gar": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Cư M'gar",
+      "lat": "12.8525649",
+      "lng": "108.0954351"
+    },
+    "Huyện Ea H'leo": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Ea H'leo",
+      "lat": "13.1998141",
+      "lng": "108.1903059"
+    },
+    "Huyện Ea Kar": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Ea Kar",
+      "lat": "12.7981778",
+      "lng": "108.5463165"
+    },
+    "Huyện Ea Súp": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Ea Súp",
+      "lat": "13.1862227",
+      "lng": "107.763621"
+    },
+    "Huyện Krông A Na": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Krông A Na",
+      "lat": "12.4823793",
+      "lng": "108.024301"
+    },
+    "Huyện Krông Bông": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Krông Bông",
+      "lat": "12.473032",
+      "lng": "108.4750846"
+    },
+    "Huyện Krông Búk": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Krông Búk",
+      "lat": "13.0226831",
+      "lng": "108.1903059"
+    },
+    "Huyện Krông Năng": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Krông Năng",
+      "lat": "13.0089192",
+      "lng": "108.3801314"
+    },
+    "Huyện Krông Pắc": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Krông Pắc",
+      "lat": "12.7439968",
+      "lng": "108.3801314"
+    },
+    "Huyện Lắk": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện Lắk",
+      "lat": "12.3169361",
+      "lng": "108.1903059"
+    },
+    "Huyện M'Đrắk": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Huyện M'Đrắk",
+      "lat": "12.7483404",
+      "lng": "108.7393068"
+    },
+    "Thành phố Buôn Ma Thuột": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Thành phố Buôn Ma Thuột",
+      "lat": "12.6661944",
+      "lng": "108.0382475"
+    },
+    "Thị xã Buôn Hồ": {
+      "code": "66",
+      "city": "Đắk Lắk",
+      "district": "Thị xã Buôn Hồ",
+      "lat": "12.8500473",
+      "lng": "108.2541803"
+    }
+  },
+  "Đắk Nông": {
+    "Huyện Cư Jút": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Cư Jút",
+      "lat": "12.657282",
+      "lng": "107.8656124"
+    },
+    "Huyện Krông Nô": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Krông Nô",
+      "lat": "12.2646476",
+      "lng": "107.609806"
+    },
+    "Huyện Tuy Đức": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Tuy Đức",
+      "lat": "12.1576117",
+      "lng": "107.4342313"
+    },
+    "Huyện Đăk Glong": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Đăk Glong",
+      "lat": "12.2646476",
+      "lng": "107.609806"
+    },
+    "Huyện Đắk Mil": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Đắk Mil",
+      "lat": "12.2646476",
+      "lng": "107.609806"
+    },
+    "Huyện Đắk R'Lấp": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Đắk R'Lấp",
+      "lat": "12.2646476",
+      "lng": "107.609806"
+    },
+    "Huyện Đắk Song": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Huyện Đắk Song",
+      "lat": "12.2328311",
+      "lng": "107.6216789"
+    },
+    "Thành phố Gia Nghĩa": {
+      "code": "67",
+      "city": "Đắk Nông",
+      "district": "Thành phố Gia Nghĩa",
+      "lat": "12.0045195",
+      "lng": "107.6830002"
+    }
+  },
+  "Đồng Nai": {
+    "Huyện Cẩm Mỹ": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Cẩm Mỹ",
+      "lat": "10.8225699",
+      "lng": "107.2666396"
+    },
+    "Huyện Long Thành": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Long Thành",
+      "lat": "10.7932946",
+      "lng": "107.0135297"
+    },
+    "Huyện Nhơn Trạch": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Nhơn Trạch",
+      "lat": "10.6968843",
+      "lng": "106.8907696"
+    },
+    "Huyện Thống Nhất": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Thống Nhất",
+      "lat": "10.994359",
+      "lng": "107.1547158"
+    },
+    "Huyện Trảng Bom": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Trảng Bom",
+      "lat": "10.9667039",
+      "lng": "107.0303221"
+    },
+    "Huyện Tân Phú": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Tân Phú",
+      "lat": "11.4275308",
+      "lng": "107.36123"
+    },
+    "Huyện Vĩnh Cửu": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Vĩnh Cửu",
+      "lat": "11.3049005",
+      "lng": "107.0605278"
+    },
+    "Huyện Xuân Lộc": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Xuân Lộc",
+      "lat": "10.9652026",
+      "lng": "107.4321959"
+    },
+    "Huyện Định Quán": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Huyện Định Quán",
+      "lat": "11.1576779",
+      "lng": "107.2740528"
+    },
+    "Thành phố Biên Hòa": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Thành phố Biên Hòa",
+      "lat": "10.9574128",
+      "lng": "106.8426871"
+    },
+    "Thành phố Long Khánh": {
+      "code": "75",
+      "city": "Đồng Nai",
+      "district": "Thành phố Long Khánh",
+      "lat": "10.9329569",
+      "lng": "107.2437005"
+    }
+  },
+  "Đồng Tháp": {
+    "Huyện Cao Lãnh": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Cao Lãnh",
+      "lat": "10.4659577",
+      "lng": "105.7059785"
+    },
+    "Huyện Châu Thành": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Châu Thành",
+      "lat": "10.2050554",
+      "lng": "105.8055471"
+    },
+    "Huyện Hồng Ngự": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Hồng Ngự",
+      "lat": "10.7979866",
+      "lng": "105.2897042"
+    },
+    "Huyện Lai Vung": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Lai Vung",
+      "lat": "10.255455",
+      "lng": "105.6647142"
+    },
+    "Huyện Lấp Vò": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Lấp Vò",
+      "lat": "10.3578054",
+      "lng": "105.6308159"
+    },
+    "Huyện Tam Nông": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Tam Nông",
+      "lat": "10.7192793",
+      "lng": "105.5474373"
+    },
+    "Huyện Thanh Bình": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Thanh Bình",
+      "lat": "10.6135294",
+      "lng": "105.4771084"
+    },
+    "Huyện Tháp Mười": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Tháp Mười",
+      "lat": "10.5302706",
+      "lng": "105.8290298"
+    },
+    "Huyện Tân Hồng": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Huyện Tân Hồng",
+      "lat": "10.876115",
+      "lng": "105.4771084"
+    },
+    "Thành phố Cao Lãnh": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Thành phố Cao Lãnh",
+      "lat": "10.4549723",
+      "lng": "105.6340352"
+    },
+    "Thành phố Hồng Ngự": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Thành phố Hồng Ngự",
+      "lat": "10.8082958",
+      "lng": "105.3414304"
+    },
+    "Thành phố Sa Đéc": {
+      "code": "87",
+      "city": "Đồng Tháp",
+      "district": "Thành phố Sa Đéc",
+      "lat": "10.2901261",
+      "lng": "105.7517453"
+    }
+  }
+}

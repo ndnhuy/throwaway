@@ -1,0 +1,52 @@
+Thành phố Hà Nội,Quận Ba Đình,21.0337815,105.8140539
+Thành phố Hà Nội,Quận Hoàn Kiếm,21.027964,105.8510132
+Thành phố Hà Nội,Quận Tây Hồ,21.0811211,105.8180306
+Thành phố Hà Nội,Quận Long Biên,21.0186765,105.884813
+Thành phố Hà Nội,Quận Cầu Giấy,21.0362368,105.7905825
+Thành phố Hà Nội,Quận Đống Đa,21.0180725,105.8299495
+Thành phố Hà Nội,Quận Hai Bà Trưng,21.0090571,105.8607507
+Thành phố Hà Nội,Quận Hoàng Mai,20.9836984,105.8636257
+Thành phố Hà Nội,Quận Thanh Xuân,10.8834303,106.6703963
+Thành phố Hà Nội,Huyện Sóc Sơn,21.2573126,105.8480203
+Thành phố Hà Nội,Huyện Đông Anh,21.1245303,105.8271398
+Thành phố Hà Nội,Huyện Gia Lâm,21.0105208,105.952941
+Thành phố Hà Nội,Quận Nam Từ Liêm,21.0034608,105.7703287
+Thành phố Hà Nội,Huyện Thanh Trì,20.9344418,105.8462288
+Thành phố Hà Nội,Quận Bắc Từ Liêm,21.030886,105.8494952
+Thành phố Hà Nội,Huyện Mê Linh,21.1601408,105.7380511
+Thành phố Hà Nội,Quận Hà Đông,10.8520199,106.7480436
+Thành phố Hà Nội,Thị xã Sơn Tây,21.1162257,105.495325
+Thành phố Hà Nội,Huyện Ba Vì,21.1992298,105.4232116
+Thành phố Hà Nội,Huyện Phúc Thọ,21.1241396,105.5939066
+Thành phố Hà Nội,Huyện Đan Phượng,21.084855,105.6690963
+Thành phố Hà Nội,Huyện Hoài Đức,21.0243168,105.6988892
+Thành phố Hà Nội,Huyện Quốc Oai,20.9924634,105.6404254
+Thành phố Hà Nội,Huyện Thạch Thất,20.9905234,105.5251894
+Thành phố Hà Nội,Huyện Chương Mỹ,20.8746466,105.6712465
+Thành phố Hà Nội,Huyện Thanh Oai,20.8532165,105.7688513
+Thành phố Hà Nội,Huyện Thường Tín,20.8055441,105.8838579
+Thành phố Hà Nội,Huyện Phú Xuyên,20.7280728,105.9029374
+Thành phố Hà Nội,Huyện Ứng Hòa,20.729614,105.7782061
+Thành phố Hà Nội,Huyện Mỹ Đức,10.7999169,106.6415827
+Thành phố Hồ Chí Minh,Quận 1,10.7756587,106.7004238
+Thành phố Hồ Chí Minh,Quận 12,10.8671531,106.6413322
+Thành phố Hồ Chí Minh,Quận Gò Vấp,10.8386779,106.6652904
+Thành phố Hồ Chí Minh,Quận Bình Thạnh,10.8105831,106.7091422
+Thành phố Hồ Chí Minh,Quận Tân Bình,10.8014659,106.6525974
+Thành phố Hồ Chí Minh,Quận Tân Phú,10.7900517,106.6281901
+Thành phố Hồ Chí Minh,Quận Phú Nhuận,10.7991944,106.6802639
+Thành phố Hồ Chí Minh,Thành phố Thủ Đức,10.8802425,106.7444747
+Thành phố Hồ Chí Minh,Quận 3,10.7843695,106.6844089
+Thành phố Hồ Chí Minh,Quận 10,10.7745965,106.6679542
+Thành phố Hồ Chí Minh,Quận 11,10.7629739,106.650084
+Thành phố Hồ Chí Minh,Quận 4,10.7578263,106.7012968
+Thành phố Hồ Chí Minh,Quận 5,10.7540279,106.6633746
+Thành phố Hồ Chí Minh,Quận 6,10.7480929,106.6352362
+Thành phố Hồ Chí Minh,Quận 8,10.7240878,106.6286259
+Thành phố Hồ Chí Minh,Quận Bình Tân,10.7652581,106.6038535
+Thành phố Hồ Chí Minh,Quận 7,10.7340344,106.7215787
+Thành phố Hồ Chí Minh,Huyện Củ Chi,11.0066683,106.5131967
+Thành phố Hồ Chí Minh,Huyện Hóc Môn,10.8839675,106.5870611
+Thành phố Hồ Chí Minh,Huyện Bình Chánh,10.687392,106.5938538
+Thành phố Hồ Chí Minh,Huyện Nhà Bè,10.6952642,106.704874
+Thành phố Hồ Chí Minh,Huyện Cần Giờ,10.5083266,106.8635004

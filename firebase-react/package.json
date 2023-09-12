@@ -4,7 +4,17 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.0",
     "react-router-dom": "^6.8.0",
-    "firebase": "^9.16.0"
+    "firebase": "^9.16.0",
+    "@babel/runtime": "^7.8.4",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@visx/gradient": "latest",
+    "@visx/group": "latest",
+    "@visx/mock-data": "latest",
+    "@visx/responsive": "latest",
+    "@visx/scale": "latest",
+    "@visx/shape": "latest",
+    "@visx/axis": "latest"
   },
   "main": "/index.js",
   "devDependencies": {},

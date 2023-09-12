@@ -1,0 +1,705 @@
+01,Hà Nội,Quận Ba Đình,21.0337815,105.8140539
+01,Hà Nội,Quận Hoàn Kiếm,21.027964,105.8510132
+01,Hà Nội,Quận Tây Hồ,21.0811211,105.8180306
+01,Hà Nội,Quận Long Biên,21.0186765,105.884813
+01,Hà Nội,Quận Cầu Giấy,21.0362368,105.7905825
+01,Hà Nội,Quận Đống Đa,21.0180725,105.8299495
+01,Hà Nội,Quận Hai Bà Trưng,21.0090571,105.8607507
+01,Hà Nội,Quận Hoàng Mai,20.9836984,105.8636257
+01,Hà Nội,Quận Thanh Xuân,20.9959819,105.8097244
+01,Hà Nội,Huyện Sóc Sơn,21.2573126,105.8480203
+01,Hà Nội,Huyện Đông Anh,21.1245303,105.8271398
+01,Hà Nội,Huyện Gia Lâm,21.0105208,105.952941
+01,Hà Nội,Quận Nam Từ Liêm,21.0034608,105.7703287
+01,Hà Nội,Huyện Thanh Trì,20.9344418,105.8462288
+01,Hà Nội,Quận Bắc Từ Liêm,21.0730201,105.7703287
+01,Hà Nội,Huyện Mê Linh,21.1601408,105.7380511
+01,Hà Nội,Quận Hà Đông,20.955835,105.7563658
+01,Hà Nội,Thị xã Sơn Tây,21.1162257,105.495325
+01,Hà Nội,Huyện Ba Vì,21.1992298,105.4232116
+01,Hà Nội,Huyện Phúc Thọ,21.1241396,105.5939066
+01,Hà Nội,Huyện Đan Phượng,21.084855,105.6690963
+01,Hà Nội,Huyện Hoài Đức,21.0243168,105.6988892
+01,Hà Nội,Huyện Quốc Oai,20.9924634,105.6404254
+01,Hà Nội,Huyện Thạch Thất,20.9905234,105.5251894
+01,Hà Nội,Huyện Chương Mỹ,20.8746466,105.6712465
+01,Hà Nội,Huyện Thanh Oai,20.8532165,105.7688513
+01,Hà Nội,Huyện Thường Tín,20.8055441,105.8838579
+01,Hà Nội,Huyện Phú Xuyên,20.7280728,105.9029374
+01,Hà Nội,Huyện Ứng Hòa,20.729614,105.7782061
+01,Hà Nội,Huyện Mỹ Đức,20.725768,105.7157513
+02,Hà Giang,Thành phố Hà Giang,22.8025588,104.9784494
+02,Hà Giang,Huyện Đồng Văn,23.2246718,105.2428853
+02,Hà Giang,Huyện Mèo Vạc,23.1341053,105.4536718
+02,Hà Giang,Huyện Yên Minh,23.0434955,105.1960795
+02,Hà Giang,Huyện Quản Bạ,23.087186,104.9856176
+02,Hà Giang,Huyện Vị Xuyên,22.7241336,104.8921668
+02,Hà Giang,Huyện Bắc Mê,22.7811484,105.2662931
+02,Hà Giang,Huyện Hoàng Su Phì,22.7417169,104.705431
+02,Hà Giang,Huyện Xín Mần,22.6659156,104.5189214
+02,Hà Giang,Huyện Bắc Quang,22.4450248,104.8921668
+02,Hà Giang,Huyện Quang Bình,22.4624387,104.705431
+04,Cao Bằng,Thành phố Cao Bằng,22.6666369,106.2639852
+04,Cao Bằng,Huyện Bảo Lâm,22.8556222,105.4536718
+04,Cao Bằng,Huyện Bảo Lạc,22.8786248,105.6881788
+04,Cao Bằng,Huyện Hà Quảng,22.9025402,106.1345705
+04,Cao Bằng,Huyện Trùng Khánh,22.8323826,106.5819789
+04,Cao Bằng,Huyện Hạ Lang,22.7042438,106.6998767
+04,Cao Bằng,Huyện Quảng Hòa,22.68299,106.4641459
+04,Cao Bằng,Huyện Hoà An,22.7538704,106.22868
+04,Cao Bằng,Huyện Nguyên Bình,22.6230856,105.92299
+04,Cao Bằng,Huyện Thạch An,22.4663561,106.3228338
+06,Bắc Kạn,Thành phố Bắc Kạn,22.1442685,105.8345426
+06,Bắc Kạn,Huyện Pác Nặm,22.6126367,105.6703226
+06,Bắc Kạn,Huyện Ba Bể,22.3636887,105.7351171
+06,Bắc Kạn,Huyện Ngân Sơn,22.4281787,106.0169971
+06,Bắc Kạn,Huyện Bạch Thông,22.2360787,105.8525154
+06,Bắc Kạn,Huyện Chợ Đồn,22.1964994,105.5474373
+06,Bắc Kạn,Huyện Chợ Mới,21.9833375,105.8290298
+06,Bắc Kạn,Huyện Na Rì,22.1406595,106.1110501
+08,Tuyên Quang,Thành phố Tuyên Quang,21.7767246,105.2280196
+08,Tuyên Quang,Huyện Lâm Bình,22.5024026,105.2662931
+08,Tuyên Quang,Huyện Na Hang,22.4842087,105.4536718
+08,Tuyên Quang,Huyện Chiêm Hóa,22.1306765,105.2662931
+08,Tuyên Quang,Huyện Hàm Yên,22.0839452,105.027174
+08,Tuyên Quang,Huyện Yên Sơn,21.9447986,105.2662931
+08,Tuyên Quang,Huyện Sơn Dương,21.6571812,105.3599568
+10,Lào Cai,Thành phố Lào Cai,22.4809431,103.9754959
+10,Lào Cai,Huyện Bát Xát,22.5539336,103.682586
+10,Lào Cai,Huyện Mường Khương,22.6785309,104.1233667
+10,Lào Cai,Huyện Si Ma Cai,22.6659838,104.262851
+10,Lào Cai,Huyện Bắc Hà,22.4965469,104.332644
+10,Lào Cai,Huyện Bảo Thắng,22.3266996,104.1466046
+10,Lào Cai,Huyện Bảo Yên,22.2763301,104.4490398
+10,Lào Cai,Thị xã Sa Pa,22.2497168,103.9608091
+10,Lào Cai,Huyện Văn Bàn,22.0894109,104.1930918
+11,Điện Biên,Thành phố Điện Biên Phủ,21.4063898,103.0321549
+11,Điện Biên,Thị xã Mường Lay,22.0498734,103.1634988
+11,Điện Biên,Huyện Mường Nhé,22.0832638,102.5757028
+11,Điện Biên,Huyện Mường Chà,21.8596604,103.035694
+11,Điện Biên,Huyện Tủa Chùa,21.9232005,103.4049445
+11,Điện Biên,Huyện Tuần Giáo,21.6427019,103.4049445
+11,Điện Biên,Huyện Điện Biên,21.2044768,103.035694
+11,Điện Biên,Huyện Điện Biên Đông,21.2835093,103.2201828
+11,Điện Biên,Huyện Mường Ảng,21.5641438,103.2201828
+11,Điện Biên,Huyện Nậm Pồ,21.8075872,102.766137
+12,Lai Châu,Thành phố Lai Châu,22.3862227,103.4702631
+12,Lai Châu,Huyện Tam Đường,22.3497051,103.6131203
+12,Lai Châu,Huyện Mường Tè,22.400379,102.7135121
+12,Lai Châu,Huyện Sìn Hồ,22.3048884,103.3125299
+12,Lai Châu,Huyện Phong Thổ,22.5776336,103.4049445
+12,Lai Châu,Huyện Than Uyên,21.8922107,103.7752634
+12,Lai Châu,Huyện Tân Uyên,22.0868845,103.682586
+12,Lai Châu,Huyện Nậm Nhùn,22.1022533,102.9847711
+14,Sơn La,Thành phố Sơn La,21.3269024,103.9143869
+14,Sơn La,Huyện Quỳnh Nhai,21.7132038,103.682586
+14,Sơn La,Huyện Thuận Châu,21.3900652,103.6362715
+14,Sơn La,Huyện Mường La,21.495112,104.053676
+14,Sơn La,Huyện Bắc Yên,21.2765545,104.4257533
+14,Sơn La,Huyện Phù Yên,21.1588947,104.705431
+14,Sơn La,Huyện Mộc Châu,20.9220823,104.7520939
+14,Sơn La,Huyện Yên Châu,21.0050006,104.332644
+14,Sơn La,Huyện Mai Sơn,21.1219095,104.053676
+14,Sơn La,Huyện Sông Mã,21.0593251,103.682586
+14,Sơn La,Huyện Sốp Cộp,20.8874516,103.4974258
+14,Sơn La,Huyện Vân Hồ,20.7931051,104.7637619
+15,Yên Bái,Thành phố Yên Bái,21.7167689,104.8985878
+15,Yên Bái,Thị xã Nghĩa Lộ,21.6018769,104.5062651
+15,Yên Bái,Huyện Lục Yên,22.0900049,104.705431
+15,Yên Bái,Huyện Văn Yên,21.8698428,104.5655273
+15,Yên Bái,Huyện Mù Căng Chải,21.7670046,104.1466046
+15,Yên Bái,Huyện Trấn Yên,21.6160083,104.798771
+15,Yên Bái,Huyện Trạm Tấu,21.4629385,104.4257533
+15,Yên Bái,Huyện Văn Chấn,21.4298431,104.798771
+15,Yên Bái,Huyện Yên Bình,21.7605878,105.0615865
+17,Hoà Bình,Thành phố Hòa Bình,20.8275154,105.3390793
+17,Hoà Bình,Huyện Đà Bắc,20.8381545,105.1726816
+17,Hoà Bình,Huyện Lương Sơn,20.871913,105.5040269
+17,Hoà Bình,Huyện Kim Bôi,20.6901132,105.5239912
+17,Hoà Bình,Huyện Cao Phong,20.7072205,105.336536
+17,Hoà Bình,Huyện Tân Lạc,20.6228033,105.2428853
+17,Hoà Bình,Huyện Mai Châu,20.6901339,105.0089888
+17,Hoà Bình,Huyện Lạc Sơn,20.4413353,105.4536718
+17,Hoà Bình,Huyện Yên Thủy,20.4032247,105.6177942
+17,Hoà Bình,Huyện Lạc Thủy,20.5136724,105.7333455
+19,Thái Nguyên,Thành phố Thái Nguyên,21.5671559,105.8252038
+19,Thái Nguyên,Thành phố Sông Công,21.4777976,105.8426094
+19,Thái Nguyên,Huyện Định Hóa,21.8879551,105.6177942
+19,Thái Nguyên,Huyện Phú Lương,21.786057,105.7116464
+19,Thái Nguyên,Huyện Đồng Hỷ,21.6286393,105.8994956
+19,Thái Nguyên,Huyện Võ Nhai,21.7793409,106.0169971
+19,Thái Nguyên,Huyện Đại Từ,21.6304358,105.6412527
+19,Thái Nguyên,Thành phố Phổ Yên,21.413875,105.8486183
+19,Thái Nguyên,Huyện Phú Bình,21.4849768,105.9464874
+20,Lạng Sơn,Thành phố Lạng Sơn,21.853708,106.761519
+20,Lạng Sơn,Huyện Tràng Định,22.2872995,106.4877072
+20,Lạng Sơn,Huyện Bình Gia,22.0639906,106.3340858
+20,Lạng Sơn,Huyện Văn Lãng,22.0924829,106.5819789
+20,Lạng Sơn,Huyện Cao Lộc,21.9036302,106.8414374
+20,Lạng Sơn,Huyện Văn Quan,21.8453587,106.5112712
+20,Lạng Sơn,Huyện Bắc Sơn,21.8437729,106.2992912
+20,Lạng Sơn,Huyện Hữu Lũng,21.5659824,106.2992912
+20,Lạng Sơn,Huyện Chi Lăng,21.6506944,106.6055534
+20,Lạng Sơn,Huyện Lộc Bình,21.7757592,106.9594723
+20,Lạng Sơn,Huyện Đình Lập,21.5711978,107.1484521
+22,Quảng Ninh,Thành phố Hạ Long,20.9711977,107.0448069
+22,Quảng Ninh,Thành phố Móng Cái,21.5259443,107.9723669
+22,Quảng Ninh,Thành phố Cẩm Phả,21.0718937,107.3201023
+22,Quảng Ninh,Thành phố Uông Bí,21.0339076,106.7648209
+22,Quảng Ninh,Huyện Bình Liêu,21.5410162,107.4321959
+22,Quảng Ninh,Huyện Tiên Yên,21.3666878,107.3375791
+22,Quảng Ninh,Huyện Đầm Hà,21.3619435,107.5978577
+22,Quảng Ninh,Huyện Hải Hà,21.4182232,107.71625
+22,Quảng Ninh,Huyện Ba Chẽ,21.294325,107.1484521
+22,Quảng Ninh,Huyện Vân Đồn,21.0693983,107.4202262
+22,Quảng Ninh,Thị xã Đông Triều,21.0958153,106.6055534
+22,Quảng Ninh,Thị xã Quảng Yên,20.9387415,106.796489
+22,Quảng Ninh,Huyện Cô Tô,21.1062206,107.8346924
+24,Bắc Giang,Thành phố Bắc Giang,21.2819921,106.1974769
+24,Bắc Giang,Huyện Yên Thế,21.5128774,106.1345705
+24,Bắc Giang,Huyện Tân Yên,21.3785203,106.0875326
+24,Bắc Giang,Huyện Lạng Giang,21.3646422,106.22868
+24,Bắc Giang,Huyện Lục Nam,21.2996631,106.4170311
+24,Bắc Giang,Huyện Lục Ngạn,21.4354043,106.676292
+24,Bắc Giang,Huyện Sơn Động,21.3520004,106.8849897
+24,Bắc Giang,Huyện Yên Dũng,21.2257315,106.22868
+24,Bắc Giang,Huyện Việt Yên,21.2858633,106.0875326
+24,Bắc Giang,Huyện Hiệp Hòa,21.3552222,105.9790377
+25,Phú Thọ,Thành phố Việt Trì,21.3570099,105.352633
+25,Phú Thọ,Thị xã Phú Thọ,21.4219791,105.2296992
+25,Phú Thọ,Huyện Đoan Hùng,21.6071636,105.1492869
+25,Phú Thọ,Huyện Hạ Hoà,21.5735989,105.0089888
+25,Phú Thọ,Huyện Thanh Ba,21.4677045,105.1492869
+25,Phú Thọ,Huyện Phù Ninh,21.4753257,105.2844608
+25,Phú Thọ,Huyện Yên Lập,21.3410625,105.0089888
+25,Phú Thọ,Huyện Cẩm Khê,21.4298041,105.0557415
+25,Phú Thọ,Huyện Tam Nông,21.2858685,105.2311827
+25,Phú Thọ,Huyện Lâm Thao,21.3026143,105.3014109
+25,Phú Thọ,Huyện Thanh Sơn,21.0240198,105.1726816
+25,Phú Thọ,Huyện Thanh Thuỷ,21.1141818,105.2807163
+25,Phú Thọ,Huyện Tân Sơn,21.1665519,104.9894851
+26,Vĩnh Phúc,Thành phố Vĩnh Yên,21.3072854,105.6163151
+26,Vĩnh Phúc,Thành phố Phúc Yên,21.2815969,105.7249738
+26,Vĩnh Phúc,Huyện Lập Thạch,21.4371499,105.4771084
+26,Vĩnh Phúc,Huyện Tam Dương,21.3713778,105.5591615
+26,Vĩnh Phúc,Huyện Tam Đảo,21.4747064,105.5708865
+26,Vĩnh Phúc,Huyện Bình Xuyên,21.313857,105.6764461
+26,Vĩnh Phúc,Huyện Yên Lạc,21.1962199,105.5708865
+26,Vĩnh Phúc,Huyện Vĩnh Tường,21.2537742,105.4899167
+26,Vĩnh Phúc,Huyện Sông Lô,21.4564665,105.3950939
+27,Bắc Ninh,Thành phố Bắc Ninh,21.1781766,106.0710255
+27,Bắc Ninh,Huyện Yên Phong,21.202957,105.9581624
+27,Bắc Ninh,Huyện Quế Võ,21.1377307,106.1816196
+27,Bắc Ninh,Huyện Tiên Du,21.1178311,106.0287512
+27,Bắc Ninh,Thành phố Từ Sơn,21.1188332,105.9597843
+27,Bắc Ninh,Huyện Thuận Thành,21.0357781,106.0792574
+27,Bắc Ninh,Huyện Gia Bình,21.0764073,106.2169139
+27,Bắc Ninh,Huyện Lương Tài,21.0278149,106.2404468
+30,Hải Dương,Thành phố Hải Dương,20.9491891,106.3346061
+30,Hải Dương,Thành phố Chí Linh,21.1132497,106.3031948
+30,Hải Dương,Huyện Nam Sách,20.995464,106.3346061
+30,Hải Dương,Thị xã Kinh Môn,21.0110318,106.5273651
+30,Hải Dương,Huyện Kim Thành,20.8984531,106.5141873
+30,Hải Dương,Huyện Thanh Hà,20.908358,106.4276087
+30,Hải Dương,Huyện Cẩm Giàng,20.9479485,106.22868
+30,Hải Dương,Huyện Bình Giang,20.870356,106.1933837
+30,Hải Dương,Huyện Gia Lộc,20.8612295,106.287521
+30,Hải Dương,Huyện Tứ Kỳ,20.8168182,106.4112446
+30,Hải Dương,Huyện Ninh Giang,20.7491091,106.3699271
+30,Hải Dương,Huyện Thanh Miện,20.7821204,106.2203815
+31,Hải Phòng,Quận Hồng Bàng,20.8595313,106.666993
+31,Hải Phòng,Quận Ngô Quyền,20.8566653,106.6994903
+31,Hải Phòng,Quận Lê Chân,20.8345046,106.6831336
+31,Hải Phòng,Quận Hải An,20.8329856,106.7204552
+31,Hải Phòng,Quận Kiến An,20.8449792,106.6706133
+31,Hải Phòng,Quận Đồ Sơn,20.7247533,106.7742534
+31,Hải Phòng,Quận Dương Kinh,20.7733918,106.7213703
+31,Hải Phòng,Huyện Thuỷ Nguyên,20.9451331,106.6715543
+31,Hải Phòng,Huyện An Dương,20.8463188,106.6667115
+31,Hải Phòng,Huyện An Lão,20.8214217,106.5565478
+31,Hải Phòng,Huyện Kiến Thuỵ,20.7515698,106.6701329
+31,Hải Phòng,Huyện Tiên Lãng,20.865749,106.665909
+31,Hải Phòng,Huyện Vĩnh Bảo,20.688914,106.4814255
+31,Hải Phòng,Huyện Cát Hải,20.8037051,106.8974964
+31,Hải Phòng,Huyện Bạch Long Vĩ,20.1345592,107.7302087
+33,Hưng Yên,Thành phố Hưng Yên,20.6546819,106.057849
+33,Hưng Yên,Huyện Văn Lâm,20.9854595,106.0463746
+33,Hưng Yên,Huyện Văn Giang,20.9414842,105.9569025
+33,Hưng Yên,Huyện Yên Mỹ,20.8861904,106.0287512
+33,Hưng Yên,Thị xã Mỹ Hào,20.9257379,106.099291
+33,Hưng Yên,Huyện Ân Thi,20.8099609,106.099291
+33,Hưng Yên,Huyện Khoái Châu,20.8415456,105.9804247
+33,Hưng Yên,Huyện Kim Động,20.7325036,106.0563755
+33,Hưng Yên,Huyện Tiên Lữ,20.6919516,106.1228099
+33,Hưng Yên,Huyện Phù Cừ,20.7083369,106.1933837
+34,Thái Bình,Thành phố Thái Bình,20.4463471,106.3365828
+34,Thái Bình,Huyện Quỳnh Phụ,20.6608254,106.3276864
+34,Thái Bình,Huyện Hưng Hà,20.5903748,106.2169139
+34,Thái Bình,Huyện Đông Hưng,20.5640924,106.3699271
+34,Thái Bình,Huyện Thái Thụy,20.5655791,106.5648803
+34,Thái Bình,Huyện Tiền Hải,20.3609414,106.5584071
+34,Thái Bình,Huyện Kiến Xương,20.4208256,106.4170311
+34,Thái Bình,Huyện Vũ Thư,20.4343787,106.2757514
+35,Hà Nam,Thành phố Phủ Lý,20.5316929,105.9176291
+35,Hà Nam,Thị xã Duy Tiên,20.626842,105.951554
+35,Hà Nam,Huyện Kim Bảng,20.5633623,105.8562473
+35,Hà Nam,Huyện Thanh Liêm,20.4699057,105.8994956
+35,Hà Nam,Huyện Bình Lục,20.5029885,106.040506
+35,Hà Nam,Huyện Lý Nhân,20.5553005,106.099291
+36,Nam Định,Thành phố Nam Định,20.4388225,106.1621053
+36,Nam Định,Huyện Mỹ Lộc,20.4604906,106.1228099
+36,Nam Định,Huyện Vụ Bản,20.370142,106.099291
+36,Nam Định,Huyện Ý Yên,20.3684984,105.993491
+36,Nam Định,Huyện Nghĩa Hưng,20.0732479,106.1816196
+36,Nam Định,Huyện Nam Trực,20.3358927,106.2169139
+36,Nam Định,Huyện Trực Ninh,20.243376,106.2169139
+36,Nam Định,Huyện Xuân Trường,20.2993311,106.3581527
+36,Nam Định,Huyện Giao Thủy,20.2314086,106.4641459
+36,Nam Định,Huyện Hải Hậu,20.1568875,106.2757514
+37,Ninh Bình,Thành phố Ninh Bình,20.2506149,105.9744536
+37,Ninh Bình,Thành phố Tam Điệp,20.1457115,105.8994956
+37,Ninh Bình,Huyện Nho Quan,20.2976274,105.7585908
+37,Ninh Bình,Huyện Gia Viễn,20.3353002,105.8525154
+37,Ninh Bình,Huyện Hoa Lư,20.248813,105.9112424
+37,Ninh Bình,Huyện Yên Khánh,20.187228,106.0757749
+37,Ninh Bình,Huyện Kim Sơn,20.0462334,106.099291
+37,Ninh Bình,Huyện Yên Mô,20.1370289,105.993491
+38,Thanh Hóa,Thành phố Thanh Hóa,19.806692,105.7851816
+38,Thanh Hóa,Thị xã Bỉm Sơn,20.0848952,105.8575198
+38,Thanh Hóa,Thành phố Sầm Sơn,19.7635014,105.8981234
+38,Thanh Hóa,Huyện Mường Lát,20.4941326,104.5888356
+38,Thanh Hóa,Huyện Quan Hóa,20.4830433,104.9856176
+38,Thanh Hóa,Huyện Bá Thước,20.3653356,105.2662931
+38,Thanh Hóa,Huyện Quan Sơn,20.2123327,104.8921668
+38,Thanh Hóa,Huyện Lang Chánh,20.166759,105.1492869
+38,Thanh Hóa,Huyện Ngọc Lặc,20.0785891,105.3599568
+38,Thanh Hóa,Huyện Cẩm Thủy,20.184101,105.4771084
+38,Thanh Hóa,Huyện Thạch Thành,20.2177814,105.6177942
+38,Thanh Hóa,Huyện Hà Trung,20.0617086,105.8055471
+38,Thanh Hóa,Huyện Vĩnh Lộc,20.0408049,105.652983
+38,Thanh Hóa,Huyện Yên Định,19.9860515,105.6177942
+38,Thanh Hóa,Huyện Thọ Xuân,19.9059121,105.4771084
+38,Thanh Hóa,Huyện Thường Xuân,19.9012787,105.2662931
+38,Thanh Hóa,Huyện Triệu Sơn,19.8512387,105.5708865
+38,Thanh Hóa,Huyện Thiệu Hóa,19.889182,105.6647142
+38,Thanh Hóa,Huyện Hoằng Hóa,19.8216851,105.8994956
+38,Thanh Hóa,Huyện Hậu Lộc,19.9268879,105.8877494
+38,Thanh Hóa,Huyện Nga Sơn,19.9981878,105.993491
+38,Thanh Hóa,Huyện Như Xuân,19.6149135,105.3599568
+38,Thanh Hóa,Huyện Như Thanh,19.5733122,105.5708865
+38,Thanh Hóa,Huyện Nông Cống,19.6113284,105.6647142
+38,Thanh Hóa,Huyện Đông Sơn,19.8049755,105.6999122
+38,Thanh Hóa,Huyện Quảng Xương,19.6913377,105.8055471
+38,Thanh Hóa,Thị xã Nghi Sơn,19.43838,105.7745131
+40,Nghệ An,Thành phố Vinh,18.6795848,105.6813333
+40,Nghệ An,Thị xã Cửa Lò,18.7942251,105.7252402
+40,Nghệ An,Thị xã Thái Hoà,19.3240044,105.4203355
+40,Nghệ An,Huyện Quế Phong,19.6862686,104.9563176
+40,Nghệ An,Huyện Quỳ Châu,19.5463056,105.0791228
+40,Nghệ An,Huyện Kỳ Sơn,19.38547,104.1827912
+40,Nghệ An,Huyện Tương Dương,19.2640131,104.5655273
+40,Nghệ An,Huyện Nghĩa Đàn,19.4003352,105.4302383
+40,Nghệ An,Huyện Quỳ Hợp,19.3528917,105.1726816
+40,Nghệ An,Huyện Quỳnh Lưu,19.2200256,105.6412527
+40,Nghệ An,Huyện Con Cuông,19.0130593,104.798771
+40,Nghệ An,Huyện Tân Kỳ,19.0748796,105.1726816
+40,Nghệ An,Huyện Anh Sơn,18.9688054,105.0557415
+40,Nghệ An,Huyện Diễn Châu,19.0179688,105.5708865
+40,Nghệ An,Huyện Yên Thành,19.0511285,105.4536718
+40,Nghệ An,Huyện Đô Lương,18.8990982,105.336536
+40,Nghệ An,Huyện Thanh Chương,18.6967739,105.2662931
+40,Nghệ An,Huyện Nghi Lộc,18.8142042,105.5835663
+40,Nghệ An,Huyện Nam Đàn,18.6983445,105.5239912
+40,Nghệ An,Huyện Hưng Nguyên,18.6316742,105.629523
+40,Nghệ An,Thị xã Hoàng Mai,19.2683318,105.7161966
+42,Hà Tĩnh,Thành phố Hà Tĩnh,18.3559537,105.8877494
+42,Hà Tĩnh,Thị xã Hồng Lĩnh,18.5299746,105.7060872
+42,Hà Tĩnh,Huyện Hương Sơn,18.5118006,105.2662931
+42,Hà Tĩnh,Huyện Đức Thọ,18.5056718,105.6177942
+42,Hà Tĩnh,Huyện Vũ Quang,18.3365936,105.4302383
+42,Hà Tĩnh,Huyện Nghi Xuân,18.6642304,105.7556564
+42,Hà Tĩnh,Huyện Can Lộc,18.4516009,105.7116464
+42,Hà Tĩnh,Huyện Hương Khê,18.2037562,105.6412527
+42,Hà Tĩnh,Huyện Thạch Hà,18.301316,105.8525154
+42,Hà Tĩnh,Huyện Cẩm Xuyên,18.1721653,106.0169971
+42,Hà Tĩnh,Huyện Kỳ Anh,18.0559583,106.2992912
+42,Hà Tĩnh,Huyện Lộc Hà,18.4817584,105.8994956
+42,Hà Tĩnh,Thị xã Kỳ Anh,18.0690259,106.2946376
+44,Quảng Bình,Thành phố Đồng Hới,17.4659391,106.5983958
+44,Quảng Bình,Huyện Minh Hóa,17.719816,105.92299
+44,Quảng Bình,Huyện Tuyên Hóa,17.9319039,105.9722814
+44,Quảng Bình,Huyện Quảng Trạch,17.8640126,106.3934777
+44,Quảng Bình,Huyện Bố Trạch,17.5047078,106.2992912
+44,Quảng Bình,Huyện Quảng Ninh,17.2394584,106.4616246
+44,Quảng Bình,Huyện Lệ Thủy,17.1064913,106.676292
+44,Quảng Bình,Thị xã Ba Đồn,17.7555407,106.4199755
+45,Quảng Trị,Thành phố Đông Hà,16.8088928,107.0893798
+45,Quảng Trị,Thị xã Quảng Trị,16.7403074,107.1854679
+45,Quảng Trị,Huyện Vĩnh Linh,17.0743311,107.0539434
+45,Quảng Trị,Huyện Hướng Hóa,16.6495512,106.676292
+45,Quảng Trị,Huyện Gio Linh,16.9165711,107.0303221
+45,Quảng Trị,Huyện Đa Krông,16.5349165,106.9594723
+45,Quảng Trị,Huyện Cam Lộ,16.783695,106.9830865
+45,Quảng Trị,Huyện Triệu Phong,16.809184,107.2193578
+45,Quảng Trị,Huyện Hải Lăng,16.714002,107.2666396
+45,Quảng Trị,Huyện Cồn Cỏ,17.1606501,107.3405354
+46,Thừa Thiên Huế,Thành phố Huế,16.4637117,107.5908628
+46,Thừa Thiên Huế,Huyện Phong Điền,16.503112,107.3375791
+46,Thừa Thiên Huế,Huyện Quảng Điền,16.5902415,107.5150139
+46,Thừa Thiên Huế,Huyện Phú Vang,16.491213,107.7399345
+46,Thừa Thiên Huế,Thị xã Hương Thủy,16.4089569,107.6772521
+46,Thừa Thiên Huế,Thị xã Hương Trà,16.420796,107.5031811
+46,Thừa Thiên Huế,Huyện A Lưới,16.2303741,107.3375791
+46,Thừa Thiên Huế,Huyện Phú Lộc,16.2725431,107.9394761
+46,Thừa Thiên Huế,Huyện Nam Đông,16.1249688,107.6707417
+48,Đà Nẵng,Quận Liên Chiểu,16.0717704,108.1503823
+48,Đà Nẵng,Quận Thanh Khê,16.0641802,108.1873407
+48,Đà Nẵng,Quận Hải Châu,16.0472002,108.2199588
+48,Đà Nẵng,Quận Sơn Trà,16.1069981,108.2521815
+48,Đà Nẵng,Quận Ngũ Hành Sơn,15.9955056,108.2588049
+48,Đà Nẵng,Quận Cẩm Lệ,16.0153669,108.1962362
+48,Đà Nẵng,Huyện Hòa Vang,15.999988,108.1457994
+48,Đà Nẵng,Huyện Hoàng Sa,16.0645729,108.2221295
+49,Quảng Nam,Thành phố Tam Kỳ,15.5638292,108.4821677
+49,Quảng Nam,Thành phố Hội An,15.8800584,108.3380469
+49,Quảng Nam,Huyện Tây Giang,15.8852628,107.4890302
+49,Quảng Nam,Huyện Đông Giang,15.9660249,107.7831632
+49,Quảng Nam,Huyện Đại Lộc,15.8497875,108.0668661
+49,Quảng Nam,Thị xã Điện Bàn,15.8915646,108.2477859
+49,Quảng Nam,Huyện Duy Xuyên,15.77511,108.1665855
+49,Quảng Nam,Huyện Quế Sơn,15.6848385,108.1665855
+49,Quảng Nam,Huyện Nam Giang,15.6628546,107.6215321
+49,Quảng Nam,Huyện Phước Sơn,15.3762517,107.811
+49,Quảng Nam,Huyện Hiệp Đức,15.5590682,108.0805694
+49,Quảng Nam,Huyện Thăng Bình,15.6890346,108.3801314
+49,Quảng Nam,Huyện Tiên Phước,15.4964006,108.2614775
+49,Quảng Nam,Huyện Bắc Trà My,15.3202715,108.214028
+49,Quảng Nam,Huyện Nam Trà My,15.0826614,108.0954351
+49,Quảng Nam,Huyện Núi Thành,15.4229422,108.5938124
+49,Quảng Nam,Huyện Phú Ninh,15.5743256,108.4038672
+49,Quảng Nam,Huyện Nông Sơn,15.6557978,107.9768875
+51,Quảng Ngãi,Thành phố Quảng Ngãi,15.1213873,108.8044145
+51,Quảng Ngãi,Huyện Bình Sơn,15.3166491,108.7838572
+51,Quảng Ngãi,Huyện Trà Bồng,15.2512645,108.4988269
+51,Quảng Ngãi,Huyện Sơn Tịnh,15.1860945,108.736337
+51,Quảng Ngãi,Huyện Tư Nghĩa,15.1065785,108.7482165
+51,Quảng Ngãi,Huyện Sơn Hà,15.0431944,108.5700636
+51,Quảng Ngãi,Huyện Sơn Tây,14.9488528,108.3563972
+51,Quảng Ngãi,Huyện Minh Long,14.9659262,108.6888227
+51,Quảng Ngãi,Huyện Nghĩa Hành,15.0026852,108.7838572
+51,Quảng Ngãi,Huyện Mộ Đức,14.9498041,108.878915
+51,Quảng Ngãi,Thị xã Đức Phổ,14.762796,108.9739954
+51,Quảng Ngãi,Huyện Ba Tơ,14.7663789,108.6650678
+51,Quảng Ngãi,Huyện Lý Sơn,15.383361,109.1107114
+52,Bình Định,Thành phố Quy Nhơn,13.7829673,109.2196634
+52,Bình Định,Huyện An Lão,14.5717294,108.8551484
+52,Bình Định,Thị xã Hoài Nhơn,14.4666386,109.04532
+52,Bình Định,Huyện Hoài Ân,14.3040385,108.8551484
+52,Bình Định,Huyện Phù Mỹ,14.2157645,109.1166566
+52,Bình Định,Huyện Vĩnh Thạnh,14.2468401,108.736337
+52,Bình Định,Huyện Tây Sơn,13.9479428,108.8551484
+52,Bình Định,Huyện Phù Cát,14.0134002,109.0547476
+52,Bình Định,Thị xã An Nhơn,13.8865062,109.1134353
+52,Bình Định,Huyện Tuy Phước,13.8565034,109.1642208
+52,Bình Định,Huyện Vân Canh,13.674033,108.9502232
+54,Phú Yên,Thành phố Tuy Hoà,13.1057062,109.295048
+54,Phú Yên,Thị xã Sông Cầu,13.5809065,109.1991932
+54,Phú Yên,Huyện Đồng Xuân,13.4083074,108.9502232
+54,Phú Yên,Huyện Tuy An,13.297735,109.2355764
+54,Phú Yên,Huyện Sơn Hòa,13.1431691,108.9502232
+54,Phú Yên,Huyện Sông Hinh,12.8786353,108.9502232
+54,Phú Yên,Huyện Tây Hoà,12.9285815,109.1642208
+54,Phú Yên,Huyện Phú Hoà,13.0606953,109.1642208
+54,Phú Yên,Thị xã Đông Hòa,12.9580642,109.354527
+56,Khánh Hòa,Thành phố Nha Trang,12.2529152,109.1899018
+56,Khánh Hòa,Thành phố Cam Ranh,11.9662117,109.1915578
+56,Khánh Hòa,Huyện Cam Lâm,12.07539,109.140438
+56,Khánh Hòa,Huyện Vạn Ninh,12.7243439,109.2626992
+56,Khánh Hòa,Thị xã Ninh Hòa,12.4864955,109.1345811
+56,Khánh Hòa,Huyện Khánh Vĩnh,12.2705951,108.8551484
+56,Khánh Hòa,Huyện Diên Khánh,12.2570417,109.04532
+56,Khánh Hòa,Huyện Khánh Sơn,12.0249415,108.9264524
+56,Khánh Hòa,Huyện Trường Sa,12.2585098,109.0526076
+58,Ninh Thuận,Thành phố Phan Rang-Tháp Chàm,11.5825677,108.9912066
+58,Ninh Thuận,Huyện Bác Ái,11.8334154,108.8551484
+58,Ninh Thuận,Huyện Ninh Sơn,11.6888699,108.736337
+58,Ninh Thuận,Huyện Ninh Hải,11.7032481,109.1642208
+58,Ninh Thuận,Huyện Ninh Phước,11.4850435,108.8551484
+58,Ninh Thuận,Huyện Thuận Bắc,11.7533327,109.0690976
+58,Ninh Thuận,Huyện Thuận Nam,11.4763856,108.9112608
+60,Bình Thuận,Thành phố Phan Thiết,10.9300676,108.10409
+60,Bình Thuận,Thị xã La Gi,10.6836991,107.750447
+60,Bình Thuận,Huyện Tuy Phong,11.3178827,108.6579603
+60,Bình Thuận,Huyện Bắc Bình,11.2551834,108.3801314
+60,Bình Thuận,Huyện Hàm Thuận Bắc,11.1116858,108.1319634
+60,Bình Thuận,Huyện Hàm Thuận Nam,10.8502937,107.9057813
+60,Bình Thuận,Huyện Tánh Linh,11.0980639,107.678501
+60,Bình Thuận,Huyện Đức Linh,11.1977289,107.5505152
+60,Bình Thuận,Huyện Hàm Tân,10.6935927,107.6215321
+60,Bình Thuận,Huyện Phú Quí,10.5335281,108.9442804
+62,Kon Tum,Thành phố Kon Tum,14.3497403,108.0004606
+62,Kon Tum,Huyện Đắk Glei,15.113472,107.71625
+62,Kon Tum,Huyện Ngọc Hồi,14.6710249,107.6215321
+62,Kon Tum,Huyện Đắk Tô,14.6562021,107.811
+62,Kon Tum,Huyện Kon Plông,14.7976892,108.2852049
+62,Kon Tum,Huyện Kon Rẫy,14.5607568,108.1665855
+62,Kon Tum,Huyện Đắk Hà,14.641214,108.0005933
+62,Kon Tum,Huyện Sa Thầy,14.4355779,107.763621
+62,Kon Tum,Huyện Tu Mơ Rông,14.9105786,108.0005933
+62,Kon Tum,Huyện Ia H' Drai,14.1022788,107.4552071
+64,Gia Lai,Thành phố Pleiku,13.9718356,108.0150796
+64,Gia Lai,Thị xã An Khê,14.0279256,108.6888227
+64,Gia Lai,Thị xã Ayun Pa,13.3743393,108.3989809
+64,Gia Lai,Huyện KBang,14.3348056,108.4750846
+64,Gia Lai,Huyện Đăk Đoa,14.1135412,108.1665855
+64,Gia Lai,Huyện Chư Păh,14.1765309,107.9294815
+64,Gia Lai,Huyện Ia Grai,13.9539099,107.6215321
+64,Gia Lai,Huyện Mang Yang,13.9928022,108.2852049
+64,Gia Lai,Huyện Kông Chro,13.7037218,108.5700636
+64,Gia Lai,Huyện Đức Cơ,13.7752327,107.6215321
+64,Gia Lai,Huyện Chư Prông,13.541918,107.763621
+64,Gia Lai,Huyện Chư Sê,13.7399629,108.0954351
+64,Gia Lai,Huyện Đăk Pơ,13.946425,108.5938124
+64,Gia Lai,Huyện Ia Pa,13.5261514,108.5700636
+64,Gia Lai,Huyện Krông Pa,13.2160038,108.6726891
+64,Gia Lai,Huyện Phú Thiện,13.4589308,108.2852049
+64,Gia Lai,Huyện Chư Pưh,13.4730527,108.0954351
+66,Đắk Lắk,Thành phố Buôn Ma Thuột,12.6661944,108.0382475
+66,Đắk Lắk,Thị xã Buôn Hồ,12.8500473,108.2541803
+66,Đắk Lắk,Huyện Ea H'leo,13.1998141,108.1903059
+66,Đắk Lắk,Huyện Ea Súp,13.1862227,107.763621
+66,Đắk Lắk,Huyện Buôn Đôn,12.8791607,107.71625
+66,Đắk Lắk,Huyện Cư M'gar,12.8525649,108.0954351
+66,Đắk Lắk,Huyện Krông Búk,13.0226831,108.1903059
+66,Đắk Lắk,Huyện Krông Năng,13.0089192,108.3801314
+66,Đắk Lắk,Huyện Ea Kar,12.7981778,108.5463165
+66,Đắk Lắk,Huyện M'Đrắk,12.7483404,108.7393068
+66,Đắk Lắk,Huyện Krông Bông,12.473032,108.4750846
+66,Đắk Lắk,Huyện Krông Pắc,12.7439968,108.3801314
+66,Đắk Lắk,Huyện Krông A Na,12.4823793,108.024301
+66,Đắk Lắk,Huyện Lắk,12.3169361,108.1903059
+66,Đắk Lắk,Huyện Cư Kuin,12.5810594,108.1903059
+67,Đắk Nông,Thành phố Gia Nghĩa,12.0045195,107.6830002
+67,Đắk Nông,Huyện Đăk Glong,12.2646476,107.609806
+67,Đắk Nông,Huyện Cư Jút,12.657282,107.8656124
+67,Đắk Nông,Huyện Đắk Mil,12.2646476,107.609806
+67,Đắk Nông,Huyện Krông Nô,12.2646476,107.609806
+67,Đắk Nông,Huyện Đắk Song,12.2328311,107.6216789
+67,Đắk Nông,Huyện Đắk R'Lấp,12.2646476,107.609806
+67,Đắk Nông,Huyện Tuy Đức,12.1576117,107.4342313
+68,Lâm Đồng,Thành phố Đà Lạt,11.9404192,108.4583132
+68,Lâm Đồng,Thành phố Bảo Lộc,11.5731051,107.8346924
+68,Lâm Đồng,Huyện Đam Rông,12.0598218,108.0954351
+68,Lâm Đồng,Huyện Lạc Dương,12.1218309,108.4750846
+68,Lâm Đồng,Huyện Lâm Hà,11.7906825,108.1903059
+68,Lâm Đồng,Huyện Đơn Dương,11.7452329,108.5463165
+68,Lâm Đồng,Huyện Đức Trọng,11.641927,108.3102916
+68,Lâm Đồng,Huyện Di Linh,11.5346745,108.0954351
+68,Lâm Đồng,Huyện Bảo Lâm,11.7337863,107.71625
+68,Lâm Đồng,Huyện Đạ Huoai,11.4101516,107.6452085
+68,Lâm Đồng,Huyện Đạ Tẻh,11.5705176,107.5268471
+68,Lâm Đồng,Huyện Cát Tiên,11.6903361,107.36123
+70,Bình Phước,Thị xã Phước Long,11.8337331,106.9948945
+70,Bình Phước,Thành phố Đồng Xoài,11.534407,106.8904917
+70,Bình Phước,Thị xã Bình Long,11.7096516,106.5911643
+70,Bình Phước,Huyện Bù Gia Mập,12.0392238,107.0539434
+70,Bình Phước,Huyện Lộc Ninh,11.803677,106.5819789
+70,Bình Phước,Huyện Bù Đốp,11.9891869,106.7942405
+70,Bình Phước,Huyện Hớn Quản,11.6014622,106.6527099
+70,Bình Phước,Huyện Đồng Phú,11.5123355,106.9905473
+70,Bình Phước,Huyện Bù Đăng,11.7693374,107.1484521
+70,Bình Phước,Thị xã Chơn Thành,11.4696902,106.6527099
+70,Bình Phước,Huyện Phú Riềng,11.6827356,106.947666
+72,Tây Ninh,Thành phố Tây Ninh,11.3351554,106.1098854
+72,Tây Ninh,Huyện Tân Biên,11.572115,106.0169971
+72,Tây Ninh,Huyện Tân Châu,11.5614393,106.2051484
+72,Tây Ninh,Huyện Dương Minh Châu,11.3595908,106.2757514
+72,Tây Ninh,Huyện Châu Thành,11.3081393,106.0169971
+72,Tây Ninh,Thị xã Hòa Thành,11.2680459,106.1463317
+72,Tây Ninh,Huyện Gò Dầu,11.1402783,106.2757514
+72,Tây Ninh,Huyện Bến Cầu,11.1506368,106.0875326
+72,Tây Ninh,Thị xã Trảng Bàng,11.0328111,106.3645677
+74,Bình Dương,Thành phố Thủ Dầu Một,10.9929842,106.6557073
+74,Bình Dương,Huyện Bàu Bàng,11.2725429,106.634726
+74,Bình Dương,Huyện Dầu Tiếng,11.348909,106.4641459
+74,Bình Dương,Thị xã Bến Cát,11.1383407,106.6124495
+74,Bình Dương,Huyện Phú Giáo,11.2655822,106.7706458
+74,Bình Dương,Thị xã Tân Uyên,11.049492,106.7576751
+74,Bình Dương,Thành phố Dĩ An,10.9044391,106.7824429
+74,Bình Dương,Thành phố Thuận An,10.924067,106.7130309
+74,Bình Dương,Huyện Bắc Tân Uyên,11.0923607,106.8327406
+75,Đồng Nai,Thành phố Biên Hòa,10.9574128,106.8426871
+75,Đồng Nai,Thành phố Long Khánh,10.9329569,107.2437005
+75,Đồng Nai,Huyện Tân Phú,11.4275308,107.36123
+75,Đồng Nai,Huyện Vĩnh Cửu,11.3049005,107.0605278
+75,Đồng Nai,Huyện Định Quán,11.1576779,107.2740528
+75,Đồng Nai,Huyện Trảng Bom,10.9667039,107.0303221
+75,Đồng Nai,Huyện Thống Nhất,10.994359,107.1547158
+75,Đồng Nai,Huyện Cẩm Mỹ,10.8225699,107.2666396
+75,Đồng Nai,Huyện Long Thành,10.7932946,107.0135297
+75,Đồng Nai,Huyện Xuân Lộc,10.9652026,107.4321959
+75,Đồng Nai,Huyện Nhơn Trạch,10.6968843,106.8907696
+77,Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,10.4113797,107.136224
+77,Bà Rịa - Vũng Tàu,Thành phố Bà Rịa,10.508928,107.1816257
+77,Bà Rịa - Vũng Tàu,Huyện Châu Đức,10.6284702,107.2429976
+77,Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,10.6177683,107.4321959
+77,Bà Rịa - Vũng Tàu,Huyện Long Điền,10.4812576,107.2104935
+77,Bà Rịa - Vũng Tàu,Huyện Đất Đỏ,10.4728035,107.3139304
+77,Bà Rịa - Vũng Tàu,Thị xã Phú Mỹ,10.5833237,107.072273
+77,Bà Rịa - Vũng Tàu,Huyện Côn Đảo,8.7009282,106.6114474
+79,Hồ Chí Minh,Quận 1,10.7756587,106.7004238
+79,Hồ Chí Minh,Quận 12,10.8671531,106.6413322
+79,Hồ Chí Minh,Quận Gò Vấp,10.8386779,106.6652904
+79,Hồ Chí Minh,Quận Bình Thạnh,10.8105831,106.7091422
+79,Hồ Chí Minh,Quận Tân Bình,10.8014659,106.6525974
+79,Hồ Chí Minh,Quận Tân Phú,10.7900517,106.6281901
+79,Hồ Chí Minh,Quận Phú Nhuận,10.7991944,106.6802639
+79,Hồ Chí Minh,Thành phố Thủ Đức,10.8494094,106.7537055
+79,Hồ Chí Minh,Quận 3,10.7843695,106.6844089
+79,Hồ Chí Minh,Quận 10,10.7745965,106.6679542
+79,Hồ Chí Minh,Quận 11,10.7629739,106.650084
+79,Hồ Chí Minh,Quận 4,10.7578263,106.7012968
+79,Hồ Chí Minh,Quận 5,10.7540279,106.6633746
+79,Hồ Chí Minh,Quận 6,10.7480929,106.6352362
+79,Hồ Chí Minh,Quận 8,10.7240878,106.6286259
+79,Hồ Chí Minh,Quận Bình Tân,10.7652581,106.6038535
+79,Hồ Chí Minh,Quận 7,10.7340344,106.7215787
+79,Hồ Chí Minh,Huyện Củ Chi,11.0066683,106.5131967
+79,Hồ Chí Minh,Huyện Hóc Môn,10.8839675,106.5870611
+79,Hồ Chí Minh,Huyện Bình Chánh,10.687392,106.5938538
+79,Hồ Chí Minh,Huyện Nhà Bè,10.6952642,106.704874
+79,Hồ Chí Minh,Huyện Cần Giờ,10.5083266,106.8635004
+80,Long An,Thành phố Tân An,10.5383411,106.40513
+80,Long An,Thị xã Kiến Tường,10.7787307,105.9278566
+80,Long An,Huyện Tân Hưng,10.8226522,105.6647142
+80,Long An,Huyện Vĩnh Hưng,10.9028612,105.8055471
+80,Long An,Huyện Mộc Hóa,10.7642485,105.9464874
+80,Long An,Huyện Tân Thạnh,10.6078027,106.0169971
+80,Long An,Huyện Thạnh Hóa,10.664587,106.1816196
+80,Long An,Huyện Đức Huệ,10.8777796,106.2757514
+80,Long An,Huyện Đức Hòa,10.9023378,106.418534
+80,Long An,Huyện Bến Lức,10.641162,106.4856006
+80,Long An,Huyện Thủ Thừa,10.7006857,106.3228338
+80,Long An,Huyện Tân Trụ,10.5280095,106.4994889
+80,Long An,Huyện Cần Đước,10.5549448,106.6055534
+80,Long An,Huyện Cần Giuộc,10.6009679,106.6650358
+80,Long An,Huyện Châu Thành,10.4640645,106.4759262
+82,Tiền Giang,Thành phố Mỹ Tho,10.3765284,106.3438891
+82,Tiền Giang,Thị xã Gò Công,10.3645799,106.6781219
+82,Tiền Giang,Thị xã Cai Lậy,10.4050639,106.1186715
+82,Tiền Giang,Huyện Tân Phước,10.5314211,106.22868
+82,Tiền Giang,Huyện Cái Bè,10.3718873,105.9464874
+82,Tiền Giang,Huyện Cai Lậy,10.4287401,106.1110501
+82,Tiền Giang,Huyện Châu Thành,10.4009358,106.22868
+82,Tiền Giang,Huyện Chợ Gạo,10.3793903,106.4541903
+82,Tiền Giang,Huyện Gò Công Tây,10.3378629,106.6055534
+82,Tiền Giang,Huyện Gò Công Đông,10.3737254,106.7470536
+82,Tiền Giang,Huyện Tân Phú Đông,10.2462427,106.6998767
+83,Bến Tre,Thành phố Bến Tre,10.2433556,106.375551
+83,Bến Tre,Huyện Châu Thành,10.3067813,106.3699271
+83,Bến Tre,Huyện Chợ Lách,10.241094,106.1698563
+83,Bến Tre,Huyện Mỏ Cày Nam,10.0468396,106.3699271
+83,Bến Tre,Huyện Giồng Trôm,10.1718844,106.4641459
+83,Bến Tre,Huyện Bình Đại,10.1596899,106.6998767
+83,Bến Tre,Huyện Ba Tri,10.0417849,106.5936741
+83,Bến Tre,Huyện Thạnh Phú,9.9077234,106.5584071
+83,Bến Tre,Huyện Mỏ Cày Bắc,10.1700758,106.287521
+84,Trà Vinh,Thành phố Trà Vinh,9.9513316,106.3346061
+84,Trà Vinh,Huyện Càng Long,9.9674087,106.22868
+84,Trà Vinh,Huyện Cầu Kè,9.8878863,106.0875326
+84,Trà Vinh,Huyện Tiểu Cần,9.7969156,106.1816196
+84,Trà Vinh,Huyện Châu Thành,9.8331585,106.3228338
+84,Trà Vinh,Huyện Cầu Ngang,9.7830517,106.4641459
+84,Trà Vinh,Huyện Trà Cú,9.7060851,106.2757514
+84,Trà Vinh,Huyện Duyên Hải,9.631184200000002,106.4877072
+84,Trà Vinh,Thị xã Duyên Hải,9.635697799999999,106.50538
+86,Vĩnh Long,Thành phố Vĩnh Long,10.239574,105.9571928
+86,Vĩnh Long,Huyện Long Hồ,10.1980682,105.9464874
+86,Vĩnh Long,Huyện Mang Thít,10.18076,106.0757749
+86,Vĩnh Long,Huyện Vũng Liêm,10.058632,106.1345705
+86,Vĩnh Long,Huyện Tam Bình,10.0679356,105.9464874
+86,Vĩnh Long,Thị xã Bình Minh,10.0705169,105.8229464
+86,Vĩnh Long,Huyện Trà Ôn,9.9789961,105.993491
+86,Vĩnh Long,Huyện Bình Tân,10.1218894,105.7728863
+87,Đồng Tháp,Thành phố Cao Lãnh,10.4549723,105.6340352
+87,Đồng Tháp,Thành phố Sa Đéc,10.2901261,105.7517453
+87,Đồng Tháp,Thành phố Hồng Ngự,10.8082958,105.3414304
+87,Đồng Tháp,Huyện Tân Hồng,10.876115,105.4771084
+87,Đồng Tháp,Huyện Hồng Ngự,10.7979866,105.2897042
+87,Đồng Tháp,Huyện Tam Nông,10.7192793,105.5474373
+87,Đồng Tháp,Huyện Tháp Mười,10.5302706,105.8290298
+87,Đồng Tháp,Huyện Cao Lãnh,10.4659577,105.7059785
+87,Đồng Tháp,Huyện Thanh Bình,10.6135294,105.4771084
+87,Đồng Tháp,Huyện Lấp Vò,10.3578054,105.6308159
+87,Đồng Tháp,Huyện Lai Vung,10.255455,105.6647142
+87,Đồng Tháp,Huyện Châu Thành,10.2050554,105.8055471
+89,An Giang,Thành phố Long Xuyên,10.3759416,105.4185406
+89,An Giang,Thành phố Châu Đốc,10.7022388,105.1087261
+89,An Giang,Huyện An Phú,10.8512167,105.1025075
+89,An Giang,Thị xã Tân Châu,10.8423542,105.1843501
+89,An Giang,Huyện Phú Tân,10.6666154,105.2897042
+89,An Giang,Huyện Châu Phú,10.5630265,105.1726816
+89,An Giang,Huyện Tịnh Biên,10.549107,105.0089888
+89,An Giang,Huyện Tri Tôn,10.3972321,104.9856176
+89,An Giang,Huyện Châu Thành,10.4067213,105.2428853
+89,An Giang,Huyện Chợ Mới,10.4825247,105.4771084
+89,An Giang,Huyện Thoại Sơn,10.2595103,105.2608002
+91,Kiên Giang,Thành phố Rạch Giá,10.021507,105.0910974
+91,Kiên Giang,Thành phố Hà Tiên,10.3792058,104.4819973
+91,Kiên Giang,Huyện Kiên Lương,10.3043903,104.6354631
+91,Kiên Giang,Huyện Hòn Đất,10.2227003,104.9856176
+91,Kiên Giang,Huyện Tân Hiệp,10.1154358,105.2834404
+91,Kiên Giang,Huyện Châu Thành,9.8889535,105.1492869
+91,Kiên Giang,Huyện Giồng Riềng,9.9238222,105.3728845
+91,Kiên Giang,Huyện Gò Quao,9.752507699999999,105.2897042
+91,Kiên Giang,Huyện An Biên,9.8064559,105.0557415
+91,Kiên Giang,Huyện An Minh,9.664718299999999,104.9495651
+91,Kiên Giang,Huyện Vĩnh Thuận,9.5384134,105.2428853
+91,Kiên Giang,Thành phố Phú Quốc,10.2228734,103.9626259
+91,Kiên Giang,Huyện Kiên Hải,9.8091362,104.6296338
+91,Kiên Giang,Huyện U Minh Thượng,9.6311125,105.1025075
+91,Kiên Giang,Huyện Giang Thành,10.4771358,104.6821048
+92,Cần Thơ,Quận Ninh Kiều,10.0451618,105.7468535
+92,Cần Thơ,Quận Ô Môn,10.1164943,105.6326457
+92,Cần Thơ,Quận Bình Thuỷ,10.0622567,105.7381017
+92,Cần Thơ,Quận Cái Răng,9.9992392,105.8043572
+92,Cần Thơ,Quận Thốt Nốt,10.2405338,105.5336815
+92,Cần Thơ,Huyện Vĩnh Thạnh,10.2322696,105.3987034
+92,Cần Thơ,Huyện Cờ Đỏ,10.0972302,105.4304423
+92,Cần Thơ,Huyện Phong Điền,9.9967657,105.6686611
+92,Cần Thơ,Huyện Thới Lai,10.0681881,105.5599728
+93,Hậu Giang,Thành phố Vị Thanh,9.7731921,105.4537082
+93,Hậu Giang,Thành phố Ngã Bảy,9.808990099999999,105.8220989
+93,Hậu Giang,Huyện Châu Thành A,9.926726,105.6315594
+93,Hậu Giang,Huyện Châu Thành,9.9216255,105.8073554
+93,Hậu Giang,Huyện Phụng Hiệp,9.776212600000001,105.7116464
+93,Hậu Giang,Huyện Vị Thuỷ,9.826082399999999,105.5708865
+93,Hậu Giang,Huyện Long Mỹ,9.6552847,105.5239912
+93,Hậu Giang,Thị xã Long Mỹ,9.669597,105.5650239
+94,Sóc Trăng,Thành phố Sóc Trăng,9.602521,105.9739049
+94,Sóc Trăng,Huyện Châu Thành,9.680972599999999,105.8994956
+94,Sóc Trăng,Huyện Kế Sách,9.8310108,105.92299
+94,Sóc Trăng,Huyện Mỹ Tú,9.599103999999999,105.8055471
+94,Sóc Trăng,Huyện Cù Lao Dung,9.579152200000001,106.22868
+94,Sóc Trăng,Huyện Long Phú,9.628942100000002,106.0875326
+94,Sóc Trăng,Huyện Mỹ Xuyên,9.465511099999999,105.8994956
+94,Sóc Trăng,Thị xã Ngã Năm,9.521517099999999,105.6177942
+94,Sóc Trăng,Huyện Thạnh Trị,9.4741407,105.7116464
+94,Sóc Trăng,Thị xã Vĩnh Châu,9.3751715,105.993491
+94,Sóc Trăng,Huyện Trần Đề,9.49978,106.0875326
+95,Bạc Liêu,Thành phố Bạc Liêu,9.2940027,105.7215663
+95,Bạc Liêu,Huyện Hồng Dân,9.553902899999999,105.45205
+95,Bạc Liêu,Huyện Phước Long,9.4006715,105.4302383
+95,Bạc Liêu,Huyện Vĩnh Lợi,9.3450296,105.7116464
+95,Bạc Liêu,Thị xã Giá Rai,9.260136,105.3753129
+95,Bạc Liêu,Huyện Đông Hải,9.163064199999999,105.4536718
+95,Bạc Liêu,Huyện Hoà Bình,9.2734758,105.629523
+96,Cà Mau,Thành phố Cà Mau,9.1526728,105.1960795
+96,Cà Mau,Huyện U Minh,9.3554435,104.9856176
+96,Cà Mau,Huyện Thới Bình,9.347362799999999,105.1726816
+96,Cà Mau,Huyện Trần Văn Thời,9.100971600000001,104.8921668
+96,Cà Mau,Huyện Cái Nước,8.986776299999999,105.0557415
+96,Cà Mau,Huyện Đầm Dơi,8.9994186,105.2662931
+96,Cà Mau,Huyện Năm Căn,8.8153071,105.0557415
+96,Cà Mau,Huyện Phú Tân,8.9291357,104.8921668
+96,Cà Mau,Huyện Ngọc Hiển,8.667725599999999,105.0032366
