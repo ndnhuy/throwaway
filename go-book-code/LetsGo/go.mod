@@ -3,8 +3,10 @@ module github.com/travisjeffery/proglog
 go 1.13
 
 require (
+	github.com/casbin/casbin/v2 v2.77.2
 	github.com/golang/protobuf v1.5.3
 	github.com/gorilla/mux v1.7.3
+	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/stretchr/testify v1.8.4
 	github.com/tysonmote/gommap v0.0.2
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19

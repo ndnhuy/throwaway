@@ -1,5 +1,5 @@
 # START: begin
-CONFIG_PATH=./.proglog/
+CONFIG_PATH=./.proglog
 
 .PHONY: init
 init:
@@ -50,11 +50,12 @@ gencert:
 
 # END: begin
 # START: auth
-$(CONFIG_PATH)/model.conf:
-	cp test/model.conf $(CONFIG_PATH)/model.conf
+gen_acl:
+	# $(CONFIG_PATH)/model.conf:
+		cp test/model.conf $(CONFIG_PATH)/model.conf
 
-$(CONFIG_PATH)/policy.csv:
-	cp test/policy.csv $(CONFIG_PATH)/policy.csv
+	# $(CONFIG_PATH)/policy.csv:
+		cp test/policy.csv $(CONFIG_PATH)/policy.csv
 
 # START: begin
 .PHONY: test
