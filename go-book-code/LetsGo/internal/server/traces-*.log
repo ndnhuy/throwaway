@@ -1,0 +1,20 @@
+
+#----------------------------------------------
+
+TraceID:      2786e5e5288aadaa9d30a878744ed26e
+SpanID:       4194d4ce89e3b10c
+
+Span:    log.v1.Log.Consume
+Status:  offset out of range: 1 [404]
+Elapsed: 0s
+SpanKind: Server
+
+Attributes:
+  - Client=false
+  - FailFast=false
+
+MessageEvents:
+Received
+UncompressedByteSize: 2
+CompressedByteSize: 7
+
