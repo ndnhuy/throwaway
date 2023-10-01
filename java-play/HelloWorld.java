@@ -1,3 +1,5 @@
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 import org.junit.jupiter.api.Test;
 
 public class HelloWorld {
@@ -8,5 +10,6 @@ public class HelloWorld {
 
   @Test
   public void testFoo() {
+    assertTrue(true);
   }
 }
