@@ -1,5 +1,6 @@
 package trie;
 
+import static org.junit.Assert.assertNull;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.Test;
@@ -7,7 +8,31 @@ import org.junit.Test;
 public class StringSTTest {
 
   @Test
-  public void testPutKey() {
+  public void testKeyPutDeleteSize() {
+    StringST<Integer> st = new StringST<>();
+    doTestPutKey(st, "sea", 6);
+    assertEquals(3, st.size());
+    doTestPutKey(st, "by", 4);
+    assertEquals(5, st.size());
+    doTestPutKey(st, "sells", 1);
+    doTestPutKey(st, "shells", 3);
+    assertEquals(13, st.size());
+    doTestPutKey(st, "she", 0);
+    doTestPutKey(st, "the", 5);
+    doTestPutKey(st, "shore", 7);
+    assertEquals(19, st.size());
+
+    // st.print();
+
+    // test delete key
+    doTestDeleteKey(st, "sea");
+    assertEquals(18, st.size());
+    doTestDeleteKey(st, "by");
+    assertEquals(16, st.size());
+  }
+
+  @Test
+  public void testDeleteAllKeys() {
     StringST<Integer> st = new StringST<>();
     doTestPutKey(st, "sea", 6);
     doTestPutKey(st, "by", 4);
@@ -17,12 +42,25 @@ public class StringSTTest {
     doTestPutKey(st, "the", 5);
     doTestPutKey(st, "shore", 7);
 
-    st.print();
+    // test delete key
+    doTestDeleteKey(st, "sea");
+    doTestDeleteKey(st, "by");
+    doTestDeleteKey(st, "sells");
+    doTestDeleteKey(st, "shells");
+    doTestDeleteKey(st, "she");
+    doTestDeleteKey(st, "the");
+    doTestDeleteKey(st, "shore");
+  }
+
+  private void doTestDeleteKey(StringST<Integer> st, String key) {
+    st.delete(key);
+    var got = st.get(key);
+    assertNull("key is already deleted", got);
   }
 
   private void doTestPutKey(StringST<Integer> st, String key, Integer value) {
     st.put(key, value);
-    var want = st.get(key);
-    assertEquals(value, want);
+    var got = st.get(key);
+    assertEquals(value, got);
   }
 }

@@ -1,5 +1,7 @@
 package trie;
 
+import org.junit.Assert;
+
 public class StringST<Value> {
   private static int R = 256;
 
@@ -24,6 +26,7 @@ public class StringST<Value> {
   }
 
   void put(String key, Value val) {
+    Assert.assertNotNull("mus not be null", val);
     root = put(root, key, val, 0);
   }
 
@@ -41,6 +44,9 @@ public class StringST<Value> {
   }
 
   Value get(String key) {
+    if (root == null) {
+      return null;
+    }
     Node iter = root;
     for (var i = 0; i < key.length(); i++) {
       var c = key.charAt(i);
@@ -52,7 +58,54 @@ public class StringST<Value> {
     return (Value) iter.val;
   }
 
+  int size() {
+    return size(root);
+  }
+
+  private int size(Node node) {
+    if (node == null) {
+      return 0;
+    }
+
+    var sum = 0;
+    for (var i = 0; i < node.next.length; i++) {
+      var t = node.next[i];
+      if (t != null) {
+        // if the link is not null, that means 1 node
+        sum++;
+      }
+      // then sum up all size of subtries
+      sum += size(t);
+    }
+    return sum;
+  }
+
   void delete(String key) {
+    root = delete(root, key, 0);
+  }
+
+  private Node delete(Node node, String key, int depth) {
+    if (node == null) {
+      return node;
+    }
+    if (depth == key.length()) {
+      node.val = null;
+    } else {
+      var c = key.charAt(depth);
+      node.next[c] = delete(node.next[c], key, depth + 1);
+    }
+
+    if (node.val != null) {
+      return node;
+    } else {
+      for (var i = 0; i < node.next.length; i++) {
+        if (node.next[i] != null) {
+          return node;
+        }
+      }
+    }
+    // remove the node if all links are null
+    return null;
   }
 
   boolean contains(String key) {
