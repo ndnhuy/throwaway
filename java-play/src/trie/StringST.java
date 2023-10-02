@@ -58,11 +58,29 @@ public class StringST<Value> {
     return (Value) iter.val;
   }
 
+  int numberOfNodes() {
+    return numberOfNodes(root);
+  }
+
   int size() {
     return size(root);
   }
 
   private int size(Node node) {
+    if (node == null)
+      return 0;
+
+    var cnt = 0;
+    if (node.val != null) {
+      cnt++;
+    }
+    for (var i = 0; i < node.next.length; i++) {
+      cnt += size(node.next[i]);
+    }
+    return cnt;
+  }
+
+  private int numberOfNodes(Node node) {
     if (node == null) {
       return 0;
     }
@@ -75,7 +93,7 @@ public class StringST<Value> {
         sum++;
       }
       // then sum up all size of subtries
-      sum += size(t);
+      sum += numberOfNodes(t);
     }
     return sum;
   }
