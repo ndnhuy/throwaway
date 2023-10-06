@@ -4,7 +4,6 @@ import java.util.concurrent.TimeUnit;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.BenchmarkMode;
-import org.openjdk.jmh.annotations.Fork;
 import org.openjdk.jmh.annotations.Mode;
 import org.openjdk.jmh.annotations.OutputTimeUnit;
 import org.openjdk.jmh.runner.Runner;
@@ -20,7 +19,14 @@ public class BenchmarkRunner {
   @Benchmark
   @BenchmarkMode(Mode.Throughput)
   @OutputTimeUnit(TimeUnit.SECONDS)
-  public void init() throws InterruptedException {
+  public void measureThroughput() throws InterruptedException {
+    TimeUnit.MILLISECONDS.sleep(100);
+  }
+
+  @Benchmark
+  @BenchmarkMode(Mode.AverageTime)
+  @OutputTimeUnit(TimeUnit.SECONDS)
+  public void measureAvgTime() throws InterruptedException {
     TimeUnit.MILLISECONDS.sleep(100);
   }
 }
