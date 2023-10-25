@@ -9,6 +9,16 @@ import (
 	"github.com/ndnhuy/mathsys/service"
 )
 
+type MiddlewareFunc func(http.Handler) http.Handler
+
+func loggingMiddleware(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		// Do stuff here
+		log.Printf("%v%v", r.Host, r.URL.Path)
+		// Call the next handler, which can be another middleware in the chain, or the final handler.
+		next.ServeHTTP(w, r)
+	})
+}
 func main() {
 	srv := NewHTTPServer(":8989")
 	log.Fatal(srv.ListenAndServe())
@@ -25,6 +35,7 @@ func NewHTTPServer(addr string) *http.Server {
 	r.HandleFunc("/sub", controller.Sub).Methods("POST")
 	r.HandleFunc("/mul", controller.Mul).Methods("POST")
 	r.HandleFunc("/div", controller.Div).Methods("POST")
+	r.Use(loggingMiddleware)
 	http := &http.Server{
 		Addr:    addr,
 		Handler: r,
@@ -55,6 +66,7 @@ func (c *controller) Add(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+	log.Printf("%v + %v = %v\n", req.A, req.B, res.Result)
 }
 
 func (c *controller) Sub(w http.ResponseWriter, r *http.Request) {
@@ -72,6 +84,7 @@ func (c *controller) Sub(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+	log.Printf("%v - %v = %v\n", req.A, req.B, res.Result)
 }
 
 func (c *controller) Mul(w http.ResponseWriter, r *http.Request) {
@@ -89,6 +102,7 @@ func (c *controller) Mul(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+	log.Printf("%v x %v = %v\n", req.A, req.B, res.Result)
 }
 
 func (c *controller) Div(w http.ResponseWriter, r *http.Request) {
@@ -111,4 +125,5 @@ func (c *controller) Div(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+	log.Printf("%v / %v = %v\n", req.A, req.B, res.Result)
 }

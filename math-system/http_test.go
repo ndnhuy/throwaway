@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"math/rand"
 	"net/http"
 	"testing"
 
@@ -12,18 +13,22 @@ import (
 	"github.com/travisjeffery/go-dynaport"
 )
 
-func TestAdd(t *testing.T) {
+func initServer() (tearDown func(), port int) {
 	ports := dynaport.Get(1)
-	port := ports[0]
+	port = ports[0]
 	host := fmt.Sprintf(":%v", port)
 	server := NewHTTPServer(host)
 
 	go func() {
-		err := server.ListenAndServe()
-		require.NoError(t, err)
+		_ = server.ListenAndServe()
 		defer server.Close()
 	}()
-
+	return func() { server.Close() }, port
+}
+func TestAdd(t *testing.T) {
+	// tearDown, port := initServer()
+	// defer tearDown()
+	port := 8989
 	client := http.Client{}
 	for scenario, fn := range map[string]func(t *testing.T, client http.Client, port int){
 		"add 2 numbers": testAdd,
@@ -50,7 +55,7 @@ func composeRequest(a float64, b float64) ([]byte, error) {
 
 func sendRequest(client http.Client, port int, path string, reqBody []byte) (*http.Response, error) {
 	url := fmt.Sprintf("http://localhost:%v/%v", port, path)
-	fmt.Println("url: " + url)
+	// fmt.Println("send request to url: " + url)
 	return client.Post(url, "application/json", bytes.NewBuffer(reqBody))
 }
 
@@ -142,4 +147,24 @@ func testDiv(t *testing.T, client http.Client, port int) {
 	defer resp.Body.Close()
 	_, err = readResult(resp)
 	require.Error(t, err)
+}
+
+func BenchmarkAdd(b *testing.B) {
+	client := http.Client{}
+	port := 8989
+	doTest := func(a float64, b float64) {
+		req, _ := composeRequest(a, b)
+		resp, _ := sendRequest(client, port, "add", req)
+		defer resp.Body.Close()
+		_, _ = readResult(resp)
+	}
+	min := float64(0)
+	max := float64(100)
+	for i := 0; i < b.N; i++ {
+		doTest(randFloat(min, max), randFloat(min, max))
+	}
+}
+
+func randFloat(min, max float64) float64 {
+	return min + rand.Float64()*(max-min)
 }

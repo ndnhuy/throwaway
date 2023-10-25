@@ -1,4 +1,10 @@
+package trie;
+
+import java.util.function.BiFunction;
+import java.util.function.Function;
+
 import org.junit.Assert;
+import org.openjdk.jmh.runner.RunnerException;
 
 public class StringST<Value> {
   private static int R = 256;
@@ -7,12 +13,17 @@ public class StringST<Value> {
     private Node[] next = new Node[R];
     private Object val;
 
-    void print() {
+    void print(int level) {
       for (var c = 0; c < next.length; c++) {
         if (next[c] != null) {
           var n = next[c];
-          System.out.println(String.format("[%c, %d]", c, n.val));
-          n.print();
+          var prefix = "";
+          for (var i = 0; i < level; i++) {
+            prefix += " ";
+          }
+          var valText = n.val == null ? "" : "->" + n.val;
+          System.out.println(String.format("%s|%c%s", prefix, c, valText));
+          n.print(level + 1);
         }
       }
     }
@@ -23,9 +34,38 @@ public class StringST<Value> {
   public StringST() {
   }
 
-  void put(String key, Value val) {
+  public String sanitizeKey(String key) {
+    key = key.toLowerCase();
+    key = key.replaceAll("’", "'");
+    key = key.replaceAll("\\.", "");
+    key = key.replaceAll("\"", "");
+    for (char i = 0; i < key.length(); i++) {
+      char c = key.charAt(i);
+      if (c > 255) {
+        key = key.replaceAll(String.valueOf(c), "");
+        return sanitizeKey(key);
+      }
+    }
+    return key;
+  }
+
+  public void put(String key, Value val) {
     Assert.assertNotNull("mus not be null", val);
-    root = put(root, key, val, 0);
+    try {
+      key = sanitizeKey(key);
+      root = put(root, key, val, 0);
+    } catch (Exception e) {
+      throw new RuntimeException(String.format("error when put (key=%s,value=%s)", key, val), e);
+    }
+  }
+
+  public void putIfAbsent(String key, Value defaultValue, Function<Value, Value> valueGetter) {
+    var v = get(key);
+    if (v == null) {
+      put(key, defaultValue);
+    } else {
+      put(key, valueGetter.apply(v));
+    }
   }
 
   private Node put(Node node, String key, Value val, int depth) {
@@ -36,31 +76,47 @@ public class StringST<Value> {
       node.val = val;
       return node;
     }
-    var c = key.charAt(depth);
+    char c = key.charAt(depth);
     node.next[c] = put(node.next[c], key, val, depth + 1);
     return node;
   }
 
-  Value get(String key) {
-    if (root == null) {
-      return null;
-    }
-    var iter = root;
-    for (int i = 0; i < key.length(); i++) {
-      char c = key.charAt(i);
-      iter = iter.next[c];
-      if (iter == null) {
+  public Value get(String key) {
+    key = sanitizeKey(key);
+    try {
+      boolean isNumber = false;
+      try {
+        Double.parseDouble(key);
+        isNumber = true;
+      } catch (NumberFormatException e) {
+        isNumber = false;
+      }
+      if (isNumber) {
+        double d = Double.parseDouble(key);
+        key = Double.toString(d);
+      }
+      if (root == null) {
         return null;
       }
+      var iter = root;
+      for (int i = 0; i < key.length(); i++) {
+        char c = key.charAt(i);
+        iter = iter.next[c];
+        if (iter == null) {
+          return null;
+        }
+      }
+      return (Value) iter.val;
+    } catch (Exception e) {
+      throw new RuntimeException(String.format("error when put (key=%s)", key), e);
     }
-    return (Value) iter.val;
   }
 
-  int numberOfNodes() {
+  public int numberOfNodes() {
     return numberOfNodes(root);
   }
 
-  int size() {
+  public int size() {
     return size(root);
   }
 
@@ -96,7 +152,7 @@ public class StringST<Value> {
     return sum;
   }
 
-  void delete(String key) {
+  public void delete(String key) {
     root = delete(root, key, 0);
   }
 
@@ -136,7 +192,7 @@ public class StringST<Value> {
     throw new RuntimeException();
   }
 
-  void print() {
-    root.print();
+  public void print() {
+    root.print(0);
   }
 }
