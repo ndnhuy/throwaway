@@ -1,5 +1,7 @@
 package split
 
+import "sync"
+
 type task[R any] interface {
 	execute() R
 }
@@ -18,4 +20,24 @@ func Split[T any](source <-chan task[T], n int) []<-chan T {
 		}()
 	}
 	return dests
+}
+
+func Split2[T any](source <-chan task[T], n int) <-chan T {
+	dest := make(chan T)
+	var wg sync.WaitGroup
+	wg.Add(n)
+	for i := 0; i < n; i++ {
+		go func() {
+			defer wg.Done()
+			for task := range source {
+				v := task.execute()
+				dest <- v
+			}
+		}()
+	}
+	go func() {
+		wg.Wait()
+		close(dest)
+	}()
+	return dest
 }
