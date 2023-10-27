@@ -37,26 +37,33 @@ func doSumTask(inputSize int, nWorkers int, getSleepTime func() int) int {
 	var wg sync.WaitGroup
 	wg.Add(len(dests))
 
-	var mu sync.Mutex
-	sum := 0
-	for _, d := range dests {
-		go func(ch <-chan int) {
+	var mu1, mu2 sync.Mutex
+	sum1 := 0
+	sum2 := 0
+	for i, d := range dests {
+		go func(i int, ch <-chan int) {
 			defer wg.Done()
 			for v := range ch {
-				mu.Lock()
-				sum += v
-				mu.Unlock()
+				if i%2 == 0 {
+					mu1.Lock()
+					sum1 += v
+					mu1.Unlock()
+				} else {
+					mu2.Lock()
+					sum2 += v
+					mu2.Unlock()
+				}
 			}
-		}(d)
+		}(i, d)
 	}
 
 	wg.Wait()
-	return sum
+	return sum1 + sum2
 }
 
-func doSumTask2(inputSize int, nWorkers int, getSleepTime func() int) int {
+func doSumTaskWithOneDestChannel(inputSize int, nWorkers int, getSleepTime func() int) int {
 	source := make(chan task[int])
-	dest := Split2(source, nWorkers)
+	dest := SplitWithOneDest(source, nWorkers)
 
 	go func() {
 		defer close(source)
@@ -92,7 +99,7 @@ func TestSplit2(t *testing.T) {
 	for i := 0; i < taskSize; i++ {
 		expectSum += i
 	}
-	sum := doSumTask2(taskSize, 100, func() int { return 100 })
+	sum := doSumTaskWithOneDestChannel(taskSize, 100, func() int { return 100 })
 	require.Equal(t, expectSum, sum)
 }
 
@@ -100,11 +107,12 @@ var table = []struct {
 	inputSize int
 	nWorkers  int
 }{
-	{inputSize: 1000, nWorkers: 100},
-	{inputSize: 1000, nWorkers: 200},
+	{inputSize: 10000, nWorkers: 100},
+	{inputSize: 10000, nWorkers: 200},
 }
 
 var sleepTime = 100
+
 func BenchmarkSplit(b *testing.B) {
 	for _, v := range table {
 		b.Run(fmt.Sprintf("input_size_%v_with_%v_workers", v.inputSize, v.nWorkers), func(b *testing.B) {
@@ -119,7 +127,7 @@ func BenchmarkSplit2(b *testing.B) {
 	for _, v := range table {
 		b.Run(fmt.Sprintf("input_size_%v_with_%v_workers", v.inputSize, v.nWorkers), func(b *testing.B) {
 			for i := 0; i < b.N; i++ {
-				doSumTask2(v.inputSize, v.nWorkers, func() int { return sleepTime })
+				doSumTaskWithOneDestChannel(v.inputSize, v.nWorkers, func() int { return sleepTime })
 			}
 		})
 	}

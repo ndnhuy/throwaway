@@ -22,7 +22,7 @@ func Split[T any](source <-chan task[T], n int) []<-chan T {
 	return dests
 }
 
-func Split2[T any](source <-chan task[T], n int) <-chan T {
+func SplitWithOneDest[T any](source <-chan task[T], n int) <-chan T {
 	dest := make(chan T)
 	var wg sync.WaitGroup
 	wg.Add(n)
