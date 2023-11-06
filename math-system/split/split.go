@@ -2,11 +2,11 @@ package split
 
 import "sync"
 
-type task[R any] interface {
-	execute() R
+type Task[R any] interface {
+	Execute() R
 }
 
-func Split[T any](source <-chan task[T], n int) []<-chan T {
+func Split[T any](source <-chan Task[T], n int) []<-chan T {
 	dests := make([]<-chan T, 0)
 	for i := 0; i < n; i++ {
 		ch := make(chan T)
@@ -14,7 +14,7 @@ func Split[T any](source <-chan task[T], n int) []<-chan T {
 		go func() {
 			defer close(ch)
 			for task := range source {
-				v := task.execute()
+				v := task.Execute()
 				ch <- v
 			}
 		}()
@@ -22,7 +22,7 @@ func Split[T any](source <-chan task[T], n int) []<-chan T {
 	return dests
 }
 
-func SplitWithOneDest[T any](source <-chan task[T], n int) <-chan T {
+func SplitWithOneDest[T any](source <-chan Task[T], n int) <-chan T {
 	dest := make(chan T)
 	var wg sync.WaitGroup
 	wg.Add(n)
@@ -30,7 +30,7 @@ func SplitWithOneDest[T any](source <-chan task[T], n int) <-chan T {
 		go func() {
 			defer wg.Done()
 			for task := range source {
-				v := task.execute()
+				v := task.Execute()
 				dest <- v
 			}
 		}()

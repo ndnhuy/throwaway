@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
+	"time"
 
 	"github.com/gorilla/mux"
 	"github.com/ndnhuy/mathsys/service"
@@ -14,9 +15,10 @@ type MiddlewareFunc func(http.Handler) http.Handler
 func loggingMiddleware(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		// Do stuff here
-		log.Printf("%v%v", r.Host, r.URL.Path)
 		// Call the next handler, which can be another middleware in the chain, or the final handler.
+		startTime := time.Now()
 		next.ServeHTTP(w, r)
+		log.Printf("url:%v%v, duration: %v", r.Host, r.URL.Path, time.Since(startTime).String())
 	})
 }
 func main() {
@@ -51,6 +53,7 @@ type controller struct {
 }
 
 func (c *controller) Add(w http.ResponseWriter, r *http.Request) {
+	start := time.Now()
 	// parse request
 	var req service.AddRequest
 	err := json.NewDecoder(r.Body).Decode(&req)
@@ -67,9 +70,11 @@ func (c *controller) Add(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	log.Printf("%v + %v = %v\n", req.A, req.B, res.Result)
+	log.Printf("duration=%v", time.Since(start).String())
 }
 
 func (c *controller) Sub(w http.ResponseWriter, r *http.Request) {
+	start := time.Now()
 	// parse request
 	var req service.SubRequest
 	err := json.NewDecoder(r.Body).Decode(&req)
@@ -85,9 +90,11 @@ func (c *controller) Sub(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	log.Printf("%v - %v = %v\n", req.A, req.B, res.Result)
+	log.Printf("duration=%v", time.Since(start).String())
 }
 
 func (c *controller) Mul(w http.ResponseWriter, r *http.Request) {
+	start := time.Now()
 	// parse request
 	var req service.MultiplyRequest
 	err := json.NewDecoder(r.Body).Decode(&req)
@@ -103,9 +110,11 @@ func (c *controller) Mul(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	log.Printf("%v x %v = %v\n", req.A, req.B, res.Result)
+	log.Printf("duration=%v", time.Since(start).String())
 }
 
 func (c *controller) Div(w http.ResponseWriter, r *http.Request) {
+	start := time.Now()
 	// parse request
 	var req service.DivRequest
 	err := json.NewDecoder(r.Body).Decode(&req)
@@ -126,4 +135,5 @@ func (c *controller) Div(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	log.Printf("%v / %v = %v\n", req.A, req.B, res.Result)
+	log.Printf("duration=%v", time.Since(start).String())
 }

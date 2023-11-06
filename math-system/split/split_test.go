@@ -14,13 +14,13 @@ type someTask struct {
 	sleepTime int
 }
 
-func (s someTask) execute() int {
+func (s someTask) Execute() int {
 	time.Sleep(time.Duration(s.sleepTime) * time.Millisecond)
 	return s.x
 }
 
 func doSumTask(inputSize int, nWorkers int, getSleepTime func() int) int {
-	source := make(chan task[int])
+	source := make(chan Task[int])
 	dests := Split(source, nWorkers)
 
 	go func() {
@@ -62,7 +62,7 @@ func doSumTask(inputSize int, nWorkers int, getSleepTime func() int) int {
 }
 
 func doSumTaskWithOneDestChannel(inputSize int, nWorkers int, getSleepTime func() int) int {
-	source := make(chan task[int])
+	source := make(chan Task[int])
 	dest := SplitWithOneDest(source, nWorkers)
 
 	go func() {

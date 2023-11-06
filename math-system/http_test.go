@@ -7,8 +7,10 @@ import (
 	"io"
 	"math/rand"
 	"net/http"
+	"sync"
 	"testing"
 
+	"github.com/ndnhuy/mathsys/split"
 	"github.com/stretchr/testify/require"
 	"github.com/travisjeffery/go-dynaport"
 )
@@ -167,4 +169,59 @@ func BenchmarkAdd(b *testing.B) {
 
 func randFloat(min, max float64) float64 {
 	return min + rand.Float64()*(max-min)
+}
+
+type sumTask struct {
+	a, b float64
+}
+
+func (s sumTask) Execute() float64 {
+	client := http.Client{}
+	port := 8989
+	req, _ := composeRequest(s.a, s.b)
+	resp, _ := sendRequest(client, port, "add", req)
+	defer resp.Body.Close()
+	rs, _ := readResult(resp)
+	return rs
+}
+
+var table = []struct {
+	inputSize int
+	nWorkers  int
+}{
+	{inputSize: 100, nWorkers: 10},
+	{inputSize: 100, nWorkers: 1},
+}
+
+func BenchmarkAdd2(b *testing.B) {
+	doTest := func(inputSize int, nWorkers int) {
+		source := make(chan split.Task[float64])
+		dest := split.SplitWithOneDest(source, nWorkers)
+
+		var wg sync.WaitGroup
+		wg.Add(inputSize)
+		go func() {
+			defer close(source)
+			min := float64(0)
+			max := float64(100)
+			for i := 0; i < inputSize; i++ {
+				source <- sumTask{
+					a: randFloat(min, max),
+					b: randFloat(min, max),
+				}
+			}
+		}()
+
+		for _ = range dest {
+			wg.Done()
+		}
+		wg.Wait()
+	}
+	for _, v := range table {
+		b.Run(fmt.Sprintf("input_size_%v_with_%v_workers", v.inputSize, v.nWorkers), func(b *testing.B) {
+			for i := 0; i < b.N; i++ {
+				doTest(v.inputSize, v.nWorkers)
+			}
+		})
+	}
 }
