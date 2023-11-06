@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/ndnhuy/mathsys/service"
+	"github.com/ndnhuy/mathsys/math/service"
 )
 
 type MiddlewareFunc func(http.Handler) http.Handler

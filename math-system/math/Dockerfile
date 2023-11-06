@@ -9,7 +9,7 @@ FROM golang:1.21.3-alpine3.18 as builder
 COPY --from=modules /go/pkg /go/pkg
 COPY . /app
 WORKDIR /app
-RUN CGO_ENABLED=0 go build -o math 
+RUN CGO_ENABLED=0 go build -o math ./math
 
 # final
 FROM scratch
