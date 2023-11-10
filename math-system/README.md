@@ -1,4 +1,6 @@
 docker build -t math:1.1 -f math/Dockerfile .
+docker build -t lb:latest -f load_balance/Dockerfile .
+
 docker run -d --name math -p 8989:8989 math
 docker run -d --name math -p 8989:8989 -m 6m --cpus="0.01" math:1.0
 go test -bench=BenchmarkAdd -benchmem -count 10

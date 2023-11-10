@@ -1,6 +1,7 @@
-package load_balance
+package main
 
 import (
+	"fmt"
 	"net/http"
 	"net/http/httputil"
 	"net/url"
@@ -20,6 +21,13 @@ func NewServiceInstance(serviceUrl string, alive bool) (ServiceInstance, error) 
 		return nil, err
 	}
 	proxy := httputil.NewSingleHostReverseProxy(URL)
+	originalDirector := proxy.Director
+	proxy.Director = func(req *http.Request) {
+		from := req.Host
+		originalDirector(req)
+		to := req.URL.Host
+		fmt.Printf("%v->%v\n", from, to)
+	}
 	return defaultServiceInstance{
 		URL:          URL,
 		Alive:        alive,

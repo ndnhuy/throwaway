@@ -1,14 +1,16 @@
-package load_balance
+package main
 
 import (
 	"fmt"
 	"math/rand"
 	"net/http"
+
+	"github.com/gorilla/mux"
 )
 
 type LoadBalancer interface {
 	// start and return the reverse proxy server that handle incoming requests
-	StartProxyServer() (*http.Server, error)
+	ProxyServer(middleware mux.MiddlewareFunc) (*http.Server, error)
 }
 
 func NewLoadBalancer(port int, targetUrls []string) (LoadBalancer, error) {
@@ -37,15 +39,14 @@ func (lb *simpleLB) handleLB(w http.ResponseWriter, r *http.Request) {
 	lb.services[i].ServeHTTP(w, r)
 }
 
-func (lb *simpleLB) StartProxyServer() (*http.Server, error) {
+func (lb *simpleLB) ProxyServer(middleware mux.MiddlewareFunc) (*http.Server, error) {
+	r := mux.NewRouter()
+	r.PathPrefix("/").HandlerFunc(http.HandlerFunc(lb.handleLB))
+	r.Use(middleware)
 	srv := &http.Server{
 		Addr:    fmt.Sprintf(":%v", lb.port),
-		Handler: http.HandlerFunc(lb.handleLB),
+		Handler: r,
 	}
-	go func() {
-		srv.ListenAndServe()
-		srv.Close()
-	}()
 
 	return srv, nil
 }
