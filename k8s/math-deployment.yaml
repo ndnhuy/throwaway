@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: math
+  labels:
+    app: math
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: math
+  template:
+    metadata:
+      labels:
+        app: math
+    spec:
+      containers:
+      - name: math
+        image: math:latest
+        resources:
+          limits:
+            memory: "6Mi"
+            cpu: "10m"
+        ports:
+        - containerPort: 8989

@@ -1,5 +1,0 @@
-services:
-  - http://math1:8989
-  - http://math2:8989
-  - http://math3:8989
-  - http://math4:8989
