@@ -1,0 +1,81 @@
+
+Command 
+Generate SSL certificatekeytool -genkeypair -alias tomcat -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore keystore.p12 -validity 3650 -storepass password 
+Verifykeytool -list -v -storetype pkcs12 -keystore keystore.p12 
+—Swtich java version 
+export JAVA_HOME=`/usr/libexec/java_home -v 17.0.3` 
+—docker command 
+// build and run containerdocker compose --profile db up -d 
+docker compose --profile service up -d 
+docker compose --profile discovery up -d 
+
+// force re-create
+docker compose --profile service up -d --build --force-recreate
+
+// stop alldocker stop $(docker ps -a -q) 
+// stop containersdocker stop $(docker ps -a -f name=api -f name=auth -f name=user -q) 
+// remove containersdocker rm $(docker ps -a -f name=api -f name=auth -f name=user -q) 
+docker build -t <name> .docker run --net mynet123 --ip 172.18.0.6 --name <name> -p 19900:9900 -p 29251:9251 -d <name> 
+ 
+docker run --net mynet123 --ip 172.18.0.5 --name nacos-quick -e MODE=standalone -p 8848:8848 -p 9848:9848 -d nacos/nacos-server:2.0.2 
+—redis command 
+// sh to docker server
+// docker exec -it <name> sh 
+// list keys 
+redis-cli KEYS * 
+// check expire 
+redis-cli ttl <key> 
+// monitor
+redis-cli MONITOR
+
+— K8s —
+kubectl get po
+kubectl delete pod hello-k8s
+watch kubectl describe po hello-k8s
+
+
+// run a container in a pod
+kubectl run hello-k8s --image=ndnhuy2504/hello-k8s --port=8080
+
+// show log kubelet
+journalctl -xeu kubelet
+
+// ssh to ec2
+cd Documents/sideproject/cicd/k8s
+ 
+// debug cluster
+https://kubernetes.io/docs/tasks/debug/debug-cluster/
+
+// get stats
+kubectl get --raw "/api/v1/nodes/ip-172-31-11-58/proxy/stats/summary"
+
+// setup app on ec2
+* create subnet
+    *  docker network create --subnet=172.18.0.0/24 app
+* mysql
+    *  docker run --name app-mysql --net app --ip 172.18.0.3 -e MYSQL_ROOT_PASSWORD=app123 -p 6603:3306 -d mysql:5.7.38 
+* consul
+    *  docker run --name consul-server --net app --ip 172.18.0.5 -v /app-discovery/consul/server.json:/consul/config/server.json:ro --restart=always -p 8500:8500 -p 8600:8600/tcp -p 8600:8600/udp -d hashicorp/consul:1.13.1 agent
+* redis
+    *  docker run --name app-redis --net app --ip 172.18.0.4 -p 16379:6379 -d redis
+* gateway
+    *  docker run --name app-api-gateway --net app --ip 172.18.0.6 -p 19900:9900 -p 29251:9251 -d ndnhuy2504/app-api-gateway:latest
+    *  docker run --name hello-node --net app --ip 172.18.0.6 -p 19900:9900 -p 29251:9251 -d registry.k8s.io/echoserver:1.4
+    * 
+
+---
+
+----
+
+
+deploy ui to ec2
+1. build image
+    * docker build -t app-ui .   
+    * run image 
+        * docker run --name app-ui -it -p 3000:80 app-ui
+2. push to dockerhub
+    * docker tag app-ui ndnhuy2504/app-ui
+    * docker push ndnhuy2504/app-ui
+
+
+export PATH="$PATH:$(go env GOPATH)/bin"
