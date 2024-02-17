@@ -1,15 +1,15 @@
 version: "3"
 services:
-  server:
-    image: golang:1.21
-    restart: unless-stopped
-    depends_on:
-      - kafka
-    volumes:
-      - .:/app
-      - $GOPATH/pkg/mod:/go/pkg/mod
-    working_dir: /app
-    command: go run main.go
+  # server:
+  #   image: golang:1.21
+  #   restart: unless-stopped
+  #   depends_on:
+  #     - kafka
+  #   volumes:
+  #     - .:/app
+  #     - $GOPATH/pkg/mod:/go/pkg/mod
+  #   working_dir: /app
+  #   command: go run main.go
 
   zookeeper:
     image: confluentinc/cp-zookeeper:7.3.1

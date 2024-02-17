@@ -33,7 +33,7 @@ func main() {
 	}
 	body := bodyFrom(os.Args)
 	msg := &sarama.ProducerMessage{
-		Topic: publishTopic,
+		Topic: consumeTopic,
 		Value: sarama.ByteEncoder(body),
 	}
 	partition, offset, err := producer.SendMessage(msg)

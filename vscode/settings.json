@@ -1,0 +1,68 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.accessibilitySupport": "off",
+  "editor.tabSize": 2,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.minimap.enabled": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.advanced": {},
+  "vim.useSystemClipboard": true,
+  "vim.vimrc.path": "/home/ndnhuy2504/.vimrc",
+  "vim.vimrc.enable": true,
+  "vim.handleKeys": {
+    "<C-f>": false,
+    "<C-w>": false,
+    "<C-o>": true,
+    "<C-i>": true,
+    "<C-r>": true
+  },
+  "vim.normalModeKeyBindings": [
+    {
+      "before": [
+        "g",
+        "i"
+      ],
+      "commands": [
+        "editor.action.goToImplementation"
+      ]
+    },
+    {
+      "before": [
+        "g",
+        "f"
+      ],
+      "commands": [
+        "editor.action.goToReferences"
+      ]
+    }
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vim.useCtrlKeys": false,
+  "zenMode.hideLineNumbers": false,
+  "[dockercompose]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "[java]": {
+    "editor.defaultFormatter": "mwpb.java-prettier-formatter"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "update.mode": "manual",
+  "go.toolsManagement.autoUpdate": true
+}

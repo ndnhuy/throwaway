@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	"strconv"
 	"sync"
 	"time"
 
@@ -58,7 +59,7 @@ func consumeMsg(client sarama.Client, topic string, output chan string) (chan st
 	partitionConsumerWg := &sync.WaitGroup{}
 	closing := make(chan struct{})
 	for _, partition := range partitions {
-		partitionConsumer, err := consumer.ConsumePartition(topic, partition, sarama.OffsetNewest)
+		partitionConsumer, err := consumer.ConsumePartition(topic, partition, sarama.OffsetOldest)
 		if err != nil {
 			e := client.Close()
 			close(closing)
@@ -85,7 +86,7 @@ func consumeMsg(client sarama.Client, topic string, output chan string) (chan st
 						fmt.Println("kafka msg is closed, stopping partition consumer")
 						return
 					}
-					payload := string(kafkaMsg.Value)
+					payload := string(kafkaMsg.Value) + ", partition: " + strconv.Itoa(int(partition))
 					output <- payload
 				case <-closing:
 					fmt.Println("subsriber is closing, stopping partition consumer")
