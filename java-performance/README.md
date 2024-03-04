@@ -1,0 +1,1 @@
+java -XX:+FlightRecorder -XX:StartFlightRecording=duration=5s,filename=flight.jfr -cp . Hello

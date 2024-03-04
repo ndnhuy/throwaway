@@ -10,6 +10,12 @@ spring:
   jpa:
     show-sql: true
 
+logging:
+  level:
+    root: info 
+    org.springframework.web: info
+    org.apache.tomcat.util.net.NioEndpoint: INFO
+
 management:
   security:
     enabled: false
