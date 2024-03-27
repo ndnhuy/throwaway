@@ -1,5 +1,8 @@
 server:
   port: 9191
+  tomcat:
+    threads:
+      max: 1
 
 spring:
   datasource:
@@ -12,7 +15,7 @@ spring:
 
 logging:
   level:
-    root: info 
+    root: info
     org.springframework.web: info
     org.apache.tomcat.util.net.NioEndpoint: INFO
 

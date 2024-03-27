@@ -34,7 +34,6 @@ public class CacheImplTest {
     assertThat(cache.get(k)).isPresent();
     assertThat(cache.get(k).get()).isEqualTo(expectValue);
   }
-
   // @Benchmark
   // @BenchmarkMode(Mode.Throughput)
   // @OutputTimeUnit(TimeUnit.SECONDS)
